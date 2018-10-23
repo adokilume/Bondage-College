@@ -14,7 +14,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 20,0,0,,Hier ist etwas Geld.|(Sidney Geld geben.),"Danke, Trottel!|(Sie nimmt dein Geld und rennt davon.)",90,1,-1,EndLunch()
 20,0,5,,"Bleib locker, Mädchen.|Ich kauf dir was zu essen.","Miss? Im Ernst? Das ist wirklich toll.|Ich wäre soweit, können wir gehen?",30,0,1,
 20,5,0,,"Komm mit, meine Liebe.|Ich kauf dir was zu essen.","Wirklich? Das ist verdammt geil.|Ich wäre soweit, können wir gehen?",30,1,0,
-30,0,0,,Gehen wir!|(Mit Sidney essen.),You walk pretty fast to a restaurant nearby.|Sidney quickly picks a table and seems really hungry.,200,0,0,StartLunch()
+30,0,0,,Gehen wir!|(Mit Sidney essen.),Ihr lauft eilig in ein nahegelegenes Restaurant.|Sidney wählt schnell einen Tisch und wirkt sehr hungrig.,200,0,0,StartLunch()
 100,0,0,,Was ist los?,Ich finde meinen verfickten Geldbeutel|nicht und ich hab einen Scheißhunger!,110,0,0,
 100,0,0,,"Was ist dein|Problem, Mädchen?",Ich werd wahnsinnig! Ich finde meinen|Geldbeutel nicht und ich hab 'nen Mordshunger!,110,0,1,
 100,0,0,,Kann ich dir helfen?,"Nein, kannst du nicht! Ich hab meinen verfickten|Geldbeutel verloren und ich hab 'nen Scheißhunger!",110,0,-1,
@@ -72,7 +72,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 240,0,0,,Chemie.,Toll! Kannst du mir 'ne Bombe basteln?|Und was machst du so nach der Schule?,250,0,0,GoodMatch()
 240,0,0,,Französisch.,Das ist langweilig aber vielleicht nützlich.|Und was machst du so nach der Schule?,250,0,0,
 240,0,0,,Kunst.,So ein sinnloses Fach.|Was machst du so nach der Schule?,250,0,0,BadMatch()
-240,0,0,,Geschichte.,"Ja, Kriegsgeschichte kann spannend sein.|And what do you do outside of school?",250,0,0,GoodMatch()
+240,0,0,,Geschichte.,"Ja, Kriegsgeschichte kann spannend sein.|Und was machst du so nach der Schule?",250,0,0,GoodMatch()
 240,0,0,,Theater.,So ein sinnloses Fach.|Was machst du so nach der Schule?,250,0,0,
 240,0,0,,Keine Ahnung.,Ja... Scheiß auf die ganzen Fächer.|Was machst du so nach der Schule?,250,0,0,GoodMatch()
 250,0,0,,Basketball.,"Es gibt bestimmt schlechtere Hobbys. (Eine|Kellnerin kommt, um eure Bestellung aufzunehmen.)",260,0,0,
@@ -101,7 +101,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 270,0,0,,(Schweigen und|aufs Essen warten.),Beeilung! (Ihr esst beide auf.|Sie rülpst ein paar Mal und sieht zufrieden aus.),280,0,-1,EatMeal()
 280,0,0,,Hat's geschmeckt?,Jep! Mit Fleisch kann man nix falsch machen.|Müssen wir schon zum College zurück?,290,0,0,CheckForSmoke()
 280,0,0,,Bist du satt?,Jep! Mit Fleisch kann man nix falsch machen.|Müssen wir schon zum College zurück?,290,0,0,CheckForSmoke()
-290,0,0,AllowSmoke,"Klar, rauchen wir.|(Mit ihr rauchen.)",(You both walk to a secluded corner and|she lights up what looks like a joint.),300,0,0,
+290,0,0,AllowSmoke,"Klar, rauchen wir.|(Mit ihr rauchen.)","(Ihr geht in eine abgelegene Ecke und sie|zündet etwas an, das wie ein Joint aussieht.)",300,0,0,
 290,0,0,AllowSmoke,"Sorry, ich rauche nicht.|(Zurück zum College.)",,0,0,0,EndChapter()
 290,0,0,!AllowSmoke,Gehen wir.|(Zurück zum College.),,0,0,0,EndChapter()
 300,0,0,,Kann ich auch mal?|(Mit ihr rauchen.),Klar! (Sie pafft eine große Wolke|und teilt den Joint mit dir.),310,1,0,Smoke()
