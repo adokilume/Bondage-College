@@ -192,7 +192,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 530,0,0,,"Ich weiß, wie sich Seile|am Handgelenk anfühlen.",Das ist nicht dasselbe wie Seile an deinem Körper.|(Sie schnürt deinen Oberkörper fest ein.),540,-1,0,PlayerRope()
 540,0,0,,Es fühlt sich immer|noch wie Seil an.,"Du verlässt dich zu sehr auf deine Augen,|versuch's hiermit. (Sie verbindet deine Augen.)",550,0,0,PlayerBlindfold()
 540,0,0,,Das Seil ist|einfach nur kratzig.,"Das ist ein Anfang, aber du spürst es nocht nicht richtig.|(Sie verbindet deine Augen.)",550,0,0,PlayerBlindfold()
-550,0,0,,"Warte, nein, bitte.","(Du spürst einen Finger auf deinen Lippen.)|Pssr, alles ist gut. Wie fühlt es sich jetzt an?",560,0,-1,
+550,0,0,,"Warte, nein, bitte.","(Du spürst einen Finger auf deinen Lippen.)|Psst, alles ist gut. Wie fühlt es sich jetzt an?",560,0,-1,
 550,0,0,,Das war unerwartet.,Du hast zu viel geguckt und konntest nichts sehen.|Wie fühlen sich die Seile jetzt an?,560,0,0,
 550,0,0,,Du kannst mir nicht einfach|die Augen verbinden.,"Hör auf zu meckern und sag mir,|wie sich die Seile jetzt anfühlen.",560,-1,0,
 560,0,0,,Immer noch wie Seil.,Ich geb's auf. Das hier spürst du garantiert.|(Sie führt dir ein vibrierendes Ei ein.),570,-1,0,PlayerEgg()
@@ -229,16 +229,16 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 670,0,0,,@Hh Nhthlnm thhngnhh.,(Jenna kommt und befreit Natalie.|Du fällst auf die Knie und schnappst nach Luft.),680,1,0,
 670,0,0,,"@Bhtte, Nhthlnm,|mhhch eh aufh.",(Jenna kommt und befreit Natalie.|Du fällst auf die Knie und schnappst nach Luft.),680,0,-1,
 670,0,0,,@Fhrry.|(Erröten und wegschauen.),(Jenna kommt und befreit Natalie.|Du fällst auf die Knie und schnappst nach Luft.),680,1,-1,
-680,0,0,,@Ghnn ihh mihh jehht fheilahhen?,"Ja. (Natalie lässt dich frei.)|Also, wie fandest du das?",685,0,0,PlayerRelease()
-680,0,0,,@Bhtte lahht mihh jehht fhei.,"Sollte ich wohl. (Natalie lässt dich frei.)|Also, wie fandest du das?",685,0,-1,PlayerRelease()
-685,0,0,NoRemote,Du hättest fast|darum gebettelt.,"Ja, entschuldige. Du hast meinen Daumen auf der|Fernbedienung ausrutschen lassen. Zeit für die nächste Stunde.",700,1,2,
+680,0,0,,@Ghnn ihh mihh|jehht fheilahhen?,"Ja. (Natalie lässt dich frei.)|Also, wie fandest du das?",685,0,0,PlayerRelease()
+680,0,0,,@Bhtte lahht|mihh jehht fhei.,"Sollte ich wohl. (Natalie lässt dich frei.)|Also, wie fandest du das?",685,0,-1,PlayerRelease()
+685,0,0,NoRemote,Du hättest fast|darum gebettelt.,"Ja, sorry. Du hast meinen Daumen auf der Fernbedie-|nung ausrutschen lassen. Zeit für die nächste Stunde.",700,1,2,
 685,0,0,,Hab schon|Besseres erlebt.,"So wie du gerade zusammengebrochen bist, muss ich|das stark bezweifeln. Zeit für die nächste Stunde.",700,-1,0,
 685,0,0,,"Ich kann nicht glauben,|dass du mir sowas antust.","Tut mir leid, ich dachte es gefällt dir.|Zeit für die nächste Stunde.",700,-1,1,
 685,0,0,,"Ich bin noch immer|am Zittern, Miss.","Wie süß. Komm später wieder, wenn es nachlässt.|Zeit für die nächste Stunde.",700,0,-1,
 685,0,0,,Das war fantastisch.,Fand ich auch.|Zeit für die nächste Stunde.,700,1,0,
 685,0,0,,Nächstes Mal|gehörst du mir.,"Ein nächstes Mal, das höre ich gern.|Zeit für die nächste Stunde.",700,1,1,
 690,0,0,,@Lahht mihh hofoht fhei!,"Ich dachte, es würde dir gefallen.|(Jenna lässt dich frei.)",700,-1,0,PlayerRelease()
-690,0,0,,@Bhtte lahht mihh jehht fhei.,"Okay, das war vielleicht etwas viel fürs erste Mal.|(Jenna lässt dich frei.)",700,0,-1,PlayerRelease()
-690,0,0,,@Nuh nohh ethah länheh bhtte.,"Nein, Clubs sollten dich nicht vom Lernen abhalten.|(Jenna lässt dich frei.)",700,0,0,PlayerRelease()
+690,0,0,,@Bhtte lahht|mihh jehht fhei.,"Okay, das war vielleicht etwas viel fürs erste Mal.|(Jenna lässt dich frei.)",700,0,-1,PlayerRelease()
+690,0,0,,@Nuh nohh ethah|länheh bhtte.,"Nein, Clubs sollten dich nicht vom Lernen abhalten.|(Jenna lässt dich frei.)",700,0,0,PlayerRelease()
 700,0,0,,Auf in den Unterricht.|(Gehen.),,0,0,0,EndChapter()
 700,0,0,,Treffen wir und nach|der Schule. (Gehen.),,0,1,0,EndChapter()
