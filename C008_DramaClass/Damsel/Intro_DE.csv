@@ -38,7 +38,7 @@ Stage,LoveReq,SubReq,VarReq,IntroText,Image
 290,0,0,,,Background.jpg
 300,0,0,!PlayerIsDamsel,Das war ein schönes Stück. Die Jungfrau|zu spielen hat mir Spaß gemacht.,Background.jpg
 300,0,0,IsGagged,(Sie summt vergnügt ein Lied in ihren Knebel.),Background.jpg
-300,0,0,PlayerIsDamsel,(Das Stück ist zuende.),Background.jpg
+300,0,0,PlayerIsDamsel,(Das Stück ist zu Ende.),Background.jpg
 400,0,0,PlayerIsHeroine,Mein Held! Was wünscht Ihr von mir?,Background.jpg
 400,0,0,PlayerIsVillain,"Mein Lord, der schwarze Ritter.|Was wünscht Ihr von mir?",Background.jpg
 400,0,0,Common_PlayerGagged,"Dieser Knebel steht Euch, edler Ritter.",Background.jpg

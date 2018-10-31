@@ -35,7 +35,7 @@ Stage,LoveReq,SubReq,VarReq,IntroText,Image
 280,0,0,!PlayerIsHeroine,(Sie sieht die Jungfrau an.),Background.jpg
 300,0,0,!PlayerIsHeroine,Es war wirklich nett. Hoffentlich|war ich ein guter weißer Ritter.,Background.jpg
 300,0,0,IsGagged,Mnuh gnunmn n muh!,Background.jpg
-300,0,0,PlayerIsHeroine,(Das Stück ist zuende.),Background.jpg
+300,0,0,PlayerIsHeroine,(Das Stück ist zu Ende.),Background.jpg
 400,0,0,PlayerIsVillain,Schwazer Ritter! Du Verbrecher!|Was willst du jetzt?,Background.jpg
 400,0,0,PlayerIsDamsel,Meine geliebte Verlobte.|Was kann ich für dich tun?,Background.jpg
 400,0,0,Common_PlayerGagged,(Sie sieht auf deinen Knebel und kichert.),Background.jpg

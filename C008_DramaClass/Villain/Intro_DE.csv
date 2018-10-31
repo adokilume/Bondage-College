@@ -34,7 +34,7 @@ Stage,LoveReq,SubReq,VarReq,IntroText,Image
 290,0,0,,,Background.jpg
 300,0,0,!PlayerIsVillain,"Das war ein tolles Stück. Ich hätte nie|gedacht, dass ich den Bösewicht spielen kann.",Background.jpg
 300,0,0,IsGagged,"(Sie versucht ihren Knebel loszuwerden,|gibt aber schnell auf.)",Background.jpg
-300,0,0,PlayerIsVillain,(Das Stück ist zuende.),Background.jpg
+300,0,0,PlayerIsVillain,(Das Stück ist zu Ende.),Background.jpg
 400,0,0,PlayerIsHeroine,"Was wollt Ihr, weißer Ritter?",Background.jpg
 400,0,0,PlayerIsDamsel,Oh wunderschöne Maid.|Wie kann ich behilflich sein?,Background.jpg
 400,0,0,Common_PlayerGagged,(Sie sieht auf deinen Knebel und kichert.),Background.jpg
