@@ -572,7 +572,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 3930,0,0,,Bitte nicht hauen. Ich werde|ein braves Mädchen sein.,"Natürlich wirst du das, aber jetzt bückst du|dich erstmal mit Blick zu deinem Tisch.",3931,0,0,
 3930,0,0,,Bitte tu mir nicht|zu sehr weh.,"Dir wird nichts passieren, keine Angst.|Bück dich mit Blick zu deinem Tisch.",3931,0,-1,
 3930,0,0,,"Vergiss es, Amanda.","Trotze mir nicht, meine Kleine.|Bück dich mit Blick zu deinem Tisch.",3931,0,1,
-3930,0,0,,(Nod slowly.),"Dir wird nichts passieren, keine Angst.|Bück dich mit Blick zu deinem Tisch.",3931,0,0,
+3930,0,0,,(Langsam nicken.),"Dir wird nichts passieren, keine Angst.|Bück dich mit Blick zu deinem Tisch.",3931,0,0,
 3930,0,0,Common_ActorIsLover,"Ja, Schatz.","Dir passiert nichts, Liebling.|Bück dich mit Blick zu deinem Tisch.",3931,1,0,
 3931,0,0,,(Schweigen und dich|am Tisch bücken.),,3932,0,0,AmandaSpankPlayer()
 3931,0,0,,Scheiß doch drauf!|(Dich am Tisch bücken.),,3932,-1,0,AmandaSpankPlayer()
