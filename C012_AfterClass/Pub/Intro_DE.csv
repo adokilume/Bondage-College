@@ -1,36 +1,36 @@
 Stage,LoveReq,SubReq,VarReq,IntroText,Image
-0,0,0,EmptyPub,The pub is pretty empty at this hour.|Nobody from the college is around.,Pub.jpg
-0,0,0,!EmptyPub,Students gather at the pub after school.|Who would you like to meet?,Pub.jpg
-100,0,0,,There you are!  I'm still stuck in|this fucking belt because of you.,PubActor.jpg
-100,-8,0,,Fuck you COMMON_PLAYERNAME!|Unlock that belt now!,PubActor.jpg
-100,0,8,,Oh!  Miss COMMON_PLAYERNAME!|Can you please unlock the belt now?,PubActor.jpg
+0,0,0,EmptyPub,Der Pub ist um diese Zeit ziemlich leer.|Aus dem College ist niemand hier.,Pub.jpg
+0,0,0,!EmptyPub,Nach Schulschluss sammeln sich einige Schüler|im Pub. Wen möchtest du ansprechen?,Pub.jpg
+100,0,0,,Da bist du! Wegen dir stecke ich immer|noch in diesem Scheißgürtel fest.,PubActor.jpg
+100,-8,0,,"Fick dich, COMMON_PLAYERNAME!|Schließ sofort diesen Gürtel auf!",PubActor.jpg
+100,0,8,,Oh! Miss COMMON_PLAYERNAME!|Könnten Sie jetzt bitte meinen Gürtel aufschließen?,PubActor.jpg
 101,0,0,,,PubActor.jpg
 102,0,0,,,PubActor.jpg
-110,0,0,,There you are!  I'm still stuck in|this fucking egg because of you.,PubActor.jpg
-110,-8,0,,Fuck you COMMON_PLAYERNAME!|Remove the egg now!,PubActor.jpg
-110,0,8,,Oh!  Miss COMMON_PLAYERNAME!|Can you please remove the egg now?,PubActor.jpg
+110,0,0,,Da bist du! Wegen dir steckt immer noch|dieses beschissene Ei in mir fest.,PubActor.jpg
+110,-8,0,,"Fick dich, COMMON_PLAYERNAME!|Nimm sofort dieses Ei raus!",PubActor.jpg
+110,0,8,,Oh! Miss COMMON_PLAYERNAME!|Könnten Sie jetzt bitte das Ei herausnehmen?,PubActor.jpg
 111,0,0,,,PubActor.jpg
 112,0,0,,,PubActor.jpg
-120,0,0,,"Hey girl!  If you want to sit here,|you need to bring me a beer.",PubActor.jpg
-120,8,0,,"Hey cutie!  If you want to sit here,|you need to bring me a beer.",PubActor.jpg
-120,-8,0,,"Hey fuck face!  If you want to sit|here, you need to bring me a beer.",PubActor.jpg
+120,0,0,,"Hey, Mädel! Wenn du hier sitzen|willst, bring mir ein Bier.",PubActor.jpg
+120,8,0,,"Hey, Süße! Wenn du hier sitzen|willst, bring mir ein Bier.",PubActor.jpg
+120,-8,0,,"Hey, Arschgesicht! Wenn du hier sitzen|willst, bring mir ein Bier.",PubActor.jpg
 121,0,0,,,PubActor.jpg
 122,0,0,,,PubActor.jpg
-130,0,0,,Hello Miss COMMON_PLAYERNAME.|What brings you to the pub?,PubActor.jpg
+130,0,0,,"Hallo, Miss COMMON_PLAYERNAME.|Was führt Sie hierher?",PubActor.jpg
 131,0,0,,,PubActor.jpg
 132,0,0,,,PubActor.jpg
-140,0,0,,Fuck!  Why are you talking to me?,PubActor.jpg
+140,0,0,,Scheiße! Wieso redest du mit mir?,PubActor.jpg
 141,0,0,,,PubActor.jpg
 142,0,0,,,PubActor.jpg
-150,0,0,,It's great to see you!|Have a beer with me.,PubActor.jpg
+150,0,0,,"Toll, dich zu sehen!|Trinken wir zusammen ein Bier.",PubActor.jpg
 151,0,0,,,PubActor.jpg
 152,0,0,,,PubActor.jpg
-160,0,0,,I can't believe you took|over the literature class.,PubActor.jpg
+160,0,0,,"Ich kann nicht glauben, dass du die Kontrolle|über die Literaturstunde übernommen hast.",PubActor.jpg
 161,0,0,,,PubActor.jpg
 162,0,0,,,PubActor.jpg
-170,0,0,,I still can't believe you stripped me and|tied me up outside.  I should kick your ass.,PubActor.jpg
-180,0,0,,Hey there detention-mate.|Are you still causing trouble?,PubActor.jpg
-190,0,0,,Oh!  It's you.  What do you want?,PubActor.jpg
+170,0,0,,"Ich fasse immer noch nicht, dass du mich draußen|nackt gefesselt hast. Ich sollte dir in den Arsch treten.",PubActor.jpg
+180,0,0,,"Hey, Nachsitz-Kumpel.|Machst du immer noch Schwierigkeiten?",PubActor.jpg
+190,0,0,,Oh! Du bist's. Was willst du?,PubActor.jpg
 191,0,0,,,PubActor.jpg
 192,0,0,,,PubActor.jpg
 200,0,0,,,PubActor.jpg
