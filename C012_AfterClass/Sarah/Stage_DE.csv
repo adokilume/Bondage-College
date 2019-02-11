@@ -1,32 +1,32 @@
 Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
-0,0,0,,Wir müssen reden.,What would you like to talk about?,0,0,0,TestTalk()
+0,0,0,,Wir müssen reden.,Worüber möchtest du denn reden?,0,0,0,TestTalk()
 0,0,5,!Common_ActorIsOwned,You're into BDSM but|you're not owned?,"I'm not, I'm a free and a happy subbie.|(You need +20 submission to collar Sarah.)",0,0,0,TestDomme()
 0,0,-10,!BondageClubInvitationBySarah,Miss Sarah.|I admire you.,I think I know what you need girl.,0,0,0,TestSub()
 0,0,0,BondageClubInvitationBySarah,Are we going to the|Bondage Club now?,"(She checks the time.)  No, it's too early.|Let's do something else before we go.",0,0,0,TestBondageClub()
 0,0,0,Common_PlayerGagged,@Om nnnuoogn mh!,You're so cute with that gag.|Can I also have a gag?,0,0,0,TestUnbind()
 0,0,0,Common_PlayerRestrained,(Mit deinen|Fesseln ringen.),You're adorable when you struggle.|I also love to be restrained.,0,0,0,TestUnbind()
-0,0,0,,Du solltest etwas|anderes anziehen.,I prefer to stay like that.,0,0,0,TestChange()
+0,0,0,,Du solltest etwas|anderes anziehen.,Ich bleibe lieber so.,0,0,0,TestChange()
 0,0,0,SexAvail,Möchtest du mit|mir Liebe machen?,"No, I'm not in the mood for sex.|Let's do something else ok?",0,0,0,TestSex()
 0,0,0,PleasurePlayerAvail,"Meine Sklavin, du wirst|mich jetzt befriedigen.",You need a quickie Mistress?|(She looks at you and smiles.),630,0,0,TestPleasurePlayer()
-0,0,0,!Common_PlayerRestrained,(Mit ihr spielen.),(You take a step toward her.),10,0,0,
-10,5,0,!Common_PlayerGagged,(Sie küssen.),(You get close to her and kiss her|on the lips while she moans silently.),10,0,0,Kiss()
+0,0,0,!Common_PlayerRestrained,(Mit ihr spielen.),(Du gehst einen Schritt auf sie zu.),10,0,0,
+10,5,0,!Common_PlayerGagged,(Sie küssen.),"(Du lehnst dich zu ihr und gibst ihr einen Kuss|auf die Lippen, während sie leise stöhnt.)",10,0,0,Kiss()
 10,1,0,!Common_PlayerRestrained,(Sie kitzeln.),"(You tickle her on the chest while she|laughs a little, she's not enjoying it that much.)",10,0,0,Tickle()
 10,0,5,!Common_PlayerRestrained,(Ihr auf den|Hintern hauen.),(You spank her hard on the butt while she|whimpers from the pain and moans lovingly.),10,0,0,Spank()
-10,0,0,CanMasturbate,(Sie befriedigen.),"(You get closer to masturbate|her, but she pushes you away.)",10,0,0,StartMasturbate()
+10,0,0,CanMasturbate,(Sie befriedigen.),"(Du lehnst dich zu ihr, um sie zu befriedigen,|aber sie drängt dich von sich weg.)",10,0,0,StartMasturbate()
 10,0,0,IsGagged,(Sie entknebeln.),(You slowly remove her gag.)|This gag was pretty effective.,10,0,0,Ungag()
-10,0,0,IsRoped,(Sie losbinden.),(You undo the knots and remove the|ropes while she stretches happily.),10,0,0,Untie()
-10,0,0,IsStrapped,(Sie losschnallen.),(You remove the straps and|unlace the binder from her arms.),10,0,0,Untie()
-10,0,0,,(Aufhören.),(You take a step back.),0,0,0,
-20,0,0,Common_ActorIsOwned,Gehen wir mal|deine Regeln durch.,Oh my god.  Yes Mistress.,610,0,0,
+10,0,0,IsRoped,(Sie losbinden.),"(Du löst die Knoten und entfernst das Seil,|während sie sich glücklich streckt.)",10,0,0,Untie()
+10,0,0,IsStrapped,(Sie losschnallen.),(Du löst die Riemen und entfernst|den Handschuh von ihren Armen.),10,0,0,Untie()
+10,0,0,,(Aufhören.),(Du trittst einen Schritt zurück.),0,0,0,
+20,0,0,Common_ActorIsOwned,Gehen wir mal|deine Regeln durch.,"Oh mein Gott. Ja, Herrin.",610,0,0,
 20,0,0,ChatAvail,Ich wüsste gern|mehr über dich.,Cool!  What do you want to know?,500,0,0,StartChat()
 20,0,0,DateAmandaAvail,Is there something|going on with Amanda?,"I'm not sure actually.  She gave me a|few hints, but I don't think she's serious.",160,0,0,
 20,0,0,DatingAmanda,Would you like to use|my bed with Amanda?,"(She smiles.)  Of course I would!|But ask her first, she's the shy one.",20,0,0,
 20,0,0,AmandaHeartBroken,Will Amanda be ok?,Poor Amy.  I guess she will be fine.|I'll speak with her when I get home.,20,0,0,
 20,0,0,HasPigPicture,Here's the pig picture.|(Share a Sidney picture.),"This is PERFECT!  She will stop pestering me.|Thank you, what else could we do for fun?",0,2,0,PigPictureDone()
-20,0,0,Common_PlayerChaste,Kannst du mir bitte mit|diesem Gürtel helfen?,I cannot help you.|I don't have the key.,0,0,0,
+20,0,0,Common_PlayerChaste,Kannst du mir bitte mit|diesem Gürtel helfen?,Ich kann dir nicht helfen.|Ich habe keinen Schlüssel.,0,0,0,
 20,0,0,Common_ActorIsLover,Was unsere|Beziehung angeht...,Yes my sexy lover?|(She seems nervous.),190,0,0,
-20,0,0,,"Es wird Zeit, dass du|mein Zimmer verlässt.",You're expelling me from your dorm?,790,-1,1,
-20,0,0,,Vergiss es.,Very well.  What would you like to do?,0,0,0,
+20,0,0,,"Es wird Zeit, dass du|mein Zimmer verlässt.",Du wirfst mich aus deinem Zimmer?,790,-1,1,
+20,0,0,,Vergiss es.,Also gut. Was möchtest du machen?,0,0,0,
 30,0,0,,Yes!  Let's go!|(Go to the club.),,30,0,0,EnterBondageClub()
 30,0,0,,"Not yet, let me|pack my stuff.","Ok, but be quick, we might|get punished if we're late.",0,0,0,
 100,0,0,,(Ins Bett gehen.),,0,0,0,MakeLove()
@@ -110,7 +110,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 220,0,0,,Someday you will|make an owner happy.,Thanks Miss.  I sure hope you're right.|What could we do now to have fun?,0,0,0,EndEnslaveSarah()
 230,0,0,,How does it feel to be|naked in front of me?,"It's fine Miss, if you want to|see me naked, I will stay naked.",240,0,0,
 230,0,0,,You're willing to give|your naked body?,"Yes, I am.  Being naked and|giving my body is fine Miss.",240,0,0,
-240,0,0,,Get on your knees.,(She takes a deep breath and|slowly gets on her knees.),250,0,0,"ActorSetPose(""Kneel"")"
+240,0,0,,Geh auf die Knie.,(She takes a deep breath and|slowly gets on her knees.),250,0,0,"ActorSetPose(""Kneel"")"
 240,0,0,,Kneel bitch.,(She takes a deep breath and|slowly gets on her knees.),250,0,0,"ActorSetPose(""Kneel"")"
 240,0,0,,Maybe someday|I will collar you.,(She seems nervous and excited.)  Yes Miss.|So what could we do now to have fun?,0,0,0,EndEnslaveSarah()
 250,0,0,,You crave to please?,(She nods slowly.)  I do.,251,0,0,
@@ -118,9 +118,9 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 252,0,0,,You need this collar?|(Show her a collar.),(She stares at the collar for a few seconds|and nods.)  More than anything Miss.,253,0,0,
 253,0,0,,Beg for it.,"Miss, can I be your slave|and wear your collar?",254,0,0,
 254,0,0,,That's the best|you can do?,"Miss, I would be honored to serve you as|your devoted slave and wear your collar.",260,0,0,
-260,0,0,,Give me your neck.|(Collar Sarah.),(You carefully circle the collar around|her neck and lock it snug with a padlock.),270,0,3,LockCollarSarah()
-260,0,0,,You're mine.|(Collar Sarah.),(You carefully circle the collar around|her neck and lock it snug with a padlock.),270,0,4,LockCollarSarah()
-260,0,0,,Good girl.|(Collar Sarah.),(You carefully circle the collar around|her neck and lock it snug with a padlock.),270,1,3,LockCollarSarah()
+260,0,0,,Give me your neck.|(Collar Sarah.),(Du legst vorsichtig das Halsband um ihren Hals|und befestigst es mit einem Vorhängeschloss.),270,0,3,LockCollarSarah()
+260,0,0,,You're mine.|(Collar Sarah.),(Du legst vorsichtig das Halsband um ihren Hals|und befestigst es mit einem Vorhängeschloss.),270,0,4,LockCollarSarah()
+260,0,0,,Good girl.|(Collar Sarah.),(Du legst vorsichtig das Halsband um ihren Hals|und befestigst es mit einem Vorhängeschloss.),270,1,3,LockCollarSarah()
 260,0,0,,I will collar you someday.|(Don't collar her.),"I really hope so, but there's no rush.|What could we do now to have fun?",0,0,0,EndEnslaveSarah()
 260,0,0,,Du bist nicht würdig.|(Kein Halsband anlegen.),Someday I'll prove you that I'm worthy.|What could we do now to have fun?,0,0,0,EndEnslaveSarah()
 260,0,0,,Ich kann das nicht tun.|(Kein Halsband anlegen.),"You seem uncertain Miss, it's fine.|What could we do now to have fun?",0,0,0,EndEnslaveSarah()
@@ -164,19 +164,19 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 400,0,0,BondageClubInvitationBySarah,(Nod yes slowly.)|(Go to the club.),(The Bondage Club will be available|in another version of the game.),400,0,0,
 400,0,0,BondageClubInvitationBySarah,Yes!  Let's go!|(Go to the club.),(The Bondage Club will be available|in another version of the game.),400,0,0,
 400,0,0,Common_PlayerGagged,@UNGN MH NUUOGH!,(She giggles and leaves your dorm.),410,0,0,
-400,0,0,Common_PlayerRestrained,Can you help me|before you go?,I'm sure you will find help.|(She leaves your dorm.),410,0,0,
-400,0,0,!Common_ActorIsOwned,Have fun Sarah!,I will.  (She leaves your dorm.),410,0,0,
-400,0,0,Common_ActorIsOwned,Have fun my slave!,"I will Mistress, thanks!|(She leaves your dorm.)",410,0,1,
-400,0,0,!Common_ActorIsOwned,That sucks!|Don't go.,I'll be back really soon.|(She leaves your dorm.),410,-1,0,
-400,0,0,!Common_ActorIsOwner,Have a great|time Sarah.,Hell yeah!  (She leaves your dorm.),410,1,0,
-400,0,0,!Common_ActorIsOwned,Wait!,"Sorry, I cannot wait.|(She leaves your dorm.)",410,0,0,
-400,0,0,!Common_ActorIsOwner,"Next time I'll tie|you up, so you'll stay.",(She giggles.)  It might work.|(She leaves your dorm.),410,0,1,
+400,0,0,Common_PlayerRestrained,"Kannst du mir helfen,|bevor du gehst?",I'm sure you will find help.|(She leaves your dorm.),410,0,0,
+400,0,0,!Common_ActorIsOwned,Have fun Sarah!,Werd ich haben. (Sie verlässt dein Zimmer.),410,0,0,
+400,0,0,Common_ActorIsOwned,"Viel Spaß, meine Sklavin!","Den werde ich haben, Herrin, danke!|(Sie verlässt dein Zimmer.)",410,0,1,
+400,0,0,!Common_ActorIsOwned,Das ist so lahm!|Bleib doch hier.,I'll be back really soon.|(She leaves your dorm.),410,-1,0,
+400,0,0,!Common_ActorIsOwner,Have a great|time Sarah.,Auf jeden! (Sie verlässt dein Zimmer.),410,1,0,
+400,0,0,!Common_ActorIsOwned,Warte!,"Sorry, I cannot wait.|(She leaves your dorm.)",410,0,0,
+400,0,0,!Common_ActorIsOwner,"Das nächste Mal fessel|ich dich, damit du bleibst.",(She giggles.)  It might work.|(She leaves your dorm.),410,0,1,
 400,0,0,,(Den Kopf senken.),(She smiles and leaves your dorm.),410,0,-1,
-400,0,0,Common_ActorIsOwned,"My slave, you will|stay here tonight.","(She pouts.)  But, but, but, but!|I have plans for the night.",401,0,0,
-401,0,0,,"No, you will stay.|(Make her stay.)","(She sighs loudly and pouts.)|Alright Mistress, I will stay.",402,-1,-1,"SetCurfew(""Stay"")"
-401,0,0,,"Fine, have fun.|(Let her go.)",Oh yes!  Thank you Mistress!|(She leaves your dorm room.),410,0,0,
-402,0,0,,(Back to your room.),,402,0,0,BackToDorm()
-410,0,0,,(Back to your room.),,410,0,0,BackToDorm()
+400,0,0,Common_ActorIsOwned,"Sklavin, du wirst heute|Abend hier bleiben.","(She pouts.)  But, but, but, but!|I have plans for the night.",401,0,0,
+401,0,0,,"Nein, du bleibst hier.|(Sie festhalten.)","(She sighs loudly and pouts.)|Alright Mistress, I will stay.",402,-1,-1,"SetCurfew(""Stay"")"
+401,0,0,,"Na gut, viel Spaß.|(Sie gehen lassen.)",Oh yes!  Thank you Mistress!|(She leaves your dorm room.),410,0,0,
+402,0,0,,(Zurück zum Zimmer.),,402,0,0,BackToDorm()
+410,0,0,,(Zurück zum Zimmer.),,410,0,0,BackToDorm()
 500,0,0,,What do you do|outside of school?,Mostly parties.  At friend|places or at my own place.,510,0,0,
 500,0,0,,"You're a party|girl, aren't you?",Yep!  There's always a party to go|or friends to invite at my place.,510,1,0,
 500,0,0,,Do you have|lots of friends?,I sure do.  I love to invite friends|over at my place to do parties.,510,0,0,
@@ -207,7 +207,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 600,0,0,AllowDamsel,Wear your damsel|gown from the play.,Good idea!  I love costumes.|I'm sure Julia won't mind.,0,0,0,"ForceChangeActor(""Damsel"")"
 600,0,0,!HasBelt,Lass deine|Unterwäsche sehen.,It might be the first step to a kinky scenario.|(She giggles and changes to her underwear.),0,0,0,"ForceChangeActor(""Underwear"")"
 600,0,0,,Zieh dich aus.,Alright!  Are we going to have sex?|(She slowly strips naked for you.),0,0,0,"ForceChangeActor(""Naked"")"
-600,0,0,,Vergiss es.,(She nods.),0,0,0,
+600,0,0,,Vergiss es.,(Sie nickt.),0,0,0,
 610,0,0,,Du darfst dir heute einen|schönen Abend machen.,Cool!  It will be a wild evening.,0,0,0,"SetCurfew(""None"")"
 610,0,0,,"Genieße deinen Abend,|aber du schläfst hier.",Ok!  I will sleep here with you then.|I might come back pretty late though.,0,0,0,"SetCurfew(""24"")"
 610,0,0,,You must come back|at twenty-two girl.,"At twenty-two?  It's too early Mistress.|Fine, I will be back.  (She sighs and pouts.)",0,0,0,"SetCurfew(""22"")"
@@ -226,8 +226,8 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 632,0,0,,Shut up and|get to work.,"(She sighs, kneels and starts to lick you.)",633,0,0,StartPleasurePlayer(false)
 633,0,0,,(Dich befriedigen lassen.),(You let Sarah pleasure you with her|mouth and slowly drift away in ecstasy.),633,0,0,PleasurePlayer()
 633,0,0,,Das reicht!|(Alles abbrechen.),(You push her back and stop everything.)|We stop already?  Did you cum Mistress?,635,0,0,StopPleasureFromSarah()
-633,0,0,,"(Sie zwingen,|schneller zu werden.)",(You grab her hair and force|her to speed up the rhythm.),633,0,0,PleasurePlayerSetSpeed(1)
-633,0,0,,"(Sie zwingen,|langsamer zu werden.)",(You push her head and force|her to slow down the rhythm.),633,0,0,PleasurePlayerSetSpeed(-1)
+633,0,0,,"(Sie zwingen,|schneller zu werden.)","(Du packst sie am Haar und zwingst sie,|ihren Rhythmus zu beschleunigen.)",633,0,0,PleasurePlayerSetSpeed(1)
+633,0,0,,"(Sie zwingen,|langsamer zu werden.)","(Du hältst ihren Kopf fest und zwingst sie,|ihren Rhythmus zu verlangsamen.)",633,0,0,PleasurePlayerSetSpeed(-1)
 634,0,0,,"Aaaaah! Aufhören, Sklavin!|(Alles abbrechen.)",(You push her back and stop everything.)|You're delicious Mistress.  I hope you liked it.,635,0,0,StopPleasureFromSarah()
 634,0,0,,Das reicht!|(Alles abbrechen.),(You push her back and stop everything.)|You're delicious Mistress.  I hope you liked it.,635,0,0,StopPleasureFromSarah()
 635,0,0,,Es war wundervoll.|Ich zittere noch immer.,Pro tongue!  (She pulls out her tongue.)|What could we do to have fun now?,0,0,0,"EndPleasureFromSarah(2, -1)"
@@ -236,26 +236,26 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 635,0,0,,"Wenn wir das jeden Tag|üben, wird das schon.",Oh yes!  We will practice everyday.|What could we do to have fun now?,0,0,0,"EndPleasureFromSarah(0, 1)"
 635,0,0,,Ich hab schon|Besseres erlebt.,It wasn't good?  You can punish me then.|What could we do to have fun now?,0,0,0,"EndPleasureFromSarah(-1, 0)"
 635,0,0,,Du brauchst etwas|Oral-Training.,"Oh my, please train me Mistress.|What could we do to have fun now?",0,0,0,"EndPleasureFromSarah(-1, 1)"
-640,0,0,!Common_PlayerGagged,(Sie küssen.),(You kiss her lovingly while she|closes her eyes and moans slowly.),640,0,0,"Masturbate(1, false)"
-640,0,0,,(Ihre Brust massieren.),(She closes her eyes and shivers while|you cup and slowly massage her breast.),640,0,0,"Masturbate(1, false)"
-640,0,0,,(Ihren Nippel kneifen.),(She jumps from the pain and whimpers.|She shakes her head from left to right.),640,0,0,"Masturbate(-1, false)"
-640,0,0,,(Ihr auf den Hintern|klatschen.),(You slap her butt a few times while|she whimpers and tries to avoid you.),640,0,0,"Masturbate(-1, false)"
-640,0,0,,(Ihre Klitoris|streicheln.),(She trembles without much control|while you play with her soft clitoris.),640,0,0,"Masturbate(2, true)"
-640,0,0,,(Mit ihrer Vagina spielen.),(She moans and breathes faster.|Slowly losing control of herself.),640,0,0,"Masturbate(2, true)"
-640,0,0,,(Einen Finger rein|und raus bewegen.),(She moans and trembles from your touch.),640,0,0,"Masturbate(1, true)"
-640,0,0,!Common_PlayerGagged,(Sie naschen.),(You eat her lovingly while she|moans slowly and seems to enjoy.),640,0,0,"Masturbate(1, true)"
-640,0,0,,(Sie fisten.),(You try to fit a full hand but cannot|make it and only end up hurting her.),640,0,0,"Masturbate(-1, true)"
-640,0,0,,(Alles abbrechen.),(You stop everything and let her go.),0,0,0,EndEnslaveSarah()
-641,0,0,,(Orgasmus herbeiführen.),"(You continue to masturbate her, and she|quickly collapses on a wonderful orgasm.)",642,0,0,SarahOrgasm()
-641,0,0,Common_ActorIsOwned,"Du verdienst es, Sklavin.|(Orgasmus herbeiführen.)","(You continue to masturbate her, and she|quickly collapses on a wonderful orgasm.)",642,0,0,SarahOrgasm()
-641,0,0,,(Alles abbrechen.),(You stop everything and let her go.|She sighs and seems embarrassed.),0,0,0,SarahDeniedOrgasm()
-641,0,0,Common_ActorIsOwned,"Du verdienst es nicht,|Sklavin. (Alles abbrechen.)",(You stop everything and let her go.|She sighs and seems embarrassed.),0,0,0,SarahDeniedOrgasm()
-642,0,0,Common_ActorIsLover,I love you Sarah.,(She blushes and takes her|breath while slowly standing up.),0,1,0,EndEnslaveSarah()
-642,0,0,,Du bist so eine Nutte.,(She frowns and takes her|breath while slowly standing up.),0,-1,1,EndEnslaveSarah()
-642,0,0,,Hoffentlich|hat's dir gefallen.,(She nods and takes her|breath while slowly standing up.),0,0,0,EndEnslaveSarah()
-642,0,0,,"Ich bestimme, wann|du kommst, Mädchen.",(She nods and takes her|breath while slowly standing up.),0,0,1,EndEnslaveSarah()
-642,0,0,,(Sie umarmen.),(You give her a warm hug|and help her to recover.),0,1,-1,EndEnslaveSarah()
-642,0,0,,(Ihr beim|Erholen helfen.),(You help her to recover.),0,0,-1,EndEnslaveSarah()
+640,0,0,!Common_PlayerGagged,(Sie küssen.),"(Du küsst sie liebevoll, während sie|die Augen schließt und langsam stöhnt.)",640,0,0,"Masturbate(1, false)"
+640,0,0,,(Ihre Brust massieren.),"(Sie schließt die Augen und schaudert, während|du ihre Brust greifst und langsam massierst.)",640,0,0,"Masturbate(1, false)"
+640,0,0,,(Ihren Nippel kneifen.),(Sie zuckt vor Schmerz zusammen und wimmert.|Sie schüttelt vehement den Kopf.),640,0,0,"Masturbate(-1, false)"
+640,0,0,,(Ihr auf den Hintern|klatschen.),"(Du gibst ihr ein paar Mal einen Klaps auf den Hintern,|während sie wimmert und versucht, dir auszuweichen.)",640,0,0,"Masturbate(-1, false)"
+640,0,0,,(Ihre Klitoris|streicheln.),"(Sie zittert recht unbeholfen, während|du mit ihrer weichen Klitoris spielst.)",640,0,0,"Masturbate(2, true)"
+640,0,0,,(Mit ihrer Vagina spielen.),"(Sie stöhnt und ihr Atem wird schneller, als|sie langsam die Kontrolle über sich verliert.)",640,0,0,"Masturbate(2, true)"
+640,0,0,,(Einen Finger rein|und raus bewegen.),(Sie stöhnt und zittert bei deiner Berührung.),640,0,0,"Masturbate(1, true)"
+640,0,0,!Common_PlayerGagged,(Sie naschen.),"(Du leckst sie liebevoll, während sie|langsam stöhnt. Es scheint ihr zu gefallen.)",640,0,0,"Masturbate(1, true)"
+640,0,0,,(Sie fisten.),"(Du versuchst deine ganze Hand hineinzustecken,|schaffst es aber nicht und tust ihr dabei aber nur weh.)",640,0,0,"Masturbate(-1, true)"
+640,0,0,,(Alles abbrechen.),(Du brichst alles ab und lässt sie los.),0,0,0,EndEnslaveSarah()
+641,0,0,,(Orgasmus herbeiführen.),(Du befriedigst sie weiter und sie bricht schnell|mit einem wundervollen Orgasmus zusammen.),642,0,0,SarahOrgasm()
+641,0,0,Common_ActorIsOwned,"Du verdienst es, Sklavin.|(Orgasmus herbeiführen.)",(Du befriedigst sie weiter und sie bricht schnell|mit einem wundervollen Orgasmus zusammen.),642,0,0,SarahOrgasm()
+641,0,0,,(Alles abbrechen.),(Du brichst alles ab und lässt sie los.|Sie seufzt und sieht verlegen aus.),0,0,0,SarahDeniedOrgasm()
+641,0,0,Common_ActorIsOwned,"Du verdienst es nicht,|Sklavin. (Alles abbrechen.)",(Du brichst alles ab und lässt sie los.|Sie seufzt und sieht verlegen aus.),0,0,0,SarahDeniedOrgasm()
+642,0,0,Common_ActorIsLover,I love you Sarah.,"(Sie wird rot und atmet durch,|während sie langsam aufsteht.)",0,1,0,EndEnslaveSarah()
+642,0,0,,Du bist so eine Nutte.,"(Sie runzelt die Stirn und atmet durch,|während sie langsam aufsteht.)",0,-1,1,EndEnslaveSarah()
+642,0,0,,Hoffentlich|hat's dir gefallen.,"(Sie nickt und atmet durch,|während sie langsam aufsteht.)",0,0,0,EndEnslaveSarah()
+642,0,0,,"Ich bestimme, wann|du kommst, Mädchen.","(Sie nickt und atmet durch,|während sie langsam aufsteht.)",0,0,1,EndEnslaveSarah()
+642,0,0,,(Sie umarmen.),"(Du gibst ihr eine warme Umarmung|und hilfst ihr, sich zu erholen.)",0,1,-1,EndEnslaveSarah()
+642,0,0,,(Ihr beim|Erholen helfen.),"(Du hilfst ihr, sich zu erholen.)",0,0,-1,EndEnslaveSarah()
 700,0,0,Common_ActorIsOwned,"Ich kann einladen|wen ich will, Sklavin.",(She bows her head.)  Yes Mistress.|What could we do to have fun then?,0,-1,1,EndChat()
 700,0,0,,Sie ist eine gute Freundin.|Streite dich nicht mit ihr.,Sidney is a bully and a pig!|(She frowns.)  Tell her to leave!,701,-2,0,
 700,0,0,,Seid ihr beiden verfeindet?,She's my worst enemy!|Tell her to leave now!,701,-1,0,
@@ -285,7 +285,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 2000,0,0,,You need some|attention my sub?,(She nods and blushes.)  Yes Mistress.|Would you like to play with me?,0,0,0,AllowLeave()
 2000,0,0,,A good submissive|should not ask that.,"I know Mistress, but I|want to please you so much.",0,0,0,AllowLeave()
 2000,0,0,,Are you wet?,I'm always wet for you Mistress.|What could we do to have fun?,0,0,0,AllowLeave()
-2000,0,0,!Common_PlayerRestrained,(Mit ihr spielen.),(You take a step toward her.),10,0,0,AllowLeave()
+2000,0,0,!Common_PlayerRestrained,(Mit ihr spielen.),(Du gehst einen Schritt auf sie zu.),10,0,0,AllowLeave()
 2000,0,0,,Don't bug me slave.,,2000,0,0,BackToDorm()
 2000,0,0,,(Ignore her.),,2000,0,0,BackToDorm()
 2000,0,0,,Never disturb me|like that again.,(She bows her head in|shame and nods slowly.),2999,-1,1,StopEvents()
@@ -294,7 +294,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 2100,0,0,,You want to get out?,"Oh no, I love being restrained.|I simply want to please you Mistress.",0,0,0,AllowLeave()
 2100,0,0,,Struggle for me girl.,(She struggles playfully in her restrains.)|I love to struggle for you Mistress.,0,0,0,AllowLeave()
 2100,0,0,,Are you wet?,I'm always wet for you Mistress.|What could we do to have fun?,0,0,0,AllowLeave()
-2100,0,0,!Common_PlayerRestrained,(Mit ihr spielen.),(You take a step toward her.),10,0,0,AllowLeave()
+2100,0,0,!Common_PlayerRestrained,(Mit ihr spielen.),(Du gehst einen Schritt auf sie zu.),10,0,0,AllowLeave()
 2100,0,0,,Don't bug me slave.,,2100,0,0,BackToDorm()
 2100,0,0,,(Ignore her.),,2100,0,0,BackToDorm()
 2100,0,0,,Never disturb me|like that again.,(She bows her head in|shame and nods slowly.),2999,-1,1,StopEvents()
@@ -303,7 +303,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 2200,0,0,,What?  I don't understand|what you're talking about.,Namgnno am nuui abm mmmhm!|(She mumbles some more and giggles.),0,0,0,AllowLeave()
 2200,0,0,,Sing something for me.,(She hums the song: Like a Virgin|from Madonna in her gag.),0,0,0,AllowLeave()
 2200,0,0,!Common_PlayerRestrained,Stand still my slave.|I'll remove your gag.,(You remove her gag and she smile.)|Thanks Mistress!  What could we do now?,0,0,0,Ungag()
-2200,0,0,!Common_PlayerRestrained,(Mit ihr spielen.),(You take a step toward her.),10,0,0,AllowLeave()
+2200,0,0,!Common_PlayerRestrained,(Mit ihr spielen.),(Du gehst einen Schritt auf sie zu.),10,0,0,AllowLeave()
 2200,0,0,,Don't bug me slave.,,2200,0,0,BackToDorm()
 2200,0,0,,(Ignore her.),,2200,0,0,BackToDorm()
 2200,0,0,,Never disturb me|like that again.,(She bows her head in|shame and nods slowly.),2999,-1,1,StopEvents()

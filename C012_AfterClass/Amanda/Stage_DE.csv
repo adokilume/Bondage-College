@@ -24,7 +24,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 20,0,0,ChatAvail,Ich wüsste gern|mehr über dich.,"In Ordnung, was möchtest|du über mich wissen?",500,0,0,StartChat()
 20,0,0,DateSarahAvail,Läuft da was zwischen|dir und Sarah?,"Ja... Nein... Es wissen wahrscheinlich alle außer ihr.|Ich liebe sie so sehr, aber ich kann es ihr nicht sagen.",120,0,0,
 20,0,0,DatingSarah,Möchtest du mit Sarah|mein Bett benutzen?,"(Sie wird etwas rot.) Nein, danke.|Das machen wir später bei uns.",20,0,0,TestBedSarah()
-20,0,0,CuffsGameAvail,Wie wär's mit einem|Handschellen-Duell?,"Ihr kichert und ringt beide um die Handschellen,|bis du sie ihr schließlich anlegen kannst.",0,0,0,CuffsGame()
+20,0,0,CuffsGameAvail,Wie wär's mit einem|Handschellen-Duell?,"Ihr kichert und ringt beide um die Handschellen,|bis du es schaffst, ihre Hände gefangen zu nehmen.",0,0,0,CuffsGame()
 20,0,0,Common_PlayerChaste,Kannst du mir bitte mit|diesem Gürtel helfen?,Ich kann dir nicht helfen.|Ich habe keinen Schlüssel.,0,0,0,
 20,0,0,Common_ActorIsLover,Was unsere|Beziehung angeht...,"J-... Ja, Liebling?|(Sie wirkt nervös.)",190,0,0,
 20,0,0,,"Es wird Zeit, dass du|mein Zimmer verlässt.",Du wirfst mich aus deinem Zimmer?,790,-1,1,
@@ -55,7 +55,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 112,0,0,,"Geh mit Sarah. Sag ihr,|dass du sie liebst.",Das habe ich schon versucht. Glaub mir.|Aber ich finde nie einen passenden Moment.,121,0,0,
 112,0,0,,Hör auf zu reden und|geh mit Sarah.,"Ich bin schon mit ihr ausgegangen, aber ich kann es|ihr nicht sagen. Es gibt dafür nie den richtigen Moment.",121,0,0,
 112,0,0,,Bleib single.,"Das könnte die beste Idee von allen sein.|Ich bin jung, ich brauche nichts zu überstürzen.",0,0,0,
-120,0,0,,Warum kannst du|es ihr nicht sagen?,Ich habe es schon versucht. Glaub mir.|Aber ich finde nie einen passenden Moment.,121,0,0,
+120,0,0,,Warum kannst du|es ihr nicht sagen?,Das habe ich schon versucht. Glaub mir.|Aber ich finde nie einen passenden Moment.,121,0,0,
 120,0,0,,Sag's ihr!,Das habe ich schon versucht. Glaub mir.|Aber ich finde nie einen passenden Moment.,121,0,0,
 120,0,0,,Vergiss sie.,Ich weiß... Ich kann nicht... Tut mir leid.|Lass uns über etwas anderes reden.,0,0,0,
 121,0,0,!SarahAvail,"Was, wenn ich diesen per-|fekten Moment erzeuge?",Das würdest du für mich tun?|Für uns? Was ist dein Plan?,122,0,0,
@@ -230,7 +230,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 530,0,0,,"Das Spiel heißt:|""Kämpf dich frei"".",Hört sich nach Spaß an.|Und wie spielt man das?,531,0,0,
 530,0,0,,"Das Spiel heißt: ""In|Handschellen gefangen"".",Hört sich nach Spaß an.|Und wie spielt man das?,531,0,1,
 530,0,0,,"Das Spiel heißt:|""Nimm mich fest"".",Hört sich nach Spaß an.|Und wie spielt man das?,531,0,-1,
-531,0,0,,Ganz einfach. (Sie mit|Handschellen angreifen.),"Ihr kichert und kämpft beide mit den Handschellen,|aber du schaffst es, ihre Hände gefangen zu nehmen.",532,0,0,CuffsGame()
+531,0,0,,Ganz einfach. (Sie mit|Handschellen angreifen.),"Ihr kichert und ringt beide um die Handschellen,|bis du es schaffst, ihre Hände gefangen zu nehmen.",532,0,0,CuffsGame()
 532,0,0,Common_PlayerRestrained,"Tolles Spiel, oder? (An|den Handschellen rütteln.)","Ja, wir sollten es öfter spielen.|(Sie sieht dir zu und lacht.)",0,0,-1,EndChat()
 532,0,0,!Common_PlayerRestrained,"Tolles Spiel, oder?|(Ihr beim Rütteln zusehen.)","Ja, wir sollten es öfter spielen.|(Sie rüttelt zum Spaß an den Handschellen.)",0,0,1,EndChat()
 540,0,0,,Ist es ein Nervenkitzel?,"Auf jeden Fall, aber es ist nicht einfach,|sich selbst vernünftig zu fesseln.",541,0,0,
@@ -305,7 +305,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 660,0,0,,"Gut, aber beeil dich.|(Auf sie warten.)",(Du wartest ein paar Minuten und sie|kehrt in ihrem Pyjama zurück.) Taadaa!,661,0,1,FetchPajamas()
 660,0,0,,Tolle Idee!|(Auf sie warten.),(Du wartest ein paar Minuten und sie|kehrt in ihrem Pyjama zurück.) Taadaa!,661,1,0,FetchPajamas()
 660,0,0,,Okay.|(Auf sie warten.),(Du wartest ein paar Minuten und sie|kehrt in ihrem Pyjama zurück.) Taadaa!,661,0,0,FetchPajamas()
-660,0,0,!Common_ActorIsOwner,"Nicht jetzt, Amanda.",Na gut. Was möchtest du jetzt machen?,0,0,0,EndChat()
+660,0,0,!Common_ActorIsOwner,"Nicht jetzt, Amanda.",Na gut. Was möchtest du machen?,0,0,0,EndChat()
 661,0,0,,Du siehst albern aus.,"Albern, aber kuschelig. (Sie kichert.)|Was möchtest du machen?",0,-1,0,EndChat()
 661,0,0,,Du siehst toll aus.,"Das sagst du doch nur, um mir zu schmeicheln.|Egal. Was möchtest du machen?",0,0,-1,EndChat()
 661,0,0,,Sieht gemütlich aus.,"Und wie! Ich liebe meinen Pyjama.|Also, was möchtest du machen?",0,0,0,EndChat()
@@ -317,7 +317,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 671,0,0,,"Danke, Herrin.","Es ist mir eine Freude, meine Kleine.|Also, was könnten wir jetzt machen?",0,0,0,EndChat()
 671,0,0,Common_PlayerGagged,(Fröhlich nicken.),"Es ist mir eine Freude, meine Kleine.|Also, was könnten wir jetzt machen?",0,0,0,EndChat()
 700,0,0,Common_ActorIsOwned,"Ich kann einladen|wen ich will, Sklavin.","(Sie zuckt.) Natürlich, Herrin.|Was würdet Ihr gern tun?",0,-1,1,EndChat()
-700,0,0,!Common_ActorIsOwner,Sie ist eine gute Freundin.|Streite dich nicht mit ihr.,"(Sie runzelt die Stirn.) Tja, sie ist jedenfalls nicht|meine Freundin. Kannst du sie bitten, zu gehen?",701,-2,0,
+700,0,0,!Common_ActorIsOwner,Sidney ist eine gute|Freundin. Sei nett zu ihr.,"(Sie runzelt die Stirn.) Tja, sie ist jedenfalls nicht|meine Freundin. Kannst du sie bitten, zu gehen?",701,-2,0,
 700,0,0,Common_ActorIsOwner,"Sie ist eine gute Freundin.|Bitte nicht streiten, Herrin.","(Sie runzelt die Stirn.) Du solltest dir bessere Freunde|suchen, meine Kleine. Kannst du sie bitten, zu gehen?",701,-2,0,
 700,0,0,,Seid ihr beiden verfeindet?,"Ja. Kannst du sie bitten, zu gehen?",701,-1,0,
 700,0,0,,Warum streitet ihr euch?,Ich stecke im Kreuzfeuer. Sidney und meine|beste Freundin Sarah können sich nicht ausstehen.,701,-1,0,
@@ -333,7 +333,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 702,0,0,,Dann streitet|euch eben nicht!,Also gut. Was möchtest du machen?,0,0,0,EndChat()
 702,0,0,,"Wenn es dazu kommt,|kämpfe ich für dich.",Super. Was möchtest du machen?,0,0,1,EndChat()
 702,0,0,,"Wenn es dazu kommt,|kämpfen wir zusammen.",Wunderbar. Was möchtest du machen?,0,1,0,EndChat()
-702,0,0,,"Wenn es dazu kommt,|rufen wir um Hilfe.",Okay. Was möchtest du machen?,0,0,-1,EndChat()
+702,0,0,,"Wenn es dazu kommt,|rufen wir um Hilfe.",Na gut. Was möchtest du machen?,0,0,-1,EndChat()
 790,0,0,,Komm irgendwann anders.|Heute muss ich lernen.,Das sollte ich wahrscheinlich auch tun.|(Sie nimmt ihre Sachen und geht aus dem Zimmer.),791,0,0,KickedOut()
 790,0,0,,Du musst gehen.|Wir reden später.,"Na schön, dann gehe ich eben.|(Sie geht aus dem Zimmer.)",791,-1,0,KickedOut()
 790,0,0,,Sei nicht sauer.|Es tut mir leid.,"Schon gut, ich gehe lernen.|(Sie seufzt und geht aus dem Zimmer.)",791,-1,-1,KickedOut()
@@ -449,7 +449,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 3173,0,0,Common_PlayerRestrained,(Verspielt zappeln.),"Zappel weiter, das gefällt mir.|(Sie schaut wieder nach ihren Notizen.)",3191,0,0,AllowLeave()
 3173,0,0,!Common_PlayerRestrained,Was könnten wir|noch machen?,"Wir spielen später weiter, meine Kleine.|(Sie schaut wieder nach ihren Notizen.)",3191,0,0,AllowLeave()
 3173,0,0,!Common_PlayerRestrained,Das sollten wir öfter tun.,"Auf jeden Fall, das nächste Mal mit besseren Fesseln.|(Sie schaut wieder nach ihren Schulunterlagen.)",3191,0,0,AllowLeave()
-3190,0,0,!Common_PlayerRestrained,"Tut mir leid, dass ihr nichts|passendes gefunden habt.","Kein Problem, wir gehen morgen einkaufen.|(Sie widmet sich wieder ihren Schulunterlagen.)",3191,0,0,AllowLeave()
+3190,0,0,!Common_PlayerRestrained,"Tut mir leid, dass Ihr nichts|Passendes gefunden habt.","Kein Problem, wir gehen morgen einkaufen.|(Sie widmet sich wieder ihren Schulunterlagen.)",3191,0,0,AllowLeave()
 3190,0,0,Common_PlayerRestrained,Seht Ihr mich|gern gefesselt?,"Auf jeden Fall, du siehst entzückend aus, meine Kleine.|(Sie kehrt zu ihren Schulunterlagen zurück und liest.)",3191,0,0,AllowLeave()
 3190,0,0,Common_PlayerGagged,@Niighn mhim!,"Es ist wundervoll, eine Untergebene wie dich zu haben.|(Sie kehrt zu ihren Schulunterlagen zurück und liest.)",3191,0,0,AllowLeave()
 3190,0,0,,(Den Kopf senken.),"Es ist wundervoll, eine Untergebene wie dich zu haben.|(Sie kehrt zu ihren Schulunterlagen zurück und liest.)",3191,0,0,AllowLeave()

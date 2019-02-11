@@ -2,30 +2,30 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 0,0,0,Common_ActorIsOwner,"Mentor, is it time|for my training?","Not now, we are on short break.|Your training will resume later.",0,0,0,RandomJenniferDommeEvent()
 0,0,0,Common_ActorIsOwner,"Mentor, can I wear|something else?",Of course my little protege.|You can wear what you want.,0,0,0,IsChangingBlocked()
 0,5,0,!Common_ActorIsLover,You look so|pretty Jennifer.,You look much better than me.|(You need +20 love to date Jennifer.),0,0,0,TestLove()
-0,0,0,,Wir müssen reden.,Yeah?  What's on your mind?,0,0,0,TestTalk()
+0,0,0,,Wir müssen reden.,Ja? Was ist denn?,0,0,0,TestTalk()
 0,0,5,!Common_ActorIsOwned,"Girl, you need|some training.",I already train almost everyday Miss.|(You need +20 submission to collar Jennifer.),0,0,0,TestDomme()
 0,0,-5,!Common_ActorIsOwner,Miss Jennifer.|I admire you.,I'm not sure why you admire me that much.|(You need -20 submission to submit to Jennifer.),0,0,0,TestSub()
 0,0,0,Common_PlayerGagged,@Om nnnuoogn mh!,"If you practice enough, maybe you'll|learn to talk clearly while being gagged.",0,0,0,TestUnbind()
 0,0,0,Common_ActorIsOwner,(Ein sexy Lied summen|und aus Spaß tanzen.),"Not now, we are on short break.|Your training will resume later.",0,0,0,RandomJenniferDommeEvent()
-0,0,0,Common_PlayerRestrained,(Mit deinen|Fesseln ringen.),"Nope, you're not getting out.|It's great to see you struggle.",0,0,0,TestUnbind()
+0,0,0,Common_PlayerRestrained,(Mit deinen|Fesseln ringen.),"Nö, du kommst da nicht raus.|Es ist toll, dir dabei zuzusehen.",0,0,0,TestUnbind()
 0,0,0,!Common_ActorIsOwner,Du solltest etwas|anderes anziehen.,"No, thanks.  I'm fine like that.",0,0,0,TestChange()
-0,0,0,SexAvail,Möchtest du mit|mir Liebe machen?,"No, I don't feel like it.|Let's do something else.",0,0,0,TestSex()
-0,0,0,PleasurePlayerAvail,"Meine Sklavin, du wirst|mich jetzt befriedigen.",Pleasure you how Mistress?,630,0,0,TestPleasurePlayer()
-0,0,0,!Common_PlayerRestrained,(Mit ihr spielen.),(You take a step toward her.),10,0,0,
-10,5,0,!Common_PlayerGagged,(Sie küssen.),(You get close to her and|kiss her sweetly on the lips.),10,0,0,Kiss()
-10,1,0,!Common_PlayerRestrained,(Sie kitzeln.),"(You get closer and tickle her on the|chest, but she doesn't react that much.)",10,0,0,Tickle()
-10,0,5,!Common_PlayerRestrained,(Ihr auf den|Hintern hauen.),(You spank her pretty hard on the|butt while she stares at you unamused.),10,0,0,Spank()
-10,0,0,CanMasturbate,(Sie befriedigen.),"(You get closer to masturbate|her, but she pushes you away.)",10,0,0,StartMasturbate()
-10,0,0,IsGagged,(Sie entknebeln.),(You remove her gag.)|Thanks!  This is better.,10,0,0,Ungag()
-10,0,0,IsRoped,(Sie losbinden.),(You undo the knots and remove the|ropes while she stretches slowly.),10,0,0,Untie()
-10,0,0,IsStrapped,(Sie losschnallen.),(You remove the straps and|unlace the binder from her arms.),10,0,0,Untie()
-10,0,0,,(Aufhören.),(You take a step back.),0,0,0,
+0,0,0,SexAvail,Möchtest du mit|mir Liebe machen?,"Nein, mir ist nicht danach.|Machen wir was anderes.",0,0,0,TestSex()
+0,0,0,PleasurePlayerAvail,"Meine Sklavin, du wirst|mich jetzt befriedigen.","Wie soll ich Euch befriedigen, Herrin?",630,0,0,TestPleasurePlayer()
+0,0,0,!Common_PlayerRestrained,(Mit ihr spielen.),(Du gehst einen Schritt auf sie zu.),10,0,0,
+10,5,0,!Common_PlayerGagged,(Sie küssen.),(Du gehst nah an sie heran und gibst ihr|einen süßen Kuss auf die Lippen.),10,0,0,Kiss()
+10,1,0,!Common_PlayerRestrained,(Sie kitzeln.),"(Du kommst näher und kitzelst ihre Brust,|aber sie zeigt kaum eine Reaktion.)",10,0,0,Tickle()
+10,0,5,!Common_PlayerRestrained,(Ihr auf den|Hintern hauen.),(Du gibst ihr einen starken Klaps auf den|Hintern und sie starrt dich unerfreut an.),10,0,0,Spank()
+10,0,0,CanMasturbate,(Sie befriedigen.),"(Du lehnst dich zu ihr, um sie zu befriedigen,|aber sie drängt dich von sich weg.)",10,0,0,StartMasturbate()
+10,0,0,IsGagged,(Sie entknebeln.),(Du entfernst ihren Knebel.)|Danke! Das ist besser.,10,0,0,Ungag()
+10,0,0,IsRoped,(Sie losbinden.),"(Du löst die Knoten und entfernst die Seile,|während sie sich langsam streckt.)",10,0,0,Untie()
+10,0,0,IsStrapped,(Sie losschnallen.),(Du löst die Riemen und entfernst|den Handschuh von ihren Armen.),10,0,0,Untie()
+10,0,0,,(Aufhören.),(Du trittst einen Schritt zurück.),0,0,0,
 20,0,0,ChatAvail,Ich wüsste gern|mehr über dich.,"Very well, we can talk about me.",0,0,0,StartChat()
 20,0,0,AllowTraining,Would you like|to practice fighting?,Absolutely!  We can simulate|another school grounds attack.,590,0,0,StartTraining()
-20,0,0,Common_ActorIsOwned,Gehen wir mal|deine Regeln durch.,(She seems to worry.)|Of course Mistress.,610,0,0,
+20,0,0,Common_ActorIsOwned,Gehen wir mal|deine Regeln durch.,"(Sie wirkt beunruhigt.)|Natürlich, Herrin.",610,0,0,
 20,0,0,Common_ActorIsOwned,Gear up!  It's time|for some training.,Yes Mistress!  (She jumps of joy.),800,0,0,ChangeToTrain()
 20,0,0,Common_PlayerChaste,Kannst du mir bitte mit|diesem Gürtel helfen?,I can't.  I don't have|the keys for that belt.,0,0,0,
-20,0,0,Common_ActorIsLover,Was unsere|Beziehung angeht...,What's going on sweetie?,190,0,0,
+20,0,0,Common_ActorIsLover,Was unsere|Beziehung angeht...,"Was ist denn los, Süße?",190,0,0,
 20,0,0,CanKickOut,"Es wird Zeit, dass du|mein Zimmer verlässt.",(She looks very disappointed.)|Are you kicking me out?,790,-1,1,"ActorSetPose("""")"
 20,0,0,,Vergiss es.,"Alright.  So, what could|we do to have some fun?",0,0,0,
 100,0,0,,Hast du einen|Liebespartner?,"No, I've never dated anyone.",110,0,0,TestRelationship()
@@ -39,7 +39,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 106,0,0,,Ich denke darüber nach.,"Very well, let me know if you break up.",0,0,0,
 106,0,0,,Das kann ich nicht.,I totally understand my friend.|Let's talk about something else.,0,0,0,
 110,0,0,,How do you|feel about me?,You're my best friend COMMON_PLAYERNAME.|I enjoy every moment we share together.,120,0,0,
-110,0,0,,Do you like me?,I do.  You're the best COMMON_PLAYERNAME.|I enjoy every moment we share together.,120,0,0,
+110,0,0,,Magst du mich?,I do.  You're the best COMMON_PLAYERNAME.|I enjoy every moment we share together.,120,0,0,
 110,0,0,,You would date|someone like me?,I could.  You're the best COMMON_PLAYERNAME.|I enjoy every moment we share together.,120,0,0,
 120,0,0,,I think I love|you Jennifer.,Would you really date a loser like me?,130,0,0,
 120,0,0,,I love your|sexy body.,Would you really date a loser like me?,130,0,0,
@@ -52,8 +52,8 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 140,0,0,,Würdest du meine|Freundin sein?,Yes!  Will you be my girlfriend also?,150,0,0,
 140,0,0,,Will you marry me?,What?  Don't do jokes like that.|Let's talk about something else.,0,0,0,
 140,0,0,,I love you Jennifer.,(She nods with a bright smile.)|Will you be my girlfriend?,150,0,0,
-150,0,0,,Yes!!!|(Kiss her.),(You jump into each other arms for|some groping and a passionate kiss.),160,3,0,StartDating()
-150,0,0,,I need time to|think about it.,"(She looks disappointed.)|Very well, take your time.",0,0,0,
+150,0,0,,Ja!!!|(Sie küssen.),(You jump into each other arms for|some groping and a passionate kiss.),160,3,0,StartDating()
+150,0,0,,Ich muss erst|darüber nachdenken.,"(She looks disappointed.)|Very well, take your time.",0,0,0,
 160,0,0,AllowSexAfterDate,"Zeig mir deinen|sexy Körper, Schatz.","Yes darling, I even have a toy we can try.|(You both strip and she gets a double dildo.)",170,0,1,BothNaked()
 160,0,0,AllowSexAfterDate,(Rot werden|und dich ausziehen.),"Don't be shy baby, I have a toy we can try.|(You both strip and she gets a double dildo.)",170,0,-1,BothNaked()
 160,0,0,AllowSexAfterDate,Ich will mit dir|Liebe machen.,"That's my wish also, I have a toy we can try.|(You both strip and she gets a double dildo.)",170,1,0,BothNaked()
@@ -120,15 +120,15 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 291,0,0,,How will you|address me?,"I know, I will address you|as ""Mistress"" from now on.",292,0,0,
 291,0,0,,"You will now|call me: ""Mistress"".","Yes Mistress, I accept.",292,0,0,
 291,0,0,,I'll be your Mistress.|Is that ok for you?,"Yes Mistress, of course.",292,0,-1,
-292,0,0,,Get on your knees.,(She slowly kneels in front of you.),293,0,0,"ActorSetPose(""Kneel"")"
-292,0,0,,Will you please|kneel for me?,(She slowly kneels in front of you.),293,0,-1,"ActorSetPose(""Kneel"")"
-292,0,0,,On your knees slut.,(She slowly kneels in front of you.),293,-1,1,"ActorSetPose(""Kneel"")"
-293,0,0,,"Once this collar is locked,|you will be my property.","(She looks at the collar and nods.)|I understand, and I accept Mistress.",294,0,0,
-293,0,0,,"Once locked on your neck,|there's no turning back.","(She looks at the collar and nods.)|I understand, and I accept Mistress.",294,0,0,
-294,0,0,,(Lock the collar|around her neck.),"(You circle the leather collar around her neck,|buckle it and put a padlock to lock it in place.)",295,0,3,LockCollarJennifer()
-295,0,0,,You are now my bitch.,"(She adjusts her neck to the collar.)|Yes Mistress, I will follow your rules.",296,-1,0,
-295,0,0,,You are mine.,"(She adjusts her neck to the collar.)|Yes Mistress, I will follow your rules.",296,0,0,
-295,0,0,,You are now|my submissive.,"(She adjusts her neck to the collar.)|Yes Mistress, I will follow your rules.",296,0,0,
+292,0,0,,Geh auf die Knie.,(Sie kniet sich langsam vor dir hin.),293,0,0,"ActorSetPose(""Kneel"")"
+292,0,0,,Würdest du dich bitte|für mich hinknien?,(Sie kniet sich langsam vor dir hin.),293,0,-1,"ActorSetPose(""Kneel"")"
+292,0,0,,"Auf die Knie,|Schlampe.",(Sie kniet sich langsam vor dir hin.),293,-1,1,"ActorSetPose(""Kneel"")"
+293,0,0,,"Sobald das Halsband sitzt,|bist du mein Eigentum.","(She looks at the collar and nods.)|I understand, and I accept Mistress.",294,0,0,
+293,0,0,,Nach diesem Halsband|gibt es kein Zurück mehr.,"(She looks at the collar and nods.)|I understand, and I accept Mistress.",294,0,0,
+294,0,0,,(Ihr das Halsband|umschließen.),(Du legst das Lederhalsband um ihren Hals|und schließt es mit einem Vorhängeschloss zu.),295,0,3,LockCollarJennifer()
+295,0,0,,Du bist jetzt|meine Bitch.,"(Sie rückt sich das Halsband zurecht.)|Ja, Herrin, ich befolge Eure Regeln.",296,-1,0,
+295,0,0,,Du gehörst mir.,"(Sie rückt sich das Halsband zurecht.)|Ja, Herrin, ich befolge Eure Regeln.",296,0,0,
+295,0,0,,Du bist mir|jetzt untergeben.,"(Sie rückt sich das Halsband zurecht.)|Ja, Herrin, ich befolge Eure Regeln.",296,0,0,
 296,0,0,,"Ich schwöre, dich|zu beschützen.",(She nods.)  Thanks Mistress.|I'm sure I will learn a lot.,297,1,0,
 296,0,0,,"Ich schwöre, dir zu helfen.",(She smiles.)  Thanks Mistress.|I'm sure I will learn a lot.,297,1,-1,
 296,0,0,,"Ich schwöre, dich|zu disziplinieren.",(She gasps.)  Thanks Mistress.|I'm sure I will learn a lot.,297,-1,1,
@@ -172,10 +172,10 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 309,0,0,Common_PlayerNaked,Yes Miss Jennifer.|(Submit to her.),Awesome!  At school we call this a collaring|ceremony.  I will now ask you to kneel for me.,321,0,0,
 309,0,0,!Common_PlayerNaked,Yes Miss Jennifer.|(Submit to her.),Awesome!  At school we call this a collaring|ceremony.  I will now ask you to strip naked.,320,0,0,
 309,0,0,,I cannot do that.,I will not force you.  Think about it and|let me know if you change your mind.,399,0,0,
-320,0,0,,Yes Miss.|(Strip naked.),(You strip down for Jennifer and she nods.)|Very good my protege.  Now get on your knees.,321,0,0,PlayerStrip()
-320,0,0,,Why should I strip?,It's part of the ceremony.|Traditions are important.,320,0,0,
+320,0,0,,"Ja, Miss.|(Dich ausziehen.)",(You strip down for Jennifer and she nods.)|Very good my protege.  Now get on your knees.,321,0,0,PlayerStrip()
+320,0,0,,Warum sollte ich|mich ausziehen?,It's part of the ceremony.|Traditions are important.,320,0,0,
 321,0,0,,Yes Miss Jennifer.|(Get on your knees.),"Repeat after me:  ""Today, I become your protege.""",322,0,1,"SetPlayerPose(""BackKneel"")"
-321,0,0,,My pleasure.|(Get on your knees.),"Repeat after me:  ""Today, I become your protege.""",322,0,0,"SetPlayerPose(""BackKneel"")"
+321,0,0,,Mit Vergnügen.|(Auf die Knie gehen.),"Repeat after me:  ""Today, I become your protege.""",322,0,0,"SetPlayerPose(""BackKneel"")"
 322,0,0,,(Listen carefully.),(She waits for you to repeat.),323,0,0,
 323,0,0,,"Today, I'm|your protege.","""Today, you become my Mentor.""",324,-1,0,
 323,0,0,,"Today, I become|your protege.","""Today, you become my Mentor.""",324,1,0,
@@ -200,7 +200,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 329,0,0,,Muss das Halsband|so eng sein?,You will get used to it.  I'll prepare|a training schedule for you soon.,330,0,1,
 330,0,0,,I can't wait to|start training!,"That's the spirit!  We will start soon.|Now stand up, the ceremony is over.",331,1,0,
 330,0,0,,Ok Jennifer.,"No girl, you need to call me ""Mentor"".|Now stand up, the ceremony is over.",331,-1,0,
-330,0,0,,Very good.,Stand up my protege.|The ceremony is over.,331,0,0,
+330,0,0,,Sehr gut.,Stand up my protege.|The ceremony is over.,331,0,0,
 331,0,0,,Yes Mentor.|(Stand up.),I'm happy to have you under|my wing my little protege.,0,0,0,PlayerStandUp()
 331,0,0,,(Stay silent|and stand up.),I'm happy to have you under|my wing my little protege.,0,0,0,PlayerStandUp()
 399,0,0,,Very well Miss.|(Back to your dorm.),,399,0,0,BackToDorm()
@@ -254,30 +254,30 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 600,0,0,,Vergiss es.,(She nods slowly.),0,0,0,
 610,0,0,,Du darfst dir heute einen|schönen Abend machen.,"Thanks Mistress.  But I don't have|any plan, so I will stay here.",0,0,0,"SetCurfew(""None"")"
 610,0,0,,"Genieße deinen Abend,|aber du schläfst hier.",I will sleep in your dorm?|I didn't expect that Mistress.,0,0,0,"SetCurfew(""24"")"
-610,0,0,CanSetCurfew22,"You can have fun, but|come back at twenty-two.","Thanks Mistress.  But I don't have|any plan, so I will stay here.",0,0,0,"SetCurfew(""22"")"
+610,0,0,CanSetCurfew22,"Du darfst Spaß haben, aber|sei um 22 Uhr wieder hier.","Thanks Mistress.  But I don't have|any plan, so I will stay here.",0,0,0,"SetCurfew(""22"")"
 610,0,0,,Du darfst mein Zimmer|heute nicht verlassen.,Alright Mistress.  I don't have|any plan to go out anyway.,0,0,0,"SetCurfew(""Stay"")"
-630,0,0,,Zieh dich erst aus.,(She nods and slowly|strips down for you.),631,0,0,"ForceChangeActor(""Naked"")"
-630,0,0,,"Ausziehen, Mädchen.",(She nods and slowly|strips down for you.),631,0,0,"ForceChangeActor(""Naked"")"
-630,0,0,,Ich hab's mir|anders überlegt.,Ok.  What would you like to do Mistress?,0,0,0,EndEnslaveJennifer()
-631,0,0,,Come to my bed.|(Strip and get in bed.),(You strip down and pull her to the bed|where she kneels in front on you.),632,0,0,StartPleasurePlayer()
-631,0,0,,Get busy slave.|(Strip and get in bed.),(You strip down and pull her to the bed|where she kneels in front on you.),632,0,0,StartPleasurePlayer()
-631,0,0,,Come my lovely subbie.|(Strip and get in bed.),(You strip down and pull her to the bed|where she kneels in front on you.),632,0,0,StartPleasurePlayer()
-631,0,0,,Ich hab's mir|anders überlegt.,Ok.  What would you like to do Mistress?,0,0,0,EndEnslaveJennifer()
-632,0,0,,Pleasure me|my subbie.,(She bends down near your pussy|and starts to lick it slowly.),633,0,0,
-632,0,0,,Lick slut!,(She bends down near your pussy|and starts to lick it slowly.),633,0,0,
-632,0,0,,You know|what to do.,(She bends down near your pussy|and starts to lick it slowly.),633,0,0,
+630,0,0,,Zieh dich erst aus.,(Sie nickt und zieht sich langsam für dich aus.),631,0,0,"ForceChangeActor(""Naked"")"
+630,0,0,,"Ausziehen, Mädchen.",(Sie nickt und zieht sich langsam für dich aus.),631,0,0,"ForceChangeActor(""Naked"")"
+630,0,0,,Ich hab's mir|anders überlegt.,"Okay. Was möchtet Ihr tun, Herrin?",0,0,0,EndEnslaveJennifer()
+631,0,0,,Komm mit ins Bett.|(Ausziehen und ins Bett.),"(Du ziehst dich aus und zerrst sie zum|Bett, wo sie vor dir auf die Knie geht.)",632,0,0,StartPleasurePlayer()
+631,0,0,,"An die Arbeit, Sklavin.|(Ausziehen und ins Bett.)","(Du ziehst dich aus und zerrst sie zum|Bett, wo sie vor dir auf die Knie geht.)",632,0,0,StartPleasurePlayer()
+631,0,0,,"Komm, mein liebes Kleines.|(Ausziehen und ins Bett.)","(Du ziehst dich aus und zerrst sie zum|Bett, wo sie vor dir auf die Knie geht.)",632,0,0,StartPleasurePlayer()
+631,0,0,,Ich hab's mir|anders überlegt.,"Okay. Was möchtet Ihr tun, Herrin?",0,0,0,EndEnslaveJennifer()
+632,0,0,,"Befriedige mich,|meine Kleine.","(Sie bückt sich nah an deine Vagina|und fängt an, langsam zu lecken.)",633,0,0,
+632,0,0,,"Leck, Schlampe!","(Sie bückt sich nah an deine Vagina|und fängt an, langsam zu lecken.)",633,0,0,
+632,0,0,,"Du weißt,|was zu tun ist.","(Sie bückt sich nah an deine Vagina|und fängt an, langsam zu lecken.)",633,0,0,
 633,0,0,,(Dich befriedigen lassen.),(You let Jennifer pleasure you with her|mouth and slowly drift away in ecstasy.),633,0,0,PleasurePlayer()
-633,0,0,,Das reicht!|(Alles abbrechen.),(You push her back and stop everything.)|Did you enjoy it Mistress?  Did you have pleasure?,635,0,0,StopPleasureFromJennifer()
+633,0,0,,Das reicht!|(Alles abbrechen.),"(Du drückst sie weg und lässt sie aufhören.)|War das gut, Herrin? Seid Ihr befriedigt?",635,0,0,StopPleasureFromJennifer()
 633,0,0,,"(Sie zwingen,|schneller zu werden.)",(You squeeze your legs around her head.|Forcing her to speed up to catch her breath.),633,0,0,PleasurePlayerSetSpeed(1)
 633,0,0,,"(Sie zwingen,|langsamer zu werden.)",(You relax your legs around her head.|Allowing her to slow down the rhythm.),633,0,0,PleasurePlayerSetSpeed(-1)
 634,0,0,,"Aaaaah! Aufhören, Sklavin!|(Alles abbrechen.)",(You both stand up and stop everything.)|Did you enjoy it Mistress?  How was it?,635,0,0,StopPleasureFromJennifer()
 634,0,0,,Das reicht!|(Alles abbrechen.),(You both stand up and stop everything.)|Did you enjoy it Mistress?  How was it?,635,0,0,StopPleasureFromJennifer()
-635,0,0,,Es war wundervoll.|Ich zittere noch immer.,I'm very happy to hear you say that.|What would you like to do now?,0,0,0,"EndPleasureFromJennifer(2, -1)"
-635,0,0,,Es war gut.,I'm happy to hear you say that.|What would you like to do now?,0,0,0,"EndPleasureFromJennifer(1, 0)"
-635,0,0,,Es war okay.,I'll do better next time Mistress.|What would you like to do now?,0,0,0,"EndPleasureFromJennifer(0, 0)"
-635,0,0,,"Wenn wir das jeden Tag|üben, wird das schon.",Everyday Mistress?  Oh my!|What would you like to do now?,0,0,0,"EndPleasureFromJennifer(0, 1)"
-635,0,0,,Ich hab schon|Besseres erlebt.,I'm sorry to hear that Mistress.|What would you like to do now?,0,0,0,"EndPleasureFromJennifer(-1, 0)"
-635,0,0,,Du brauchst etwas|Oral-Training.,I will train for you Mistress.|What would you like to do now?,0,0,0,"EndPleasureFromJennifer(-2, 1)"
+635,0,0,,Es war wundervoll.|Ich zittere noch immer.,"Es freut mich sehr, das zu hören.|Was möchtet Ihr jetzt tun?",0,0,0,"EndPleasureFromJennifer(2, -1)"
+635,0,0,,Es war gut.,"Es freut mich, das zu hören.|Was möchtet Ihr jetzt tun?",0,0,0,"EndPleasureFromJennifer(1, 0)"
+635,0,0,,Es war okay.,"Ich gebe mir beim nächsten Mal mehr Mühe, Herrin.|Was möchtet Ihr jetzt tun?",0,0,0,"EndPleasureFromJennifer(0, 0)"
+635,0,0,,"Wenn wir das jeden Tag|üben, wird das schon.","Jeden Tag, Herrin? Au weia!|Was möchtet Ihr jetzt tun?",0,0,0,"EndPleasureFromJennifer(0, 1)"
+635,0,0,,Ich hab schon|Besseres erlebt.,"Das tut mir sehr leid, Herrin.|Was möchtet Ihr jetzt tun?",0,0,0,"EndPleasureFromJennifer(-1, 0)"
+635,0,0,,Du brauchst etwas|Oral-Training.,"Ich werde für Euch trainieren, Herrin.|Was möchtet Ihr jetzt tun?",0,0,0,"EndPleasureFromJennifer(-2, 1)"
 640,0,0,!Common_PlayerGagged,(Sie küssen.),(You kiss her lovingly|while she moans lightly.),640,0,0,Masturbate(0)
 640,0,0,,(Ihre Brust massieren.),"(You massage her little breast,|but she doesn't seem turned on.)",640,0,0,Masturbate(0)
 640,0,0,,(Ihren Nippel kneifen.),(She whimpers from the pain.|She doesn't seem to appreciate.),640,0,0,Masturbate(-1)
@@ -285,20 +285,20 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 640,0,0,,(Ihre Klitoris|streicheln.),(She shivers lightly and seems|to enjoy your gentle touch.),640,0,0,Masturbate(1)
 640,0,0,,(Mit ihrer Vagina spielen.),(She moans loudly and breathes faster|and faster.  Losing control of herself.),640,0,0,Masturbate(2)
 640,0,0,,(Einen Finger rein|und raus bewegen.),(She moans silently and trembles|slowly from your gentle touch.),640,0,0,Masturbate(1)
-640,0,0,!Common_PlayerGagged,(Sie naschen.),(You eat her with passion while she|moans loudly and trembles frenetically.),640,0,0,Masturbate(2)
+640,0,0,!Common_PlayerGagged,(Sie naschen.),"(Du vernaschst sie leidenschaftlich, während|sie laut stöhnt und wie wild zittert.)",640,0,0,Masturbate(2)
 640,0,0,,(Sie fisten.),(You try to fit a full hand inside of her but|fail and only end up hurting Jennifer.),640,0,0,Masturbate(-2)
-640,0,0,,(Alles abbrechen.),(You stop everything and let her go.),0,0,0,EndEnslaveJennifer()
-641,0,0,,(Orgasmus herbeiführen.),"(You continue to masturbate her, and she|quickly collapses on a wonderful orgasm.)",642,0,0,JenniferOrgasm()
-641,0,0,Common_ActorIsOwned,"Du verdienst es, Sklavin.|(Orgasmus herbeiführen.)","(You continue to masturbate her, and she|quickly collapses on a wonderful orgasm.)",642,0,0,JenniferOrgasm()
+640,0,0,,(Alles abbrechen.),(Du brichst alles ab und lässt sie los.),0,0,0,EndEnslaveJennifer()
+641,0,0,,(Orgasmus herbeiführen.),(Du befriedigst sie weiter und sie bricht schnell|mit einem wundervollen Orgasmus zusammen.),642,0,0,JenniferOrgasm()
+641,0,0,Common_ActorIsOwned,"Du verdienst es, Sklavin.|(Orgasmus herbeiführen.)",(Du befriedigst sie weiter und sie bricht schnell|mit einem wundervollen Orgasmus zusammen.),642,0,0,JenniferOrgasm()
 641,0,0,,(Alles abbrechen.),(You stop everything and let her go.|She sighs and seems quite disappointed.),0,0,0,JenniferDeniedOrgasm()
 641,0,0,Common_ActorIsOwned,"Du verdienst es nicht,|Sklavin. (Alles abbrechen.)",(You stop everything and let her go.|She sighs and seems quite disappointed.),0,0,0,JenniferDeniedOrgasm()
 642,0,0,Common_ActorIsLover,I love you Jennifer.,(She blushes and takes her|breath while standing up.),0,1,0,EndEnslaveJennifer()
 642,0,0,,Du bist so eine Nutte.,(She frowns and takes her|breath while standing up.),0,-1,1,EndEnslaveJennifer()
 642,0,0,,Hoffentlich|hat's dir gefallen.,(She nods and takes her|breath while standing up.),0,0,0,EndEnslaveJennifer()
 642,0,0,,"Ich bestimme, wann|du kommst, Mädchen.",(She nods and takes her|breath while standing up.),0,0,1,EndEnslaveJennifer()
-642,0,0,,(Sie umarmen.),(You give her a warm hug|and help her to recover.),0,1,-1,EndEnslaveJennifer()
-642,0,0,,(Ihr beim|Erholen helfen.),(You help her to recover.),0,0,-1,EndEnslaveJennifer()
-650,0,0,,Alright.,(She gets a double ended|dildo from her bag and blushes.),651,0,0,
+642,0,0,,(Sie umarmen.),"(Du gibst ihr eine warme Umarmung|und hilfst ihr, sich zu erholen.)",0,1,-1,EndEnslaveJennifer()
+642,0,0,,(Ihr beim|Erholen helfen.),"(Du hilfst ihr, sich zu erholen.)",0,0,-1,EndEnslaveJennifer()
+650,0,0,,Alles klar.,(She gets a double ended|dildo from her bag and blushes.),651,0,0,
 650,0,0,,Sure!  Get your toy.,(She gets a double ended|dildo from her bag and blushes.),651,0,0,
 650,0,0,,What kind of toy?,(She gets a double ended|dildo from her bag and blushes.),651,0,0,
 650,0,0,Common_ActorIsOwner,A toy Mentor?,(She gets a double ended|dildo from her bag and smiles.),651,0,0,
@@ -344,7 +344,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 3020,0,0,,Das will ich nicht tun.,"Fine, let's take a break then.|(She turns around irritated.)",3093,0,0,TestPunish()
 3020,0,0,,(Den Kopf schütteln.),"Fine, let's take a break then.|(She turns around irritated.)",3093,0,0,TestPunish()
 3030,0,0,,Yes Mentor.|(Wear your bikini.),(You change for Jennifer while|she looks at you and smiles.),3090,0,0,"ForceChangePlayer(""RedBikini"")"
-3030,0,0,,(Nod slowly.)|(Wear your bikini.),(You change for Jennifer while|she looks at you and smiles.),3090,0,0,"ForceChangePlayer(""RedBikini"")"
+3030,0,0,,(Langsam nicken.)|(Deinen Bikini anziehen.),(You change for Jennifer while|she looks at you and smiles.),3090,0,0,"ForceChangePlayer(""RedBikini"")"
 3030,0,0,,Das will ich nicht tun.,"Fine, let's take a break then.|(She turns around irritated.)",3093,0,0,TestPunish()
 3030,0,0,,(Den Kopf schütteln.),"Fine, let's take a break then.|(She turns around irritated.)",3093,0,0,TestPunish()
 3050,0,0,,Yes Mentor.|(Wear your dress.),(You change for Jennifer while|she looks at you and smiles.),3090,0,0,"ForceChangePlayer(""BlackDress"")"
@@ -365,14 +365,14 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 3091,0,0,,Das ist nicht fair!,Improve your attitude and move your body!|(She frowns and starts to do exercises.),3092,0,0,AllowLeave()
 3092,0,0,,(Exercise a little and|go back to your dorm.),,3092,0,0,BackToDorm()
 3093,0,0,,(Zurück zum Zimmer.),,3093,0,0,BackToDorm()
-3100,0,0,,Yes Mentor.|(Show your items.),(She checks your items|and uses them on you.),3190,0,0,"ForceRandomBondage(""Full"")"
-3100,0,0,,(Langsam nicken und ihr|deine Sachen zeigen.),(She checks your items|and uses them on you.),3190,0,0,"ForceRandomBondage(""Full"")"
+3100,0,0,,Yes Mentor.|(Show your items.),(Sie nimmt ein paar deiner Gegenstände|und setzt sie gegen dich ein.),3190,0,0,"ForceRandomBondage(""Full"")"
+3100,0,0,,(Langsam nicken und ihr|deine Sachen zeigen.),(Sie nimmt ein paar deiner Gegenstände|und setzt sie gegen dich ein.),3190,0,0,"ForceRandomBondage(""Full"")"
 3100,0,0,,Das will ich nicht tun.,"Fine, let's take a break then.|(She turns around irritated.)",3191,0,0,TestPunish()
-3110,0,0,,Yes Mentor.|(Show your items.),(She checks your items|and uses a restrain on you.),3190,0,0,"ForceRandomBondage(""Restrain"")"
-3110,0,0,,(Langsam nicken und ihr|deine Sachen zeigen.),(She checks your items|and uses a restrain on you.),3190,0,0,"ForceRandomBondage(""Restrain"")"
+3110,0,0,,Yes Mentor.|(Show your items.),(Sie nimmt einen deiner Gegenstände|und fesselt dich damit.),3190,0,0,"ForceRandomBondage(""Restrain"")"
+3110,0,0,,(Langsam nicken und ihr|deine Sachen zeigen.),(Sie nimmt einen deiner Gegenstände|und fesselt dich damit.),3190,0,0,"ForceRandomBondage(""Restrain"")"
 3110,0,0,,Das will ich nicht tun.,"Fine, let's take a break then.|(She turns around irritated.)",3191,0,0,TestPunish()
-3120,0,0,,Yes Mentor.|(Show your items.),(She checks your items|and uses a gag on you.),3190,0,0,"ForceRandomBondage(""Gag"")"
-3120,0,0,,(Langsam nicken und ihr|deine Sachen zeigen.),(She checks your items|and uses a gag on you.),3190,0,0,"ForceRandomBondage(""Gag"")"
+3120,0,0,,Yes Mentor.|(Show your items.),(Sie nimmt einen deiner Knebel|und knebelt dich damit.),3190,0,0,"ForceRandomBondage(""Gag"")"
+3120,0,0,,(Langsam nicken und ihr|deine Sachen zeigen.),(Sie nimmt einen deiner Knebel|und knebelt dich damit.),3190,0,0,"ForceRandomBondage(""Gag"")"
 3120,0,0,,Das will ich nicht tun.,"Fine, let's take a break then.|(She turns around irritated.)",3191,0,0,TestPunish()
 3130,0,0,,Thanks Mentor!,"Don't mention it, now let's move!|(She starts to do some exercises.)",3191,0,0,AllowLeave()
 3130,0,0,,(Höflich nicken.),You're ready to move then!|(She starts to do some exercises.),3191,0,0,AllowLeave()
@@ -396,7 +396,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 3161,0,0,,(Den Kopf schütteln.),"Fine, let's take a break then.|(She turns around irritated.)",3191,0,0,TestPunish()
 3162,0,0,,Das kitzelt!,Vaginal muscles training?  I love it.|(She starts to do some exercises.),3191,0,0,AllowLeave()
 3162,0,0,,(Rot werden.),Vaginal muscles training?  I love it.|(She starts to do some exercises.),3191,0,0,AllowLeave()
-3190,0,0,!Common_PlayerRestrained,"Tut mir leid, dass ihr nichts|passendes gefunden habt.",We'll do something else later.|(She starts to do some exercises.),3191,0,0,AllowLeave()
+3190,0,0,!Common_PlayerRestrained,"Tut mir leid, dass Ihr nichts|Passendes gefunden habt.",We'll do something else later.|(She starts to do some exercises.),3191,0,0,AllowLeave()
 3190,0,0,Common_PlayerRestrained,Seht Ihr mich|gern gefesselt?,I do.  Train to escape now.|(She starts to do some exercises.),3191,0,0,AllowLeave()
 3190,0,0,Common_PlayerGagged,@Niighn mhim!,It's great to have my own protege.|(She starts to do some exercises.),3191,0,0,AllowLeave()
 3190,0,0,,(Den Kopf senken.),It's great to have my own protege.|(She starts to do some exercises.),3191,0,0,AllowLeave()
@@ -426,9 +426,9 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 3211,0,0,,(Take a break.),I know you have the strength.|Go my protege!  Do it for me.,3211,0,0,"DoActivity(""SitUp"", -1, 0)"
 3211,0,0,,That's enough! |I'm tired now.,"Fine, let's take a break then.|(She turns around irritated.)",3291,0,0,TestPunish()
 3211,0,0,,(Grumble and|stop everything.),"Fine, let's take a break then.|(She turns around irritated.)",3291,0,0,TestPunish()
-3230,0,0,,Is it necessary?,"Yes, you need endurance to fight bullies.|(She swings the crop on your tummy.)",3231,0,0,"DoActivity(""Crop"", -1, 0)"
-3230,0,0,,Will this hurt?,With regular training it won't hurt anymore.|(She lightly swings the crop on your ribs.),3231,0,0,"DoActivity(""Crop"", 0, 0)"
-3230,0,0,,Great!  I'm|a pain slut.,Then this endurance training will be easy.|(She swiftly swings the crop on your breast.),3231,0,0,"DoActivity(""Crop"", 1, 0)"
+3230,0,0,,Ist das nötig?,"Yes, you need endurance to fight bullies.|(She swings the crop on your tummy.)",3231,0,0,"DoActivity(""Crop"", -1, 0)"
+3230,0,0,,Wird das wehtun?,With regular training it won't hurt anymore.|(She lightly swings the crop on your ribs.),3231,0,0,"DoActivity(""Crop"", 0, 0)"
+3230,0,0,,Super! Schmerz|macht mich geil.,Then this endurance training will be easy.|(She swiftly swings the crop on your breast.),3231,0,0,"DoActivity(""Crop"", 1, 0)"
 3230,0,0,,(Fröhlich nicken.),You'll need endurance to fight bullies.|(She swings the crop on your tummy.),3231,0,0,"DoActivity(""Crop"", 1, 0)"
 3230,0,0,,(Langsam nicken.),You'll need endurance to fight bullies.|(She swings the crop on your tummy.),3231,0,0,"DoActivity(""Crop"", 0, 0)"
 3230,0,0,,I don't want|to train that.,"Fine, let's take a break then.|(She turns around irritated.)",3291,0,0,TestPunish()
@@ -437,8 +437,8 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 3231,0,0,,More Mentor!|I've been bad.,You're not taking this seriously.|(She whips your butt and frowns.),3231,0,0,"DoActivity(""Crop"", -1, 0)"
 3231,0,0,,(Tief durchatmen.),"Yes, remember to breath deeply.|(She whips your back pretty hard.)",3231,0,0,"DoActivity(""Crop"", 0, 0)"
 3231,0,0,,(Lüstern stöhnen.),You're not taking this seriously.|(She whips your butt and frowns.),3231,0,0,"DoActivity(""Crop"", -1, 0)"
-3231,0,0,,That's all|you've got?,You're quite strong my protege.|(She whips your leg really hard.),3231,0,0,"DoActivity(""Crop"", 1, 0)"
-3231,0,0,,(Endure the pain.),"Be strong my protege, you can take it.|(She whips your back pretty hard.)",3231,0,0,"DoActivity(""Crop"", 0, 0)"
+3231,0,0,,Ist das|schon alles?,You're quite strong my protege.|(She whips your leg really hard.),3231,0,0,"DoActivity(""Crop"", 1, 0)"
+3231,0,0,,(Dem Schmerz|standhalten.),"Be strong my protege, you can take it.|(She whips your back pretty hard.)",3231,0,0,"DoActivity(""Crop"", 0, 0)"
 3231,0,0,,Aufhören!,"Fine, let's take a break then.|(She turns around irritated.)",3291,0,0,TestPunish()
 3231,0,0,,"(Grummeln und versuchen,|dich zu wehren.)","Fine, let's take a break then.|(She turns around irritated.)",3291,0,0,TestPunish()
 3290,0,0,,Yes Mentor.,Take a short break my protege.|Your next training will come soon.,3291,0,0,AllowLeave()
@@ -517,14 +517,14 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 3923,0,0,,Muss er so eng sitzen?,"It does, so get used to it.|Take a break my protege.",3999,0,0,"EndPunishment(""Belted"")"
 3923,0,0,,Das ist so pervers!,You won't be kinky anymore.|Take a break my protege.,3999,0,0,"EndPunishment(""Belted"")"
 3923,0,0,,(Den Kopf senken.),It won't be forever.|Now take a break.,3999,0,0,"EndPunishment(""Belted"")"
-3930,0,0,,What do you|have in mind?,We will go out in public and you|will be humiliated for your punishment.,3931,0,0,
-3930,0,0,,Humiliation?|This is nothing.,We will go out in public and you|will be humiliated for your punishment.,3931,0,1,
+3930,0,0,,Was genau soll|das bedeuten?,We will go out in public and you|will be humiliated for your punishment.,3931,0,0,
+3930,0,0,,Demütigung?|Das ist doch gar nichts.,We will go out in public and you|will be humiliated for your punishment.,3931,0,1,
 3930,0,0,,Oh please Mentor!|Don't humiliate me.,We will go out in public and you|will be humiliated for your punishment.,3931,0,-1,
 3930,0,0,,"Ich habe Angst vor|dem, was jetzt kommt.",We will go out in public and you|will be humiliated for your punishment.,3931,0,0,
-3931,0,0,,Public humiliation?|This is bullshit!,It will certainly teach you a lesson.|Let's go out my naked protege.,3932,-1,0,
-3931,0,0,,Naked in public? |Oh my lord.,It will certainly teach you a lesson.|Let's go out my naked protege.,3932,0,0,
+3931,0,0,,Öffentliche Demütigung?|Das ist Bullshit!,It will certainly teach you a lesson.|Let's go out my naked protege.,3932,-1,0,
+3931,0,0,,"Nackt im Freien?|Oh, Gütiger.",It will certainly teach you a lesson.|Let's go out my naked protege.,3932,0,0,
 3931,0,0,,This sounds tough|but fair Mentor.,It will certainly teach you a lesson.|Let's go out my naked protege.,3932,1,0,
-3932,0,0,,"Yes, let's go.|(Go out naked.)",,3932,0,0,StartPlayerHumiliation()
+3932,0,0,,"Ja, gehen wir.|(Nackt nach draußen.)",,3932,0,0,StartPlayerHumiliation()
 3932,0,0,,Mentor!  Please!,Stop complaining girl.|Let's go right now.,3932,0,0,
 3940,0,0,,Train while I sleep?|I don't understand.,"Tonight, you will sleep bound and gagged.|This punishment will train your endurance.",3941,0,0,
 3940,0,0,,"Ich habe Angst vor|dem, was jetzt kommt.","Tonight, you will sleep bound and gagged.|This punishment will train your endurance.",3941,0,1,
