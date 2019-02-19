@@ -1,23 +1,23 @@
 Stage,LoveReq,SubReq,VarReq,IntroText,Image
-0,0,0,,So what's going on here?,Dorm.jpg
-0,10,0,,Your dorm is pretty nice.|What's going on here?,Dorm.jpg
-0,0,-10,,"Hey girl, what's going on here?",Dorm.jpg
-0,0,10,,"Miss, what's going|on in your place?",Dorm.jpg
-0,0,0,Common_PlayerNaked,(She looks at your naked body.)|You're such a naughty student.,Dorm.jpg
-0,10,0,Common_PlayerNaked,(She looks at your naked body.)|You're such a naughty friend.,Dorm.jpg
-0,0,-10,Common_PlayerNaked,(She looks at your naked body.)|You're such a naughty girl.,Dorm.jpg
-0,0,10,Common_PlayerNaked,"(She looks at your naked body.)|Miss, you're so naughty.",Dorm.jpg
-0,0,0,Common_ActorIsLover,What's going on darling?,Dorm.jpg
-0,0,0,Common_ActorIsOwner,What's going on my protege?,Dorm.jpg
-0,0,0,Common_ActorIsOwned,What's going on Mistress?,Dorm.jpg
-0,0,0,IsRoped,"(She struggles and tries to reach a knot.)|This is tight, can you help me out?",Dorm.jpg
-0,0,0,IsStrapped,(She struggles and tries to undo the binder.)|This is not comfy.  Can you help me out?,Dorm.jpg
+0,0,0,,"Also, was gibt's?",Dorm.jpg
+0,10,0,,"Dein Zimmer ist richtig nett.|Also, was gibt's?",Dorm.jpg
+0,0,-10,,"Hey, Mädchen, was gibt's?",Dorm.jpg
+0,0,10,,"Miss, was gibt es Neues?",Dorm.jpg
+0,0,0,Common_PlayerNaked,(Sie betrachtet deinen nackten Körper.)|Du bist so eine unanständige Schülerin.,Dorm.jpg
+0,10,0,Common_PlayerNaked,(Sie betrachtet deinen nackten Körper.)|Du bist so eine unanständige Freundin.,Dorm.jpg
+0,0,-10,Common_PlayerNaked,(Sie betrachtet deinen nackten Körper.)|Du bist so ein unanständiges Mädchen.,Dorm.jpg
+0,0,10,Common_PlayerNaked,"(Sie betrachtet deinen nackten Körper.)|Miss, Sie sind so unanständig.",Dorm.jpg
+0,0,0,Common_ActorIsLover,"Was gibt's, Schatz?",Dorm.jpg
+0,0,0,Common_ActorIsOwner,"Was gibt's, mein Schützling?",Dorm.jpg
+0,0,0,Common_ActorIsOwned,"Was gibt's, Herrin?",Dorm.jpg
+0,0,0,IsRoped,"(Sie bemüht sich, einen Knoten zu erreichen.)|Das ist eng, kannst du mir helfen?",Dorm.jpg
+0,0,0,IsStrapped,(Sie versucht sich mühsam aus dem Handschuh zu|befreien.) Das ist unbequem. Kannst du mir helfen?,Dorm.jpg
 0,0,0,IsGagged,Ohm uuooohmg uom nougn!,Dorm.jpg
 10,0,0,,,Dorm.jpg
 20,0,0,,,Dorm.jpg
-100,0,0,,(She looks at you and smiles.)|You're such a sweet friend.,Dorm.jpg
-100,0,0,Common_ActorIsOwned,(She looks at you and smiles.)|You're such a nice Mistress.,Dorm.jpg
-100,0,0,Common_ActorIsOwner,(She looks at you and smiles.)|You're such a sweet protege.,Dorm.jpg
+100,0,0,,(Sie sieht dich an und lächelt.)|Du bist so eine liebe Freundin.,Dorm.jpg
+100,0,0,Common_ActorIsOwned,(Sie sieht dich an und lächelt.)|Ihr seid so eine nette Herrin.,Dorm.jpg
+100,0,0,Common_ActorIsOwner,(Sie sieht dich an und lächelt.)|Du bist so ein lieber Schützling.,Dorm.jpg
 105,0,0,,,Dorm.jpg
 106,0,0,,,Dorm.jpg
 110,0,0,,,Dorm.jpg
@@ -32,8 +32,8 @@ Stage,LoveReq,SubReq,VarReq,IntroText,Image
 192,0,0,,,StopDating.jpg
 193,0,0,,,StopDating.jpg
 194,0,0,,,Dorm.jpg
-200,0,0,,Training?  But I do plenty of sports Miss.,Dorm.jpg
-200,0,0,Common_ActorIsLover,Are you serious darling?|I already do lots of sports.,Dorm.jpg
+200,0,0,,"Training? Aber ich treibe reichlich Sport, Miss.",Dorm.jpg
+200,0,0,Common_ActorIsLover,"Im Ernst, Schatz?|Ich treibe schon sehr viel Sport.",Dorm.jpg
 210,0,0,,,Dorm.jpg
 220,0,0,,,Dorm.jpg
 230,0,0,,,Dorm.jpg
@@ -51,8 +51,8 @@ Stage,LoveReq,SubReq,VarReq,IntroText,Image
 295,0,0,,,Dorm.jpg
 296,0,0,,,Dorm.jpg
 297,0,0,,,Dorm.jpg
-300,0,0,,I've seen the way you act around me.|Have you ever had a Mentor before?,Dorm.jpg
-300,0,0,Common_ActorIsLover,"Baby, I think I know you pretty well.|Have you ever had a Mentor before?",Dorm.jpg
+300,0,0,,"Ich sehe doch, wie du dich in meiner Nähe benimmst.|Hattest du jemals einen Mentor?",Dorm.jpg
+300,0,0,Common_ActorIsLover,"Baby, ich glaube, ich kenne dich ganz gut.|Hattest du jemals einen Mentor?",Dorm.jpg
 301,0,0,,,Dorm.jpg
 302,0,0,,,Dorm.jpg
 303,0,0,,,Dorm.jpg
@@ -75,8 +75,8 @@ Stage,LoveReq,SubReq,VarReq,IntroText,Image
 330,0,0,,,Dorm.jpg
 331,0,0,,,Dorm.jpg
 399,0,0,,,Dorm.jpg
-450,0,0,,(Jennifer slides her finger in your collar ring.)|Are you ready for some training my protege?,Dorm.jpg
-450,0,0,Common_ActorIsLover,(Jennifer slides her finger in your collar ring.)|Are you ready for some training my baby?,Dorm.jpg
+450,0,0,,"(Jennifer steckt ihren Hinger durch deinen Halsband-|Ring.) Bereit zum Trainieren, mein Schützling?",Dorm.jpg
+450,0,0,Common_ActorIsLover,"(Jennifer steckt ihren Hinger durch deinen|Halsband-Ring.) Bereit zum Trainieren, Baby?",Dorm.jpg
 500,0,0,,,Dorm.jpg
 510,0,0,,,Dorm.jpg
 520,0,0,,,Dorm.jpg
@@ -101,74 +101,74 @@ Stage,LoveReq,SubReq,VarReq,IntroText,Image
 640,0,0,,,Dorm.jpg
 641,0,0,,,Dorm.jpg
 642,0,0,,,DormOrgasm.jpg
-650,0,0,,That would be lovely.|I have a toy we can try.,Dorm.jpg
-650,0,0,Common_ActorIsLover,That would be wonderful darling.|I have a nice toy we can try.,Dorm.jpg
-650,0,0,Common_ActorIsOwned,Of course Mistress.|I have a toy we can try.,Dorm.jpg
-650,0,0,Common_ActorIsOwner,That would be lovely my protege.|I have a nice toy we can try.,Dorm.jpg
+650,0,0,,"Das wäre reizend.|Ich hab ein Spielzeug, das wir ausprobieren könnten.",Dorm.jpg
+650,0,0,Common_ActorIsLover,"Das wäre wundervoll, Schatz. Ich hab ein|nettes Spielzeug, das wir ausprobieren könnten.",Dorm.jpg
+650,0,0,Common_ActorIsOwned,"Natürlich, Herrin.|Ich hab ein Spielzeug, das wir ausprobieren könnten.",Dorm.jpg
+650,0,0,Common_ActorIsOwner,"Das wäre wundervoll, mein Schützling. Ich hab ein|nettes Spielzeug, das wir ausprobieren könnten.",Dorm.jpg
 651,0,0,,,Dorm.jpg
-790,0,0,,Are you really kicking me out?,Door.jpg
-790,0,0,Common_ActorIsLover,Are you really kicking me out?|This is the end of our love story?,StopDating.jpg
+790,0,0,,Wirfst du mich ernsthaft raus?,Door.jpg
+790,0,0,Common_ActorIsLover,Wirfst du mich ernsthaft raus?|Ist das das Ende unserer Liebesgeschichte?,StopDating.jpg
 791,0,0,,,Door.jpg
 800,0,0,,,Dorm.jpg
 810,0,0,,,JenniferPushUps.jpg
 820,0,0,,,JenniferSitUps.jpg
 830,0,0,,,JenniferSquats.jpg
 840,0,0,,,JenniferJumpingJacks.jpg
-3010,0,0,,You will change and do exercises with me.|I want to see you in your underwear.,Dorm.jpg
-3010,0,0,Common_ActorIsLover,You will change and do exercises with me.|I want to see you in your undies baby.,Dorm.jpg
-3020,0,0,,You will change and do exercises with me.|I want to see you in your school uniform.,Dorm.jpg
-3020,0,0,Common_ActorIsLover,You will change and do exercises with me.|I want to see you in your school clothes baby.,Dorm.jpg
-3030,0,0,,You will change and do exercises with me.|I want to see you in your swimsuit.,Dorm.jpg
-3030,0,0,Common_ActorIsLover,You will change and do exercises with me.|I want to see you in your bikini baby.,Dorm.jpg
-3050,0,0,,You will change and do exercises with me.|I want to see you in a regular dress.,Dorm.jpg
-3050,0,0,Common_ActorIsLover,You will change and do exercises with me.|I want to see you in your nice dress baby.,Dorm.jpg
-3060,0,0,,You will change and do exercises with me.|I want to see you in your tennis outfit.,Dorm.jpg
-3060,0,0,Common_ActorIsLover,You will change and do exercises with me.|I want to see you in your tennis gear baby.,Dorm.jpg
+3010,0,0,,Du wirst dich umziehen und mit mir trainieren.|Ich will dich in deiner Unterwäsche sehen.,Dorm.jpg
+3010,0,0,Common_ActorIsLover,"Du wirst dich umziehen und mit mir trainieren.|Ich will dich in deiner Unterwäsche sehen, Baby.",Dorm.jpg
+3020,0,0,,Du wirst dich umziehen und mit mir trainieren.|Ich will dich in deiner Schuluniform sehen.,Dorm.jpg
+3020,0,0,Common_ActorIsLover,"Du wirst dich umziehen und mit mir trainieren.|Ich will dich in deinen Schulklamotten sehen, Baby.",Dorm.jpg
+3030,0,0,,Du wirst dich umziehen und mit mir trainieren.|Ich will dich in deiner Badekleidung sehen.,Dorm.jpg
+3030,0,0,Common_ActorIsLover,"Du wirst dich umziehen und mit mir trainieren.|Ich will dich in deinem Bikini sehen, Baby.",Dorm.jpg
+3050,0,0,,Du wirst dich umziehen und mit mir trainieren.|Ich will dich in einem normalen Kleid sehen.,Dorm.jpg
+3050,0,0,Common_ActorIsLover,"Du wirst dich umziehen und mit mir trainieren.|Ich will dich in deinem guten Kleid sehen, Baby.",Dorm.jpg
+3060,0,0,,Du wirst dich umziehen und mit mir trainieren.|Ich will dich in deiner Tenniskleidung sehen.,Dorm.jpg
+3060,0,0,Common_ActorIsLover,"Du wirst dich umziehen und mit mir trainieren.|Ich will dich in deiner Tennisausrüstung sehen, Baby.",Dorm.jpg
 3090,0,0,,,Dorm.jpg
-3091,0,0,,"(She gives a thumbs up.)  You look perfect.|Stay like that, you're not allowed to change.",Dorm.jpg
-3091,0,0,Common_ActorIsLover,"(She gives a thumbs up.)  I love it darling.|Stay like that, you're not allowed to change.",Dorm.jpg
+3091,0,0,,"(Sie zeigt einen Daumen nach oben.) Du siehst perfekt|aus. Bleib so, du darfst dich nicht mehr umziehen.",Dorm.jpg
+3091,0,0,Common_ActorIsLover,"(Sie zeigt einen Daumen nach oben.) Ich liebe es,|Schatz. Bleib so, du darfst dich nicht mehr umziehen.",Dorm.jpg
 3092,0,0,,,Dorm.jpg
 3093,0,0,,,Dorm.jpg
-3100,0,0,,"My protege, I will bind and gag you to|train your flexibility and escaping skills.",Dorm.jpg
-3110,0,0,,"My protege, I will restrain you to|train your flexibility and escaping skills.",Dorm.jpg
-3120,0,0,,You will now train on staying silent.|I will use one of your gags on you.,Dorm.jpg
-3130,0,0,,"Here, let me help you my protege.|(She releases you and winks at you.)",Dorm.jpg
-3140,0,0,,You don't need keys to train.|Here!  I will take them.,Dorm.jpg
-3150,0,0,,"Is that a crop?  This is a training tool for|Mentors, not proteges.  I'll take it.",Dorm.jpg
-3160,0,0,,(Your vibrating egg starts to buzz randomly.)|Is that a pink vibrating egg in your bag?,Dorm.jpg
+3100,0,0,,"Mein Schützling, ich werde dich fesseln und knebeln,|um deine Gelenkigkeit und dein Geschick zu trainieren.",Dorm.jpg
+3110,0,0,,"Mein Schützling, ich werde dich fesseln, um deine|Gelenkigkeit und dein Geschick zu trainieren.",Dorm.jpg
+3120,0,0,,Du wirst nun das Schweigen trainieren.|Ich werde einen deiner Knebel benutzen.,Dorm.jpg
+3130,0,0,,"Hier, lass mich dir helfen, mein Schützling.|(Sie befreit dich und zwinkert dir zu.)",Dorm.jpg
+3140,0,0,,Du brauchst zum Trainieren keine Schlüssel.|Her damit! Die nehme ich.,Dorm.jpg
+3150,0,0,,"Ist das eine Gerte? Das ist ein Trainingsutensil für|Mentoren, nicht für Schützlinge. Die nehme ich.",Dorm.jpg
+3160,0,0,,(Dein vibrierendes Ei fängt willkürlich an zu summen.)|Ist das ein pinkes vibrierendes Ei in deiner Tasche?,Dorm.jpg
 3161,0,0,,,Dorm.jpg
 3162,0,0,,,Dorm.jpg
 3190,0,0,,,Dorm.jpg
 3191,0,0,,,Dorm.jpg
-3200,0,0,,It's time for you to train.  You will do|some push-ups in your underwear.,Dorm.jpg
+3200,0,0,,"Es wird Zeit, dass du trainierst. Mach|ein paar Liegestütze in deiner Unterwäsche.",Dorm.jpg
 3201,0,0,,,PlayerPushUp.jpg
-3210,0,0,,It's time for you to train.  You will do|some sit-ups in your underwear.,Dorm.jpg
+3210,0,0,,"Es wird Zeit, dass du trainierst. Mach|ein paar Sit-ups in deiner Unterwäsche.",Dorm.jpg
 3211,0,0,,,PlayerSitUp.jpg
-3230,0,0,,This crop is kind of interesting.|We will train your endurance.,Dorm.jpg
+3230,0,0,,Diese Gerte ist irgendwie interessant.|Trainieren wir dein Durchhaltevermögen.,Dorm.jpg
 3231,0,0,,,Dorm.jpg
 3290,0,0,,,Dorm.jpg
 3291,0,0,,,Dorm.jpg
-3800,0,0,,(Jennifer grabs you and gives you a stern look.)|The rules are clear.  What were you doing?,Dorm.jpg
+3800,0,0,,(Jennifer packt dich und sieht dich streng an.)|Die Regeln sind eindeutig. Was hast du da gemacht?,Dorm.jpg
 3801,0,0,,,Dorm.jpg
-3810,0,0,,(Jennifer grabs you and gives you a stern look.)|The rules are clear.  What were you doing?,Dorm.jpg
+3810,0,0,,(Jennifer packt dich und sieht dich streng an.)|Die Regeln sind eindeutig. Was hast du da gemacht?,Dorm.jpg
 3811,0,0,,,Dorm.jpg
-3900,0,0,,Enough!  You deserve a punishment training.|Something that will teach you a lesson.,Dorm.jpg
+3900,0,0,,"Genug! Du hast dir ein Straftraining verdient.|Etwas, das dir eine Lehre sein wird.",Dorm.jpg
 3901,0,0,,,Dorm.jpg
 3902,0,0,,,Dorm.jpg
 3903,0,0,,,Dorm.jpg
-3910,0,0,,COMMON_PLAYERNAME.  You're now grounded.,Dorm.jpg
+3910,0,0,,COMMON_PLAYERNAME. Du hast nun Zimmerarrest.,Dorm.jpg
 3911,0,0,,,Dorm.jpg
 3912,0,0,,,Dorm.jpg
 3913,0,0,,,Dorm.jpg
 3914,0,0,,,Dorm.jpg
-3915,0,0,,Have you learned something?,Dorm.jpg
-3920,0,0,,"My protege, your training will be chaste.|You will wear your own chastity belt.",Dorm.jpg
+3915,0,0,,Hast du etwas gelernt?,Dorm.jpg
+3920,0,0,,"Mein Schützling, dein Training wird keusch ablaufen.|Du wirst deinen eigenen Keuschheitsgürtel tragen.",Dorm.jpg
 3921,0,0,,,Dorm.jpg
 3922,0,0,,,Dorm.jpg
 3923,0,0,,,Dorm.jpg
-3930,0,0,,You need to remember your place.|Some humiliation will help you.,Dorm.jpg
+3930,0,0,,"Du musst lernen, welche Rolle du hier spielst.|Etwas Demütigung sollte helfen.",Dorm.jpg
 3931,0,0,,,Dorm.jpg
 3932,0,0,,,Dorm.jpg
-3940,0,0,,"For your punishment, you will|have to train while you sleep.",Dorm.jpg
+3940,0,0,,"Zur Strafe wirst du trainieren|müssen, während du schläfst.",Dorm.jpg
 3941,0,0,,,Dorm.jpg
 3999,0,0,,,Dorm.jpg
