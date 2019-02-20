@@ -83,7 +83,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 300,0,0,,(Mit Amanda lernen.),(Ihr lernt zusammen und helft euch gegenseitig.|Sie scheint Gefallen daran zu haben.),300,0,0,StudyWithAmanda()
 300,0,0,,Brauchst du Hilfe?,"Ja, etwas Hilfe wäre nett.|(Du hilfst ihr beim Lernen und gibst ihr ein paar Tipps.)",300,0,0,HelpAmanda()
 300,0,0,,Kannst du mir helfen?,"Na klar, ich helfe dir gern.|(Sie hilft dir beim Lernen.)",300,0,0,HelpPlayer()
-300,0,0,,Sollten wir etwas|anderes machen?,Was würdest du den gern tun?,210,0,0,StopStudy()
+300,0,0,,Sollten wir etwas|anderes machen?,Was würdest du denn gern tun?,210,0,0,StopStudy()
 300,0,0,PoemAvail,Ich hab ein Gedicht gefun-|den. Willst du es hören?,"Ein Gedicht? (Sie nickt.)|Ja, das wäre wunderbar.",310,0,0,StartPoem()
 300,0,0,,Ich muss wieder los.|(Die Bibliothek verlassen.),,300,0,0,Leave()
 310,0,0,,"Sie naht in Schönheit|wie die Nacht,","(Sie wiederholt leise jedes Wort.)|Sie naht in Schönheit wie die Nacht,",311,0,0,

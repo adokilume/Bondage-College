@@ -84,7 +84,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 210,0,0,,"Mädel, du bist|eine Versagerin.","(Sie seufzt.) Ich weiß, ich bin schlecht unter Menschen.|Ich überlege, Soziologie-Unterricht zu nehmen.",220,0,0,RefuseSubmit()
 210,0,0,,"Du brauchst Hilfe,|die Schule zu überleben.","(Sie nickt.) Im sozialen Sinne, nehme ich an?|Ich überlege, Soziologie-Unterricht zu nehmen.",220,0,0,
 210,0,0,,Du musst selbst-|bewusster werden.,"Ja, ich weiß, dass ich nicht gut unter Menschen bin.|Ich überlege, Soziologie-Unterricht zu nehmen.",220,0,0,
-220,0,0,,Dumme Idee. Du|brauchst etwas strengeres.,"(Sie seufzt.) Etwas strengeres?|Was meinen Sie damit, Miss?",230,0,0,RefuseSubmit()
+220,0,0,,Dumme Idee. Du|brauchst etwas Strengeres.,"(Sie seufzt.) Etwas Strengeres?|Was meinen Sie damit, Miss?",230,0,0,RefuseSubmit()
 220,0,0,,Das reicht nicht. Du|brauchst härteres Training.,Härteres Training? Sicher?|Was meinst du damit?,230,0,0,
 220,0,0,,Vergiss den Unterricht. Du|brauchst echtes Training.,Echtes Training? Ich bin verwirrt.|Was meinst du damit?,230,0,0,
 230,0,0,,Ich kann dich umprogram-|mieren. Beliebter machen.,Mich beliebter machen?|Wie funktioniert das?,240,0,0,
@@ -135,7 +135,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 297,0,0,,"Steh auf, meine|süße Sklavin.",(Sie lächelt und erhebt sich langsam.)|Ich kann mein Training kaum erwarten.,0,1,0,EndEnslaveJennifer()
 297,0,0,,"Steh auf, Schlampe.",(Sie runzelt die Stirn und erhebt sich langsam.)|Ich kann mein Training kaum erwarten.,0,-1,0,EndEnslaveJennifer()
 297,0,0,,Steh auf.,(Sie nickt und erhebt sich langsam.)|Ich kann mein Training kaum erwarten.,0,0,0,EndEnslaveJennifer()
-300,0,0,,Ein Mentor?,"Ein Mentor ist ein Coach für das Leben, der dir|Ratschläge gibt und dich trainiert, besser zu werden.",301,0,0,
+300,0,0,,Einen Mentor?,"Ein Mentor ist ein Coach für das Leben, der dir|Ratschläge gibt und dich trainiert, besser zu werden.",301,0,0,
 300,0,0,,"Du meinst, ich|brauche einen Mentor?","Du brauchst einen Coach für das Leben, der dir|Ratschläge gibt und dich trainiert, besser zu werden.",301,0,0,
 300,0,0,,Was macht denn|ein Mentor?,"Ein Mentor ist ein Coach für das Leben, der dir|Ratschläge gibt und dich trainiert, besser zu werden.",301,0,0,
 301,0,0,,"Sind Sie eine Mentorin,|Miss Jennifer?","Nein, aber ich hatte selbst schon Mentoren.|Vielleicht könnte ich dich trainieren, Mädchen.",302,0,0,
@@ -249,7 +249,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 600,0,0,,Zieh deine|Schuluniform an.,"Gut, unsere College hat ganz nette Uniformen.|(Sie zieht ihre Schuluniform an.)",0,0,0,"ForceChangeActor(""Clothed"")"
 600,0,0,AllowTennisOutfit,Zieh deine|Tenniskleidung an.,(Sie nickt und zieht sich um.) Klar!|Lass uns morgen eine Runde spielen.,0,0,0,"ForceChangeActor(""Tennis"")"
 600,0,0,AllowSwimsuit,Zieh deine|Badesachen an.,(Sie nickt und zieht sich um.) Also gut.|Möchtest du zurück zum Pool?,0,0,0,"ForceChangeActor(""Swimsuit"")"
-600,0,0,!HasBelt,Lass deine|Unterwäsche sehen.,Planst du etwas verrücktes?|(Sie zeigt dir ihre Unterwäsche.),0,0,0,"ForceChangeActor(""Underwear"")"
+600,0,0,!HasBelt,Lass deine|Unterwäsche sehen.,Planst du etwas Verrücktes?|(Sie zeigt dir ihre Unterwäsche.),0,0,0,"ForceChangeActor(""Underwear"")"
 600,0,0,,Zieh dich aus.,Mach bitte keine Fotos.|(Sie zieht sich für dich aus.),0,0,0,"ForceChangeActor(""Naked"")"
 600,0,0,,Vergiss es.,(Sie nickt langsam.),0,0,0,
 610,0,0,,Du darfst dir heute einen|schönen Abend machen.,"Danke, Herrin. Aber ich hab|nichts vor, also bleibe ich hier.",0,0,0,"SetCurfew(""None"")"
@@ -284,7 +284,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 640,0,0,,(Ihr auf den Hintern|klatschen.),"(Du haust ihr ein paar Mal auf den Hintern,|während sie vor Schmerz wimmert.)",640,0,0,Masturbate(-1)
 640,0,0,,(Ihre Klitoris|streicheln.),(Sie schaudert ein wenig und scheint|deine sanfte Berührung zu genießen.),640,0,0,Masturbate(1)
 640,0,0,,(Mit ihrer Vagina spielen.),"(Sie stöhnt laut und atmet immer schneller,|während sie die Kontrolle verliert.)",640,0,0,Masturbate(2)
-640,0,0,,(Einen Finger rein|und raus bewegen.),(Deine zarte Berührung lässt sie|leise stöhnen und langsam zittern.),640,0,0,Masturbate(1)
+640,0,0,,(Einen Finger rein-|und rausbewegen.),(Deine zarte Berührung lässt sie|leise stöhnen und langsam zittern.),640,0,0,Masturbate(1)
 640,0,0,!Common_PlayerGagged,(Sie naschen.),"(Du vernaschst sie leidenschaftlich, während|sie laut stöhnt und wie wild zittert.)",640,0,0,Masturbate(2)
 640,0,0,,(Sie fisten.),"(Du versuchst, eine ganze Hand in sie|hineinzubekommen, tust Jennifer aber nur weh.)",640,0,0,Masturbate(-2)
 640,0,0,,(Alles abbrechen.),(Du brichst alles ab und lässt sie los.),0,0,0,EndEnslaveJennifer()
@@ -292,7 +292,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 641,0,0,Common_ActorIsOwned,"Du verdienst es, Sklavin.|(Orgasmus herbeiführen.)",(Du befriedigst sie weiter und sie bricht schnell|mit einem wundervollen Orgasmus zusammen.),642,0,0,JenniferOrgasm()
 641,0,0,,(Alles abbrechen.),(Du brichst alles ab und lässt sie los.|Sie seufzt und wirkt ziemlich enttäuscht.),0,0,0,JenniferDeniedOrgasm()
 641,0,0,Common_ActorIsOwned,"Du verdienst es nicht,|Sklavin. (Alles abbrechen.)",(Du brichst alles ab und lässt sie los.|Sie seufzt und wirkt ziemlich enttäuscht.),0,0,0,JenniferDeniedOrgasm()
-642,0,0,Common_ActorIsLover,I love you Jennifer.,"(Sie wird rot und atmet durch,|während sie aufsteht.)",0,1,0,EndEnslaveJennifer()
+642,0,0,Common_ActorIsLover,"Ich liebe dich,|Jennifer.","(Sie wird rot und atmet durch,|während sie aufsteht.)",0,1,0,EndEnslaveJennifer()
 642,0,0,,Du bist so eine Nutte.,"(Sie runzelt die Stirn und atmet|durch, während sie aufsteht.)",0,-1,1,EndEnslaveJennifer()
 642,0,0,,Hoffentlich|hat's dir gefallen.,"(Sie nickt und atmet durch,|während sie aufsteht.)",0,0,0,EndEnslaveJennifer()
 642,0,0,,"Ich bestimme, wann|du kommst, Mädchen.","(Sie nickt und atmet durch,|während sie aufsteht.)",0,0,1,EndEnslaveJennifer()
@@ -499,10 +499,10 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 3914,0,0,,@Oouu lmu mpm!,"Du bleibst so, bis ich es mir anders überlege.|(Sie macht ein paar Übungen und ignoriert dich.)",3999,0,0,"EndPunishment(""Grounded"")"
 3915,0,0,,(Nicken.),"Sehr gut, mein Schützling. (Sie befreit dich.)|Ruh dich aus, dein Training geht in Kürze weiter.",3999,0,0,ReleasePlayer()
 3915,0,0,,(Den Kopf schütteln.),Dann bleibst du halt so.|(Sie ignoriert dich weiterhin.),3999,0,0,"EndPunishment(""Grounded"")"
-3915,0,0,,@Aaehm!,"Gib mir eine klar Antwort, Mädchen.|Nicken für Ja. Kopfschütteln für Nein.",3915,0,0,
+3915,0,0,,@Aaehm!,"Gib mir eine klare Antwort, Mädchen.|Nicken für Ja. Kopfschütteln für Nein.",3915,0,0,
 3920,0,0,,Ein Keuschheitsgürtel?|Das ist reine Folter!,"Du wirst mehr Zeit fürs Training haben,|wenn du nicht mehr an dir herumspielst.",3921,0,0,
 3920,0,0,,Mentorin! Könnt Ihr mir lie-|ber den Hintern versohlen?,Das hast du nicht zu entscheiden.|Du wirst keusch sein.,3921,0,1,
-3920,0,0,,"Nein, bitte.|Ich werde brav sein.","Du wirst brav sein, und du wirst trainieren,|anstatt zu masturbieren.",3921,0,0,
+3920,0,0,,"Nein, bitte.|Ich werde brav sein.","Du wirst brav sein und du wirst trainieren,|anstatt zu masturbieren.",3921,0,0,
 3920,0,0,,"Nein, verdammt!",(Sie sieht dich bedrohlich an.)|Drück dich gepflegt aus! Du wirst keusch sein.,3921,-1,1,
 3920,0,0,,(Langsam nicken.),"Du wirst mehr Zeit fürs Training haben,|wenn du nicht mehr an dir herumspielst.",3921,0,-1,
 3921,0,0,,Ist wohl nur gerecht.,Auf jeden Fall. Jetzt nimm die Beine auseinander.,3922,1,0,

@@ -62,7 +62,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 141,0,0,,Warte! Das|geht zu weit.,"Zu spät, Trottel... (Sie hält inne.) Oh, Scheiße!|(Sie blickt umher und duckt sich hinter der Theke.)",200,0,-1,"SetPose(""Duck"")"
 141,0,0,,Wie wär's mit|Armdrücken?,"Das wäre auch... (Sie hält inne.) Oh, Scheiße!|(Sie blickt umher und duckt sich hinter der Theke.)",200,0,0,"SetPose(""Duck"")"
 141,0,0,,Kämpfen wir|doch gleich hier!,"Du sagst es, Mädel! (Sie hält inne.) Oh, Scheiße!|(Sie blickt umher und duckt sich hinter der Theke.)",200,0,1,"SetPose(""Duck"")"
-142,0,0,,Vielleicht könnten wir|uns innder Schule helfen.,"Kann schon sein... (Sie hält inne.) Oh, Scheiße!|(Sie blickt umher und duckt sich hinter der Theke.)",200,1,0,"SetPose(""Duck"")"
+142,0,0,,Vielleicht könnten wir|uns in der Schule helfen.,"Kann schon sein... (Sie hält inne.) Oh, Scheiße!|(Sie blickt umher und duckt sich hinter der Theke.)",200,1,0,"SetPose(""Duck"")"
 142,0,0,,Ich brauche Schutz.,"Gibt's nicht umsonst... (Sie hält inne.) Oh, Scheiße!|(Sie blickt umher und duckt sich hinter der Theke.)",200,0,-1,"SetPose(""Duck"")"
 142,0,0,,Ich bräuchte da|von dir einen Rat.,"Frag doch, Trottel... (Sie hält inne.) Oh, Scheiße!|(Sie blickt umher und duckt sich hinter der Theke.)",200,0,0,"SetPose(""Duck"")"
 150,0,0,,"Danke, Kameradin!|Wie geht's dir denn?",Ich bin nicht besoffen. Könnte also besser sein.,152,1,0,
@@ -140,7 +140,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 203,10,0,,"Wir machen uns zusam-|men vom Acker, Schatz.","Also gut! Ich bin bereit, wenn du es bist.",205,1,0,
 203,0,10,,"Wenn ich ""los"" sage,|rennst du mit mir weg.","Ja, Miss! Ich bin jederzeit bereit.",205,0,1,
 203,1,-10,,Miss Sidney. Ich gebe|Deckung für die Flucht.,"Okay, Mädchen! Ich bin bereit, wenn du es bist.",205,0,-1,
-204,0,0,,"Bleib hier, Sidney.|(Zur Pusherin gehen.)","(Du gehst rüber zu Sidneys Pusherin.)|Hi, brauchst du was von mir?",210,1,0,"SetActor("""")"
+204,0,0,,"Bleib hier, Sidney.|(Zur Pusherin gehen.)","(Du gehst rüber zu Sidneys Pusherin.)|Hi, willst du was von mir?",210,1,0,"SetActor("""")"
 204,0,0,,Vielleicht ist das|keine so gute Idee.,"Ja, bleib leise, irgendwann geht sie schon weg.",203,0,0,
 205,0,0,,(Mit Sidney weglaufen.),"(Ihr lauft beide davon und begebt euch zu|deinem Zimmer, wo Sidney nach Atem ringt.)",300,0,0,"LeaveWithSidney(""Exhausted"")"
 210,0,0,,"Ja, ich wollte|über Sidney sprechen.",Was ist mit ihr?,211,0,0,
@@ -177,7 +177,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 220,0,0,,Sie wird dir kein|Gras mehr verkaufen.,Nicht dein Ernst! Du Vollhonk! Du hast es verkackt!,221,-2,0,"SetPose(""Angry"")"
 221,0,0,,Ich hab mein|Bestes gegeben.,Und wie ein beschissener Nichtsnutz versagt!|(Sie geht wütend aus dem Pub.),0,0,0,SidneyEnd()
 221,0,0,,"Tut mir leid, Sidney.",Du bist verdammt erbärmlich! Hoffnungslos.|(Sie geht wütend aus dem Pub.),0,0,-1,SidneyEnd()
-221,0,0,,Drogen aufzugeben|wird dir gut tun.,"Fick dich, COMMON_PLAYERNAME!|(Sie geht wütend aus dem Pub.)",0,-1,1,SidneyEnd()
+221,0,0,,Drogen aufzugeben|wird dir guttun.,"Fick dich, COMMON_PLAYERNAME!|(Sie geht wütend aus dem Pub.)",0,-1,1,SidneyEnd()
 222,0,0,ChastityBeltDeal,Es gibt da aber eine|gewisse Abmachung.,Eine Abmachung? Was zur Hölle?,223,0,1,"SetPose(""Shy"")"
 222,0,0,ChastityBeltDeal,Du musst dafür|aber etwas anziehen.,Etwas anziehen? Was zur Hölle?,223,0,1,"SetPose(""Shy"")"
 222,0,0,,Kein Thema.,Du bist so verdammt großzügig.|Was machst du also heute Abend?,224,1,0,
@@ -202,5 +202,5 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 320,0,0,,Mach nichts dreckig.,(Sie runzelt die Stirn.) Ich bleib eh nicht|lange hier. Ich gehe um zwanzig Uhr.,330,-1,0,
 320,0,0,,Du kannst hier|übernachten.,Das wird nicht nötig sein. Ich bleib|nicht lange. Ich gehe um zwanzig Uhr.,330,0,0,
 320,0,0,,"Fühle dich wie zu|Hause, Kameradin.",Vielen Dank! Ich bleib auch nicht zu|lange hier. Ich gehe um zwanzig Uhr.,330,1,0,
-320,0,0,,Mi casa es su casa.,"Ich kann kein japanisch. Ich bleib|nicht lange, ich gehe um zwanzig Uhr.",330,0,0,
+320,0,0,,Mi casa es su casa.,"Ich kann kein Japanisch. Ich bleib|nicht lange, ich gehe um zwanzig Uhr.",330,0,0,
 330,0,0,,"Okay, Sidney.|(Zurück zum Zimmer.)",,330,0,0,BackToDorm()

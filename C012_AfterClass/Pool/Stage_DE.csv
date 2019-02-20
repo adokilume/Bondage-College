@@ -24,7 +24,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 110,0,0,,(Dich leise zurückziehen.),"(Du gehst leise zum Pool zurück, während|Jennifer dir hinterher sprintet und ins Wasser springt.)",0,-1,-1,EnterPool()
 120,0,0,,Na gut. Ich geh ja schon.|(Zurück zum Pool.),"(Du gehst zurück, während Jennifer dir|hinterher sprintet und ins Wasser springt.)",0,-1,-1,EnterPool()
 120,0,0,,"Ich gehe nirgendwohin,|Mädchen.",Dann bleib doch. Sie ist sowieso meine Bitch.|(Sie dreht sich zu Jennifer und zeigt auf sie.),130,0,1,FaceEachOther()
-120,0,0,,Mobbst du sie?,Ich kann machen was ich will. Sie ist meine Bitch.|(Sie dreht sich zu Jennifer und zeigt auf sie.),130,1,0,FaceEachOther()
+120,0,0,,Mobbst du sie?,"Ich kann machen, was ich will. Sie ist meine Bitch.|(Sie dreht sich zu Jennifer und zeigt auf sie.)",130,1,0,FaceEachOther()
 120,0,0,,"Lauf, Jennifer!|(Weglaufen.)",(Ihr lauft beide zum Pool zurück und|Jennifer springt schnell hinein.),0,1,-2,EnterPool()
 130,0,0,,"Bist du ihre|Bitch, Jennifer?","(Jennifer schüttelt den Kopf und kassiert eine Ohrfeige.)|Oh doch, das bist du, und du ziehst mein Halsband an!",140,0,0,
 130,0,0,,Sie scheint da nicht|deiner Meinung zu sein.,"(Jennifer schüttelt den Kopf und kassiert eine Ohrfeige.)|Du bist meine Bitch, also zieh mein Halsband an!",140,0,0,

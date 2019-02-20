@@ -127,9 +127,9 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 270,0,0,,"Ich schwöre, dich|zu beschützen.","Ich gehöre Euch, Herrin, das ist so cool.|Ich werde Eure treu ergebene Sexsklavin sein.",280,0,0,
 270,0,0,,"Ich schwöre, dir zu helfen.","Ich gehöre Euch, Herrin, das ist so cool.|Ich werde Eure treu ergebene Sexsklavin sein.",280,-1,0,
 270,0,0,,"Ich schwöre, dich|zu disziplinieren.","Ich gehöre Euch, Herrin, das ist so cool.|Ich werde Eure treu ergebene Sexsklavin sein.",280,1,0,
-280,0,0,,"Steh auf, meine|süße Sklavin.","Ja, Herrin, es ist wie ein wahrgewordener Traum.|Wie kann Eure Sklavin Euch behilflich sein?",0,0,-1,EndEnslaveSarah()
-280,0,0,,"Steh auf, Schlampe.","Ja, Herrin, es ist wie ein wahrgewordener Traum.|Wie kann Eure Sklavin Euch behilflich sein?",0,0,1,EndEnslaveSarah()
-280,0,0,,Steh auf.,"Ja, Herrin, es ist wie ein wahrgewordener Traum.|Wie kann Eure Sklavin Euch behilflich sein?",0,0,0,EndEnslaveSarah()
+280,0,0,,"Steh auf, meine|süße Sklavin.","Ja, Herrin, es ist wie ein wahr gewordener Traum.|Wie kann Eure Sklavin Euch behilflich sein?",0,0,-1,EndEnslaveSarah()
+280,0,0,,"Steh auf, Schlampe.","Ja, Herrin, es ist wie ein wahr gewordener Traum.|Wie kann Eure Sklavin Euch behilflich sein?",0,0,1,EndEnslaveSarah()
+280,0,0,,Steh auf.,"Ja, Herrin, es ist wie ein wahr gewordener Traum.|Wie kann Eure Sklavin Euch behilflich sein?",0,0,0,EndEnslaveSarah()
 300,0,0,,"Du weißt, was|ich brauche?",Du brauchst einen Mentor... einen Beschützer...|einen Aufpasser... einen Besitzer.,310,0,0,
 300,0,0,,Ich verstehe nicht.,Du brauchst einen Mentor... einen Beschützer...|einen Aufpasser... einen Besitzer.,310,0,0,
 300,0,0,,"Was denn, Miss?",Du brauchst einen Mentor... einen Beschützer...|einen Aufpasser... einen Besitzer.,310,0,0,
@@ -242,7 +242,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 640,0,0,,(Ihr auf den Hintern|klatschen.),"(Du gibst ihr ein paar Mal einen Klaps auf den Hintern,|während sie wimmert und versucht, dir auszuweichen.)",640,0,0,"Masturbate(-1, false)"
 640,0,0,,(Ihre Klitoris|streicheln.),"(Sie zittert recht unbeholfen, während|du mit ihrer weichen Klitoris spielst.)",640,0,0,"Masturbate(2, true)"
 640,0,0,,(Mit ihrer Vagina spielen.),"(Sie stöhnt und ihr Atem wird schneller, als|sie langsam die Kontrolle über sich verliert.)",640,0,0,"Masturbate(2, true)"
-640,0,0,,(Einen Finger rein|und raus bewegen.),(Sie stöhnt und zittert bei deiner Berührung.),640,0,0,"Masturbate(1, true)"
+640,0,0,,(Einen Finger rein-|und rausbewegen.),(Sie stöhnt und zittert bei deiner Berührung.),640,0,0,"Masturbate(1, true)"
 640,0,0,!Common_PlayerGagged,(Sie naschen.),"(Du leckst sie liebevoll, während sie|langsam stöhnt. Es scheint ihr zu gefallen.)",640,0,0,"Masturbate(1, true)"
 640,0,0,,(Sie fisten.),"(Du versuchst deine ganze Hand hineinzustecken,|schaffst es aber nicht und tust ihr dabei aber nur weh.)",640,0,0,"Masturbate(-1, true)"
 640,0,0,,(Alles abbrechen.),(Du brichst alles ab und lässt sie los.),0,0,0,EndEnslaveSarah()
@@ -256,7 +256,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 642,0,0,,"Ich bestimme, wann|du kommst, Mädchen.","(Sie nickt und atmet durch,|während sie langsam aufsteht.)",0,0,1,EndEnslaveSarah()
 642,0,0,,(Sie umarmen.),"(Du gibst ihr eine warme Umarmung|und hilfst ihr, sich zu erholen.)",0,1,-1,EndEnslaveSarah()
 642,0,0,,(Ihr beim|Erholen helfen.),"(Du hilfst ihr, sich zu erholen.)",0,0,-1,EndEnslaveSarah()
-700,0,0,Common_ActorIsOwned,"Ich kann einladen|wen ich will, Sklavin.","(Sie, senkt den Kopf.) Ja, Herrin.|Was könnten wir also tun, um Spaß zu haben?",0,-1,1,EndChat()
+700,0,0,Common_ActorIsOwned,"Ich kann einladen,|wen ich will, Sklavin.","(Sie, senkt den Kopf.) Ja, Herrin.|Was könnten wir also tun, um Spaß zu haben?",0,-1,1,EndChat()
 700,0,0,,Sidney ist eine gute|Freundin. Sei nett zu ihr.,Sidney ist gemein und ein Schwein!|(Sie verzieht das Gesicht.) Sie soll gehen!,701,-2,0,
 700,0,0,,Seid ihr beiden verfeindet?,"Sie ist mein schlimmster Feind!|Sag ihr, sie soll verschwinden!",701,-1,0,
 700,0,0,,Warum streitet ihr euch?,"Sie ist gemein, sie ist fett, sie ist 'ne Diebin|und eine Schlampe. Sag ihr, sie soll gehen.",701,-1,0,

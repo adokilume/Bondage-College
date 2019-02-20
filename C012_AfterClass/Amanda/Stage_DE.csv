@@ -1,6 +1,6 @@
 Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 0,0,0,Common_ActorIsOwner,"Was geht Euch durch|den Kopf, Herrin?","Nichts, meine Kleine, ich gehe meine Notizen durch.|(Sie liest und wiederholt ihre Schulnotizen.)",0,0,0,RandomAmandaDommeEvent()
-0,0,0,Common_ActorIsOwner,"Herrin, dürfte ich|meine Kleidung wechseln?","Natürlich, du darfst alles anziehen|was du willst, meine kleine Sklavin.",0,0,0,IsChangingBlocked()
+0,0,0,Common_ActorIsOwner,"Herrin, dürfte ich|meine Kleidung wechseln?","Natürlich, du darfst alles anziehen,|was du willst, meine kleine Sklavin.",0,0,0,IsChangingBlocked()
 0,5,0,!Common_ActorIsLover,"Du siehst so|hübsch aus, Amanda.","Danke, mir gefällt dein Aussehen auch.|(Du brauchst +20 Liebe, um Amanda zu daten.)",0,0,0,TestLove()
 0,0,0,,Wir müssen reden.,Worüber möchtest du denn reden?,0,0,0,TestTalk()
 0,0,5,IsRestrained,"Du magst es, gefesselt|zu sein, oder, Mädchen?","(Sie zwinkert.) Das würde ich nie zugeben, Miss. (Du|brauchst +20 Dominanz, um Amanda zu versklaven.)",0,0,0,TestDomme()
@@ -24,7 +24,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 20,0,0,ChatAvail,Ich wüsste gern|mehr über dich.,"In Ordnung, was möchtest|du über mich wissen?",500,0,0,StartChat()
 20,0,0,DateSarahAvail,Läuft da was zwischen|dir und Sarah?,"Ja... Nein... Es wissen wahrscheinlich alle außer ihr.|Ich liebe sie so sehr, aber ich kann es ihr nicht sagen.",120,0,0,
 20,0,0,DatingSarah,Möchtest du mit Sarah|mein Bett benutzen?,"(Sie wird etwas rot.) Nein, danke.|Das machen wir später bei uns.",20,0,0,TestBedSarah()
-20,0,0,CuffsGameAvail,Wie wär's mit einem|Handschellen-Duell?,"Ihr kichert und ringt beide um die Handschellen,|bis du es schaffst, ihre Hände gefangen zu nehmen.",0,0,0,CuffsGame()
+20,0,0,CuffsGameAvail,Wie wär's mit einem|Handschellen-Duell?,"Ihr kichert und ringt beide um die Handschellen,|bis du es schaffst, ihre Hände gefangenzunehmen.",0,0,0,CuffsGame()
 20,0,0,Common_PlayerChaste,Kannst du mir bitte mit|diesem Gürtel helfen?,Ich kann dir nicht helfen.|Ich habe keinen Schlüssel.,0,0,0,
 20,0,0,Common_ActorIsLover,Was unsere|Beziehung angeht...,"J-... Ja, Liebling?|(Sie wirkt nervös.)",190,0,0,
 20,0,0,,"Es wird Zeit, dass du|mein Zimmer verlässt.",Du wirfst mich aus deinem Zimmer?,790,-1,1,
@@ -116,7 +116,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 220,0,0,,"Ja, nur eine Herrin kann|dich Schlampe trainieren.","(Sie schluckt.) Eine Herrin, die mich trainiert...|Würden Sie diese Rolle übernehmen, Miss?",230,-1,1,
 230,0,0,,"Ich könnte, aber es gibt da|ein paar Voraussetzungen.",Voraussetzungen? Bitte erklären Sie mir das.,240,0,0,
 230,0,0,,"Ich könnte, aber du musst|dich mir verpflichten.",Inwiefern verpflichten? Bitte erklären Sie mir das.,240,0,0,
-240,0,0,,Zum Einen musst du ein|Schloss-Halsband tragen.,"Ich habe solche Halsbänder schon gesehen.|Ich weiß, dass sie extra für Untergebene gedacht sind.",250,0,1,
+240,0,0,,Zum einen musst du ein|Schloss-Halsband tragen.,"Ich habe solche Halsbänder schon gesehen.|Ich weiß, dass sie extra für Untergebene gedacht sind.",250,0,1,
 240,0,0,,Du wirst ein|Sklavenhalsband tragen.,"Ich habe solche Halsbänder schon gesehen.|Ich weiß, dass sie extra für Untergebene gedacht sind.",250,0,0,
 240,0,0,,Als meine Schlampe trägst|du ein Schloss-Halsband.,"Ich habe solche Halsbänder schon gesehen.|Ich weiß, dass sie extra für Untergebene gedacht sind.",250,-1,1,
 240,0,0,,Du müsstest ab und zu|ein Halsband tragen.,"Ich habe solche Halsbänder schon gesehen.|Ich weiß, dass sie extra für Untergebene gedacht sind.",250,0,-1,
@@ -210,11 +210,11 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 420,0,0,,"Ich verspreche, sie stets|zu beschützen.","Okay, vielleicht ist sie in guten Händen.|Was möchtest du jetzt machen?",0,0,1,EndChat()
 420,0,0,,"Ich verspreche, sie zu|schätzen und zu lieben.","Gut, du scheinst sie wahrhaftig zu lieben.|Was möchtest du jetzt machen?",0,1,0,EndChat()
 420,0,0,Common_ActorIsOwned,Ich verspreche gar nichts!,"Nun gut, Herrin, ich möchte nicht streiten.|Was möchtet Ihr jetzt machen?",0,-2,1,EndChat()
-420,0,0,!Common_ActorIsOwned,Ich verspreche gar nichts!,"Na schön! Mach was du willst, ist mir egal.|(Sie geht aus dem Zimmer und knallt die Tür zu.)",791,-2,1,KickedOut()
+420,0,0,!Common_ActorIsOwned,Ich verspreche gar nichts!,"Na schön! Mach, was du willst, ist mir egal.|(Sie geht aus dem Zimmer und knallt die Tür zu.)",791,-2,1,KickedOut()
 430,0,0,,"Okay, wir trennen uns.","Sehr gut, dein Verständnis freut mich sehr.|Was möchtest du jetzt machen?",0,1,0,EndChat()
 430,0,0,,Ich denke darüber nach.,Mach das und du wirst es verstehen.|Was möchtest du jetzt machen?,0,0,0,EndChat()
 430,0,0,Common_ActorIsOwned,"Sag mir nicht, was|ich tun soll, Sklavin.","Nun gut, Herrin, ich möchte nicht streiten.|Was möchtet Ihr jetzt machen?",0,-1,1,EndChat()
-430,0,0,!Common_ActorIsOwned,Ich trenne mich|nicht von ihr.,"Na schön! Mach was du willst, ist mir egal.|(Sie geht aus dem Zimmer und knallt die Tür zu.)",791,-1,1,KickedOut()
+430,0,0,!Common_ActorIsOwned,Ich trenne mich|nicht von ihr.,"Na schön! Mach, was du willst, ist mir egal.|(Sie geht aus dem Zimmer und knallt die Tür zu.)",791,-1,1,KickedOut()
 450,0,0,,"Spaß, Herrin?",,0,0,0,RandomAmandaDommeEvent()
 450,0,0,,Was ist los?,,0,0,0,RandomAmandaDommeEvent()
 450,0,0,,(Fröhlich nicken.),,0,0,0,RandomAmandaDommeEvent()
@@ -226,11 +226,11 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 510,0,0,,Das klingt recht|langweilig.,Erfolg in der Schule zu haben ist nicht langweilig!|Außerdem spiele ich Schach und Videospiele.,520,-1,0,
 510,0,0,,Magst du Spiele?,Ja! Ich spiele Schach und Videospiele.,520,1,0,
 520,0,0,HaveCuffs,Ich hätte da noch|ein Spiel für dich.,Ach? Was denn für eins?,530,0,0,
-520,0,0,,Hast du schon mal mit|Selbsfesselung gespielt?,Selbstfesselung? (Sie wird rot.)|Na ja... Ein paar Mal vielleicht schon.,540,0,0,
+520,0,0,,Hast du schon mal mit|Selbstfesselung gespielt?,Selbstfesselung? (Sie wird rot.)|Na ja... Ein paar Mal vielleicht schon.,540,0,0,
 530,0,0,,"Das Spiel heißt:|""Kämpf dich frei"".",Hört sich nach Spaß an.|Und wie spielt man das?,531,0,0,
 530,0,0,,"Das Spiel heißt: ""In|Handschellen gefangen"".",Hört sich nach Spaß an.|Und wie spielt man das?,531,0,1,
 530,0,0,,"Das Spiel heißt:|""Nimm mich fest"".",Hört sich nach Spaß an.|Und wie spielt man das?,531,0,-1,
-531,0,0,,Ganz einfach. (Sie mit|Handschellen angreifen.),"Ihr kichert und ringt beide um die Handschellen,|bis du es schaffst, ihre Hände gefangen zu nehmen.",532,0,0,CuffsGame()
+531,0,0,,Ganz einfach. (Sie mit|Handschellen angreifen.),"Ihr kichert und ringt beide um die Handschellen,|bis du es schaffst, ihre Hände gefangenzunehmen.",532,0,0,CuffsGame()
 532,0,0,Common_PlayerRestrained,"Tolles Spiel, oder? (An|den Handschellen rütteln.)","Ja, wir sollten es öfter spielen.|(Sie sieht dir zu und lacht.)",0,0,-1,EndChat()
 532,0,0,!Common_PlayerRestrained,"Tolles Spiel, oder?|(Ihr beim Rütteln zusehen.)","Ja, wir sollten es öfter spielen.|(Sie rüttelt zum Spaß an den Handschellen.)",0,0,1,EndChat()
 540,0,0,,Ist es ein Nervenkitzel?,"Auf jeden Fall, aber es ist nicht einfach,|sich selbst vernünftig zu fesseln.",541,0,0,
@@ -285,7 +285,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 640,0,0,,(Ihr auf den Hintern|klatschen.),"(Du gibst ihr ein paar Mal einen Klaps auf den Hintern,|während sie wimmert und versucht, dir auszuweichen.)",640,0,0,"Masturbate(-1, false)"
 640,0,0,,(Ihre Klitoris|streicheln.),"(Sie zittert recht unbeholfen, während|du mit ihrer weichen Klitoris spielst.)",640,0,0,"Masturbate(2, true)"
 640,0,0,,(Mit ihrer Vagina spielen.),"(Sie stöhnt und ihr Atem wird schneller, als|sie langsam die Kontrolle über sich verliert.)",640,0,0,"Masturbate(2, true)"
-640,0,0,,(Einen Finger rein|und raus bewegen.),(Sie stöhnt und zittert bei deiner Berührung.),640,0,0,"Masturbate(1, true)"
+640,0,0,,(Einen Finger rein-|und rausbewegen.),(Sie stöhnt und zittert bei deiner Berührung.),640,0,0,"Masturbate(1, true)"
 640,0,0,!Common_PlayerGagged,(Sie naschen.),"(Du leckst sie liebevoll, während sie|langsam stöhnt. Es scheint ihr zu gefallen.)",640,0,0,"Masturbate(1, true)"
 640,0,0,,(Sie fisten.),"(Du versuchst deine ganze Hand hineinzustecken,|schaffst es aber nicht und tust ihr dabei aber nur weh.)",640,0,0,"Masturbate(-1, true)"
 640,0,0,,(Alles abbrechen.),(Du brichst alles ab und lässt sie los.),0,0,0,EndEnslaveAmanda()
@@ -316,7 +316,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 670,0,0,Common_PlayerGagged,(Den Kopf schütteln.),(Sie zieht sich trotzdem um.) Das hast du nicht zu ent-|scheiden. Ich besorge dir bald einen gleichen Pyjama.,671,0,0,"ForceChangeActor(""Pajamas"")"
 671,0,0,,"Danke, Herrin.","Es ist mir eine Freude, meine Kleine.|Also, was könnten wir jetzt machen?",0,0,0,EndChat()
 671,0,0,Common_PlayerGagged,(Fröhlich nicken.),"Es ist mir eine Freude, meine Kleine.|Also, was könnten wir jetzt machen?",0,0,0,EndChat()
-700,0,0,Common_ActorIsOwned,"Ich kann einladen|wen ich will, Sklavin.","(Sie zuckt.) Natürlich, Herrin.|Was würdet Ihr gern tun?",0,-1,1,EndChat()
+700,0,0,Common_ActorIsOwned,"Ich kann einladen,|wen ich will, Sklavin.","(Sie zuckt.) Natürlich, Herrin.|Was würdet Ihr gern tun?",0,-1,1,EndChat()
 700,0,0,!Common_ActorIsOwner,Sidney ist eine gute|Freundin. Sei nett zu ihr.,"(Sie runzelt die Stirn.) Tja, sie ist jedenfalls nicht|meine Freundin. Kannst du sie bitten, zu gehen?",701,-2,0,
 700,0,0,Common_ActorIsOwner,"Sie ist eine gute Freundin.|Bitte nicht streiten, Herrin.","(Sie runzelt die Stirn.) Du solltest dir bessere Freunde|suchen, meine Kleine. Kannst du sie bitten, zu gehen?",701,-2,0,
 700,0,0,,Seid ihr beiden verfeindet?,"Ja. Kannst du sie bitten, zu gehen?",701,-1,0,
@@ -453,7 +453,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 3190,0,0,Common_PlayerRestrained,Seht Ihr mich|gern gefesselt?,"Auf jeden Fall, du siehst entzückend aus, meine Kleine.|(Sie kehrt zu ihren Schulunterlagen zurück und liest.)",3191,0,0,AllowLeave()
 3190,0,0,Common_PlayerGagged,@Niighn mhim!,"Es ist wundervoll, eine Untergebene wie dich zu haben.|(Sie kehrt zu ihren Schulunterlagen zurück und liest.)",3191,0,0,AllowLeave()
 3190,0,0,,(Den Kopf senken.),"Es ist wundervoll, eine Untergebene wie dich zu haben.|(Sie kehrt zu ihren Schulunterlagen zurück und liest.)",3191,0,0,AllowLeave()
-3200,0,0,,"Oh ja, ich liebe es,|gekitzelt zu werden.","Großartig. Auch ich liebe mette Kitzeleinlagen.|(Sie fällt über dich her und fängt an, dich zu kitzeln.)",3201,0,0,"DoActivity(""Tickle"", 1, 0)"
+3200,0,0,,"Oh ja, ich liebe es,|gekitzelt zu werden.","Großartig. Auch ich liebe nette Kitzeleinlagen.|(Sie fällt über dich her und fängt an, dich zu kitzeln.)",3201,0,0,"DoActivity(""Tickle"", 1, 0)"
 3200,0,0,,Nicht wirklich.,"Mal sehen, ob du damit recht hast.|(Sie fällt über dich her und fängt an, dich zu kitzeln.)",3201,0,0,"DoActivity(""Tickle"", -1, 0)"
 3200,0,0,,"Ja, Herrin.|Ich bin kitzlig.","Sehr schön, dann mach dich mal bereit zum Lachen.|(Sie fällt über dich her und fängt an, dich zu kitzeln.)",3201,0,0,"DoActivity(""Tickle"", 0, 0)"
 3200,0,0,,Ich will nicht|gekitzelt werden.,"Na gut, meine Kleine, dann sei ruhig.|(Sie geht ihre Schulunterlagen durch.)",3291,0,0,TestPunish()

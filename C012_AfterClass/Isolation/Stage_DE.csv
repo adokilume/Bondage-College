@@ -89,7 +89,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 320,0,0,SarahRestrained,Das macht Spaß!,"Ja! Aber achte darauf, dass du dich befreien kannst.|Wir wollen nicht die ganze Nacht hier feststecken.",320,0,0,DommeRemark()
 320,0,0,,"(So tun, als|würdest du reiten.)","(Du spielst, als würdest du auf einem Pferd reiten.)|Hü-hott! Los, Cowgirl!",320,0,0,
 320,0,0,!Common_PlayerChaste,(Dich befriedigen.),"(Du reibst dich an den Bock, aber es bringt nicht viel.)|Ich sehe das, Mädchen! So eine ungezogene Sklavin.",320,0,0,Masturbate()
-320,0,0,!SarahRestrained,Kannst du mir helfen?,Na klar! Lass mich dir da runter helfen.|(Sie befreit deine Beine und zieht dich herab.),300,0,0,"LockPlayer("""")"
+320,0,0,!SarahRestrained,Kannst du mir helfen?,Na klar! Lass mich dir da runterhelfen.|(Sie befreit deine Beine und zieht dich herab.),300,0,0,"LockPlayer("""")"
 320,0,0,SarahRestrained,Kannst du mir helfen?,"Ist das dein Ernst? Du steckst auch fest?|(Sie zappelt, kann sich aber nicht befreien.)",320,0,0,
 320,0,0,,"(Versuchen,|dich zu befreien.)","(Du rüttelst und zerrst an den Fußfesseln,|aber sie geben nicht nach.)",320,0,0,
 320,0,0,SarahRestrained,(Zu Sarah schauen.),(Sarah scheint in einer|ähnlichen Lage zu stecken wie du.),320,0,0,CheckSarah()

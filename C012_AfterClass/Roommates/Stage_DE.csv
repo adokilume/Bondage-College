@@ -4,15 +4,15 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 100,0,0,,Wie geht's dir?,Mir geht es gut. Ich entspanne mich zu Hause.|Und was ist mit dir? Was gibt es Neues?,110,0,0,
 100,0,0,,Was läuft bei dir?,"Nicht viel, ich entspanne mich zu Hause.|Und du? Was machst du heute Abend?",110,0,0,
 100,0,0,,Süßer Pyjama.,"(Sie schaut an sich herab und nickt.)|Also, was machst du heute Abend?",110,0,0,
-100,0,0,,Ist Sarah hier?,"Nein, ich glaube sie ist in einem Club in der Stadt.",100,0,0,
-100,0,0,,Ist Sidney hier?,"Nein, ich glaube sie ist auf einem Konzert.",100,0,0,
+100,0,0,,Ist Sarah hier?,"Nein, ich glaube, sie ist in einem Club in der Stadt.",100,0,0,
+100,0,0,,Ist Sidney hier?,"Nein, ich glaube, sie ist auf einem Konzert.",100,0,0,
 100,0,0,,Ist Jennifer hier?,"Nein, wahrscheinlich joggt sie draußen|oder sie schwimmt im Pool.",100,0,0,
 100,0,0,,"'Tschuldigung, falsche Tür.|(Weggehen.)",,100,0,0,Leave()
 110,0,0,,(Mit Amanda plaudern.),(Ihr unterhaltet euch über die Schule|und lernt euch etwas besser kennen.),110,0,0,ChitChat()
 110,0,0,,Wir könnten bei mir eine|Pyjama-Party machen.,Es ist zu spät für eine Party.|Machen wir das ein anderes Mal.,110,0,0,TestInviteAmanda()
 110,0,0,,Wollen wir uns|bei mir entspannen?,"Nein danke, ich würde lieber hier bleiben.",110,0,0,TestInviteAmanda()
 110,0,0,,Bei mir ist nichts los.|Kann ich hier rumhängen?,"Klar, wir können über die|Schule reden, wenn du willst.",110,0,0,
-110,0,0,,Wollen wir|raus gehen?,Dafür ist es etwas spät.|Bleiben wir drinnen.,110,0,0,
+110,0,0,,Wollen wir|rausgehen?,Dafür ist es etwas spät.|Bleiben wir drinnen.,110,0,0,
 110,0,0,,"Tut mir leid, ich muss los.|(Weggehen.)",,110,0,0,Leave()
 120,0,0,,Komm im Pyjama!|(Mit Amanda zurück.),,120,0,0,LeaveWithAmanda()
 200,0,0,,Wie geht's dir?,Mir geht's ganz gut. Und dir?|Hast du in der Schule Ärger bekommen?,220,0,0,TestIsolationSarah()
@@ -31,7 +31,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 210,0,0,,Was machst du|heute Abend?,Ich gehe in einen Club in der Stadt.|Vielleicht nehme ich dich irgendwann mit.,210,0,0,
 210,0,0,IsolationAvail,Willst du immer noch|in den Keller gehen?,Das könnte echt spannend werden.|Willst du jetzt gleich dort hin?,212,0,0,
 210,0,0,,Bei mir ist's langweilig.|Kann ich hier rumhängen?,"Klar, aber ich muss gegen zwanzig Uhr los.",210,0,0,
-210,0,0,,Wollen wir|raus gehen?,"Vielleicht morgen, COMMON_PLAYERNAME.|Ich hab heute Abend schon was vor.",210,0,0,
+210,0,0,,Wollen wir|rausgehen?,"Vielleicht morgen, COMMON_PLAYERNAME.|Ich hab heute Abend schon was vor.",210,0,0,
 210,0,0,,"Tut mir leid, ich muss los.|(Weggehen.)",,210,0,0,Leave()
 211,0,0,,Komm doch kurz mit!|(Mit Sarah zurück.),,211,0,0,LeaveWithSarah()
 212,0,0,,Ja! Gehen wir.|(In den Keller.),,212,1,0,EnterIsolation()
@@ -49,7 +49,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 223,0,0,,Ich würde auch|gern bestraft werden.,(Sie kichert.) Ließe sich einrichten.|Möchtest du den Raum sehen?,224,1,-1,
 223,0,0,,Ich muss irgendwann|in diesen Keller rein.,Möchtest du ihn jetzt gleich sehen?,224,0,0,
 223,0,0,,Jemand wie du sollte|auch bestraft werden.,Dann könntest du mich ja vielleicht bestrafen.|Möchtest du den Raum sehen?,224,-1,1,
-223,0,0,,Wie komme|ich da rein?,"Ich kann dir hinein helfen, wenn du willst.|Möchtest du jetzt gleich hin?",224,0,0,
+223,0,0,,Wie komme|ich da rein?,"Ich kann dir hineinhelfen, wenn du willst.|Möchtest du jetzt gleich hin?",224,0,0,
 224,0,0,,Ja! Gehen wir.|(In den Keller.),,224,1,0,EnterIsolation()
 224,0,0,,Nein. Das ist|keine gute Idee.,"(Sie wirkt enttäuscht.) Na gut. Wir können hier|bleiben und quatschen, wenn dir das lieber ist.",210,-1,0,TestRefuseIsolation()
 225,0,0,,"Na gut, Miss.|(In den Keller.)",,225,1,-1,EnterIsolation()

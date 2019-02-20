@@ -24,7 +24,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 60,0,0,,"Ja, gehen wir.",,60,0,0,Leave()
 60,0,0,,"Nein, bleiben wir.",Rock on! (Ihr seht zusammen der Show zu.),50,0,0,
 100,0,0,,(Mit ihrer|Klitoris spielen.),(Du spielst langsam mit ihrer Klitoris|und ihr Herzschlag wird etwas schneller.),100,0,0,MasturbateSidney(1)
-100,0,0,,(Ihre Vagina|befriedigen.),"(Du befriedigst sie liebevoll, während sie|stöhnt undihr Körper leichte Zuckungen hat.)",100,0,0,MasturbateSidney(2)
+100,0,0,,(Ihre Vagina|befriedigen.),"(Du befriedigst sie liebevoll, während sie|stöhnt und ihr Körper leichte Zuckungen hat.)",100,0,0,MasturbateSidney(2)
 100,0,0,,(Ihr eine Pause gönnen.),"(Du behältst deine Hand in ihren Shorts,|tust aber nichts. Sie sieht dich verwirrt an.)",100,0,0,MasturbateSidney(-1)
 100,0,0,,(Deine Hand|herausziehen.),"(Sidney wirkt enttäuscht, als du deine Hand entfernst,|aber ihr konzentriert euch bald wieder auf die Show.)",50,-1,1,BackToShow()
 110,0,0,!Common_ActorIsOwned,"Ich liebe dich, Sidney.|(Orgasmus herbeiführen.)","(Du wirst schneller, während sie zittert und stöhnt|und einen öffentlichen Orgasmus erlangt.)",120,1,0,OrgasmSidney()

@@ -1,6 +1,6 @@
 Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 0,0,0,Common_ActorIsOwner,"Was geht Euch durch|den Kopf, Herrin?","Nicht viel, meine kleine Bitch.|(Sie schaut auf ihr Handy.)",0,0,0,RandomSidneyDommeEvent()
-0,0,0,Common_ActorIsOwner,"Herrin, dürfte ich|meine Kleidung wechseln?","Klar, Bitch. Zieh an, was du wilst.",0,0,0,IsChangingBlocked()
+0,0,0,Common_ActorIsOwner,"Herrin, dürfte ich|meine Kleidung wechseln?","Klar, Bitch. Zieh an, was du willst.",0,0,0,IsChangingBlocked()
 0,5,0,!Common_ActorIsLover,"Du siehst so|hübsch aus, Sidney.","Danke, du siehst auch nicht grad schlecht aus.|(Du brauchst +20 Liebe, um Sidney zu daten.)",0,0,0,TestLove()
 0,0,0,Common_ActorIsLover,"Sollen wir was|unternehmen, Schatz?","Um zwanzig Uhr geht ein Rockkonzert los.|Kommst du mit, Süße?",0,0,0,TestGoOnDate()
 0,0,0,,Wir müssen reden.,Ja? Was ist denn?,0,0,0,TestTalk()
@@ -163,10 +163,10 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 380,0,0,!Common_ActorIsLover,Ich bin deine Bitch.,"So sieht's aus! (Sie schließt das Halsband zu.)|Von nun an nennst du mich ""Herrin"".",390,0,-3,PlayerCollared()
 380,0,0,Common_ActorIsLover,Ich bin deine Bitch.,"So sieht's aus! (Sie schließt das Halsband zu.)|Von nun an nennst du mich ""Herrin"", mein Schatz.",390,0,-3,PlayerCollared()
 380,0,0,,Stopp! Das|geht zu weit.,Gut. Aber dann vergiss meinen Schutz.,0,0,0,
-390,0,0,,Ich bin so glücklich!,"Das ist ziemlich Arschgeil. Ich beschütze|dich, aber du darfst mich niemals betrügen.",391,1,0,
+390,0,0,,Ich bin so glücklich!,"Das ist ziemlich arschgeil. Ich beschütze|dich, aber du darfst mich niemals betrügen.",391,1,0,
 390,0,0,,"Ich weiß, dass ich|gut aufgehoben bin.","Das bist du, und das ist geil. Ich beschütze|dich, aber du darfst mich niemals betrügen.",391,1,0,
 390,0,0,,Ich fühle mich|nicht so gut.,"Du gewöhnst dich dran. Vergiss nicht. Ich beschütze|dich, aber du darfst mich niemals betrügen.",391,-1,0,
-390,0,0,,(Schweigen und auf|ihre Füße schauen.),"Das ist ziemlich Arschgeil. Ich beschütze|dich, aber du darfst mich niemals betrügen.",391,0,-1,
+390,0,0,,(Schweigen und auf|ihre Füße schauen.),"Das ist ziemlich arschgeil. Ich beschütze|dich, aber du darfst mich niemals betrügen.",391,0,-1,
 390,0,0,,Muss das Halsband|so eng sein?,"Nicht meckern, sonst wirst du bestraft. Ich beschütze|dich, aber du darfst mich niemals betrügen.",391,0,1,
 391,0,0,,"Ich betrüge Euch|niemals, Herrin.","(Sie lächelt.) Sehr gut, meine kleine Bitch.|Noch was, ich bestimme jetzt über dein Sexleben.",392,0,-1,
 391,0,0,,"Okay, Sidney.","Das heißt für dich HERRIN! (Sie haut dir ins Gesicht.)|Noch was, ich bestimme jetzt über dein Sexleben.",392,-1,0,
@@ -237,8 +237,8 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 622,0,0,,Das bringt dir Manieren bei.|(Ihr den Gürtel anlegen.),"(Sie spreizt ihre Beine, während du ihr den Gürtel|um die Hüfte legst und ihren Schritt verriegelst.)",623,-1,3,LockBeltSidney()
 622,0,0,,Du wirst so süß aussehen.|(Ihr den Gürtel anlegen.),"(Sie spreizt ihre Beine, während du ihr den Gürtel|um die Hüfte legst und ihren Schritt verriegelst.)",623,1,1,LockBeltSidney()
 622,0,0,,"Warte, wir könnten sie an-|lügen. (Gürtel weglegen.)","Beste Idee aller Zeiten! Wir sagen ihr einfach,|wir hätten es getan, was weiß die schon.",623,2,0,
-623,0,0,,Perfekt!,Okay. Was sollen wir als nächstes tun?,0,0,0,EndEnslaveSidney()
-623,0,0,,Alles klar.,Okay. Was sollen wir als nächstes tun?,0,0,0,EndEnslaveSidney()
+623,0,0,,Perfekt!,Okay. Was sollen wir als Nächstes tun?,0,0,0,EndEnslaveSidney()
+623,0,0,,Alles klar.,Okay. Was sollen wir als Nächstes tun?,0,0,0,EndEnslaveSidney()
 630,0,0,,Zieh dich erst aus.,(Sie nickt und zieht sich langsam für dich aus.),631,0,0,"ForceChangeActor(""Naked"")"
 630,0,0,,"Ausziehen, Mädchen.",(Sie nickt und zieht sich langsam für dich aus.),631,0,0,"ForceChangeActor(""Naked"")"
 630,0,0,,Ich hab's mir|anders überlegt.,"Okay. Was möchtet Ihr tun, Herrin?",0,0,0,EndEnslaveSidney()
@@ -267,7 +267,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 640,0,0,,(Ihr auf den Hintern|klatschen.),(Du gibst ihr ein paar Klapse auf den Hintern.|Sie starrt dich an und wirkt nicht besonders erregt.),640,0,0,Masturbate(-1)
 640,0,0,,(Ihre Klitoris|streicheln.),(Deine sanfte Berührung entspannt sie.),640,0,0,Masturbate(0)
 640,0,0,,(Mit ihrer Vagina spielen.),(Sie stöhnt und atmet etwas schneller.),640,0,0,Masturbate(1)
-640,0,0,,(Einen Finger rein|und raus bewegen.),(Sie stöhnt und zittert bei deiner Berührung.),640,0,0,Masturbate(1)
+640,0,0,,(Einen Finger rein-|und rausbewegen.),(Sie stöhnt und zittert bei deiner Berührung.),640,0,0,Masturbate(1)
 640,0,0,!Common_PlayerGagged,(Sie naschen.),"(Du vernaschst sie leidenschaftlich, während|sie laut stöhnt und wie wild zittert.)",640,0,0,Masturbate(2)
 640,0,0,,(Sie fisten.),"(Du spielst mit deiner ganzen Hand in ihrer Vagina|herum, während sie laut stöhnt und wie verrückt zittert.)",640,0,0,Masturbate(2)
 640,0,0,,(Alles abbrechen.),(Du brichst alles ab und lässt sie los.),0,0,0,EndEnslaveSidney()
@@ -300,7 +300,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 663,0,0,,(Durch die Finger spähen.),"Schau! (Du nimmst die Hände runter.)|Und? Gefällt's dir, Süße?",664,0,0,"ForceChangeActor(""BlackLingerie"")"
 663,0,0,,(Die Hände runternehmen.),"(Du öffnest die Augen, bevor sie es dir sagt.)|Das war etwas zu früh, aber gefällt's dir, Süße?",664,0,0,"ForceChangeActor(""BlackLingerie"")"
 664,0,0,,"Nimm ein paar Kilo ab,|dann sieht's gut aus.",Fuck. (Sie schmollt.) Das war nicht sehr nett.|Egal. Ich ziehe das an wann immer du willst.,665,-1,1,"ActorSetPose("""")"
-664,0,0,,Es ist klasse. Ich hätte auch|gern solche Kurven wie du.,Irgendwann wirst du auch so tolle Kurven haben.|Bis dahin trage ich das wann immer du willst.,665,1,-1,
+664,0,0,,Es ist klasse. Ich hätte auch|gern solche Kurven wie du.,"Irgendwann wirst du auch so tolle Kurven haben.|Bis dahin trage ich das, wann immer du willst.",665,1,-1,
 664,0,0,,Du siehst toll aus.,Das freut mich sehr.|Ich ziehe das an wann immer du willst.,665,1,0,
 664,0,0,,Es ist okay.,"Ich dachte, es würde dir mehr gefallen.|Ich ziehe das an wann immer du willst.",665,0,0,"ActorSetPose("""")"
 664,0,0,,(Beifall klatschen.),"Ich bin sehr glücklich, Schatz.|Ich ziehe das an wann immer du willst.",665,1,0,
@@ -312,7 +312,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 670,0,0,Common_PlayerGagged,(Den Kopf schütteln.),"Okay, hätte dir ja nur einen Gefallen getan, Bitch.|Sag mal, was würdest du jetzt gern tun?",0,0,0,EndChat()
 671,0,0,,"Das seid Ihr, Herrin!",Gutes Mädchen. Was möchtest du jetzt machen?,0,0,0,EndChat()
 671,0,0,Common_PlayerGagged,(In deinen Knebel kichern.),"(Sie lacht.) Also, was möchtest du|machen, meine geknebelte Bitch?",0,0,0,EndChat()
-700,0,0,Common_ActorIsOwned,"Ich kann einladen|wen ich will, Sklavin.","(Sie schluckt.) Oh! Ja, Herrin.|Was würdet Ihr gern tun?",0,-1,1,EndChat()
+700,0,0,Common_ActorIsOwned,"Ich kann einladen,|wen ich will, Sklavin.","(Sie schluckt.) Oh! Ja, Herrin.|Was würdet Ihr gern tun?",0,-1,1,EndChat()
 700,0,0,!Common_ActorIsOwner,Amanda ist eine gute|Freundin. Sei nett zu ihr.,Scheiß drauf! Sie ist 'ne Versagerin.|Kannst du sie wegschicken?,701,-2,0,
 700,0,0,Common_ActorIsOwner,"Sie ist eine gute Freundin.|Bitte nicht streiten, Herrin.","Scheiß drauf! Sie ist 'ne Versagerin.|Wirf sie raus, Bitch.",701,-2,0,
 700,0,0,,Seid ihr beiden verfeindet?,"Ja, verdammt. Kannst du sie wegschicken?",701,-1,0,
@@ -330,7 +330,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 702,0,0,,"Wenn das passiert, trete|ich ihr in den Arsch.","Das wäre verdammt geil!|Also, was möchtest du jetzt machen?",0,0,1,EndChat()
 702,0,0,,"Wenn das passiert, kannst|du ihr in den Arsch treten.","Oh, aber sowas von! Also, was|möchtest du jetzt machen?",0,1,0,EndChat()
 702,0,0,,"Wenn das passiert,|reden wir darüber.",Einen Scheiß werden wir. Egal.|Was möchtest du jetzt machen?,0,0,-1,EndChat()
-710,0,0,Common_ActorIsOwned,"Ich kann einladen|wen ich will, Sklavin.","(Sie schluckt.) Oh! Ja, Herrin.|Was würdet Ihr gern tun?",0,-1,1,EndChat()
+710,0,0,Common_ActorIsOwned,"Ich kann einladen,|wen ich will, Sklavin.","(Sie schluckt.) Oh! Ja, Herrin.|Was würdet Ihr gern tun?",0,-1,1,EndChat()
 710,0,0,!Common_ActorIsOwner,Sarah ist eine gute|Freundin. Sei nett zu ihr.,Scheiß drauf! Sie ist scheiße.|Kannst du sie wegschicken?,711,-2,0,
 710,0,0,Common_ActorIsOwner,"Sie ist eine gute Freundin.|Bitte nicht streiten, Herrin.","Scheiß drauf! Sie ist scheiße.|Wirf sie raus, Bitch.",711,-2,0,
 710,0,0,,Seid ihr beiden verfeindet?,"Ja, verdammt, sie ist scheiße.|Kannst du sie wegschicken?",711,-1,0,
@@ -536,7 +536,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 3920,0,0,,"Nein, bitte.|Ich werde brav sein.","Du wirst brav sein, weil du keusch sein wirst.",3921,0,0,
 3920,0,0,,"Nein, verdammt!",(Sie gibt dir eine ziemlich dolle Ohrfeige.)|Bitch! Du wirst keusch sein.,3921,-1,1,
 3920,0,0,,(Langsam nicken.),"Brave Bitch, du wirst keusch sein.",3921,0,-1,
-3921,0,0,,Ist wohl nur gerecht.,"Jep, du bist die Bitch und ich kann|tun was ich will. Beine auseinander.",3922,1,0,
+3921,0,0,,Ist wohl nur gerecht.,"Jep, du bist die Bitch und ich kann|tun, was ich will. Beine auseinander.",3922,1,0,
 3921,0,0,,Ich hab keinen Schlüssel|für diesen Gürtel!,Dann such dir schonmal einen guten Schlosser.|Jetzt nimm deine Scheißbeine auseinander.,3922,0,0,
 3921,0,0,,Das ist|menschenunwürdig!,"Heul doch, Bitch!|Nimm deine Scheißbeine auseinander.",3922,-1,0,
 3921,0,0,,Für wie lange?,Bis du da irgendwie rauskommst.|Jetzt nimm deine Scheißbeine auseinander.,3922,0,0,
@@ -550,7 +550,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 3923,0,0,,(Den Kopf senken.),Genieße dein sexfreies Leben.|(Sie nimmt ihr Handy und chattet.),3999,0,0,"EndPunishment(""Belted"")"
 3930,0,0,,Bitte nicht hauen. Ich werde|ein braves Mädchen sein.,Und ob du brav sein wirst. Hierher mit dem Bauch.|(Sie setzt sich aufs Bett und deutet auf ihren Schoß.),3931,0,-1,ChangeBackToShort()
 3930,0,0,,Bitte tu mir nicht|zu sehr weh.,"Ich sage, wann es vorbei ist. Hierher mit dem Bauch.|(Sie setzt sich aufs Bett und deutet auf ihren Schoß.)",3931,0,0,ChangeBackToShort()
-3930,0,0,,Forget it Sidney.,"Zwing mich nicht, dir wehzutun. Hierher mit dem Bauch.|(Sie setzt sich aufs Bett und deutet auf ihren Schoß.)",3931,0,1,ChangeBackToShort()
+3930,0,0,,"Vergiss es, Sidney.","Zwing mich nicht, dir wehzutun. Hierher mit dem Bauch.|(Sie setzt sich aufs Bett und deutet auf ihren Schoß.)",3931,0,1,ChangeBackToShort()
 3930,0,0,,(Langsam nicken.),Diese Lektion vergisst du nicht. Hierher mit dem Bauch.|(Sie setzt sich aufs Bett und deutet auf ihren Schoß.),3931,0,0,ChangeBackToShort()
 3930,0,0,Common_ActorIsLover,"Ja, Schatz.",Es ist nur zu deinem Besten. Hierher mit dem Bauch.|(Sie setzt sich aufs Bett und deutet auf ihren Schoß.),3931,1,0,ChangeBackToShort()
 3931,0,0,,(Dich schweigend auf|ihren Schoß legen.),,3932,0,0,SidneySpankPlayer()

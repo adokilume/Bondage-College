@@ -8,7 +8,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 100,0,0,,@Deinen Nippel kneifen.,Du kneifst dir in den eigenen Nippel|und wimmerst leise vor Schmerz.,100,0,0,MasturbateUp()
 100,0,0,,@Deine Klitoris massieren.,Du reibst zärtlich deine Klitoris|und stöhnst immer lauter.,100,0,0,MasturbateDown()
 100,0,0,,@Mit deiner Vagina spielen.,Mit zwei Fingern spielst du mit deinen Schamlippen|und die Reize lassen dich erschaudern.,100,0,0,MasturbateDown()
-100,0,0,,@Einen Finger rein|und raus bewegen.,"Du steckst deinen Zeigefinger hinein und|wieder heraus, dein Atem wird immer schneller.",100,0,0,MasturbateDown()
+100,0,0,,@Einen Finger rein-|und rausbewegen.,"Du steckst deinen Zeigefinger hinein und|wieder heraus, dein Atem wird immer schneller.",100,0,0,MasturbateDown()
 100,0,0,,@Innen erkunden.,Du erkundest das Innere deiner Vagina.|Du stößt dabei auf sehr angenehme Stellen.,100,0,0,MasturbateDown()
 100,0,0,,@Aufhören und aufstehen.,Du richtest dich vom Bett auf.,0,0,0,StopMasturbate()
 110,0,0,,@Dich gehen lassen|und kommen.,"Du verlierst dich in wunderbarer Ekstase, während|deine Finger dir einen lieblichen Orgasmus bescheren.",120,0,0,Climax()
@@ -107,7 +107,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 530,0,0,,Mit Jennifer schlafen.|(Den Tag beenden.),,530,0,0,"EndChapter(""Lover"")"
 530,0,0,,"Vielleicht später,|meine Liebe. (Aufstehen.)","Klar, wir haben noch Zeit.",900,0,0,OffBed()
 800,0,0,,Ihr zwei seid so süß.,"Danke! Ich bin so froh, dass wir zusammen sind.|(Amanda kuschelt sich in ihre Arme und lächelt.)",800,0,0,
-800,0,0,,"Sagt bescheid, wenn|ihr etwas braucht.","Wir haben schon alles, was wir brauchen.|(Amanda ergänzt.) Wir haben uns.",800,0,0,
+800,0,0,,"Sagt Bescheid, wenn|ihr etwas braucht.","Wir haben schon alles, was wir brauchen.|(Amanda ergänzt.) Wir haben uns.",800,0,0,
 800,0,0,,"Ich bin so froh, dass|ihr euch gefunden habt.","Alles dank dir, COMMON_PLAYERNAME.|(Amanda nickt und küsst Sarah.)",800,0,0,
 800,0,0,,Kann ich mitmachen?,"Ein Dreier? Das ist 'ne abgefahrene Idee!|Aber nicht jetzt, es ist unser erster Tag.",800,0,0,
 800,0,0,!AmandaOwner,"Das reicht, Mädels.|Raus aus meinem Bett.","(Sie seufzen, stehen auf und ziehen sich wieder an.)",0,0,0,LoversOffBed()
