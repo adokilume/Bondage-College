@@ -8,7 +8,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 20,0,0,,Könntest du diese|Handschellen abnehmen?,"Ich habe zwar keinen Handschellenschlüssel, aber ich|kann dir beibringen, wie man sich daraus befreit.",50,0,0,
 20,0,0,,Dir würden sie noch|viel besser stehen.,"Handschellen neigen bei mir dazu, einfach|abzufallen. Möchtest du lernen, wie das geht?",50,0,0,
 20,0,0,PlayerGagged,@Bhtte bmndm mihh lhf.,"Tut mir leid, ich verstehe Knebelsprache noch nicht.|Du müsstest erst den Knebel abnehmen.",25,0,0,
-20,0,0,,(Nicken.),"Und auch noch so unterwürfig. Möchtest du|so bleiben, oder lernen, wie man sich befreit?",50,0,-1,
+20,0,0,,(Nicken.),"Und auch noch so unterwürfig. Möchtest du|so bleiben oder lernen, wie man sich befreit?",50,0,-1,
 25,0,0,PlayerGagged,@Bhtte bmndm mihh lhf.,"Tut mir leid, ich verstehe Knebelsprache noch nicht.|Du müsstest erst den Knebel abnehmen.",25,0,0,
 30,0,0,,Was macht ihr da?,"Ich bringe Nicole bei, wie man sich ohne Schlüssel|aus Handschellen befreit. Weißt du, wie das geht?",40,0,0,
 30,0,0,,Kann ich dich fesseln?,"Wow, jetzt nicht, ich bringe Nicole bei, wie man sich aus|Handschellen befreit. Möchtest du das auch lernen?",40,0,1,
@@ -46,7 +46,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 160,0,0,,"Komm schon, gib|mir eine Haarspange.",Klar. (Sie befestigt eine Haarspange an|der Taille deines Rocks.) Du bist bereit.,170,0,0,KinkyClip()
 165,0,0,,"Sexy Versteck,|gefällt mir.","Es soll nicht sexy sein, es ist einfach eine gute Idee,|ein paar an verschiedenen Stellen zu verstecken.",170,1,0,
 165,0,0,,"Ähh, musstest du sie|gerade da verstecken?","Ja, ein Entführer könnte deine Uniform entfernen.|Mehrere verschiedene Verstecke sind eine gute Idee.",170,0,-1,
-170,0,0,,Und was mache ich jetzt?,"Nimm die Haarspange und brich das breite|Ende ab, indem du es hin- und herbiegst.",180,0,0,
+170,0,0,,Und was mache ich jetzt?,"Nimm die Haarspange und brich das breite|Ende ab, indem du es hin und her biegst.",180,0,0,
 180,0,0,,"(Tun, was sie sagt.)","(Die Spange zerbricht mit etwas Mühe deiner Finger.)|Genau, du brauchst nur das dünne Ende mit der Niete.",190,0,0,
 190,0,0,,Und jetzt?,"Das ist der Metallstreifen, den du brauchst. Stecke es|an den Zacken entlang ins Schloss der Handschellen.",200,0,0,
 190,0,0,,Das stecke ich also|in die Handschellen?,Richtig. Stecke es an den Zacken|entlang ins Schloss der Handschellen.,200,1,0,
@@ -64,7 +64,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 315,0,0,,Und wenn ich ganz|lieb darum bitte?,Die Antwort lautet immer noch nein.,320,0,0,
 315,0,0,,Als könntest du|was dagegen tun.,"Pass auf, dieser Club sieht Mobbing nicht gern.",320,-1,0,
 320,0,0,,"Na gut, dann|versuch's mal.","(Nicole lässt sie los und Lauren streift kurz darauf|die Handschellen ab.) Na also, sag ich doch.",330,0,0,
-320,0,0,,"Zeig mal, was|du draufhast.",Ich bin die Beste. (Nicole lässt sie los und Lauren|hat sich kurz darauf von den Handschellen befreit.),330,1,0,
+320,0,0,,"Zeig mal, was|du drauf hast.",Ich bin die Beste. (Nicole lässt sie los und Lauren|hat sich kurz darauf von den Handschellen befreit.),330,1,0,
 330,0,0,,"Hmmm, das sah nicht|sehr schwierig aus.",Ich bin schneller als alle anderen hier.,340,-1,0,
 330,0,0,,Du hast einfach|eine Haarspange benutzt.,Na und? Das zählt trotzdem als Befreiung.,340,0,0,
 330,0,0,,"Wow, du scheinst echt|keine Mühe zu haben.","Ja, Handschellen hinter dem Rücken|sehe ich kaum als Herausforderung an.",340,1,-1,
@@ -117,7 +117,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 460,0,0,,Hast du genug?,(Sie nickt.),470,0,0,Enough()
 470,0,0,LaurenGagged,(Sie entknebeln.),(Du nimmst ihr den Knebel ab.) Danke.,470,0,0,UngagLauren()
 470,0,0,,(Sie freilassen.),(Du lässt Lauren frei und sie|zieht sich hastig wieder an.),510,1,0,ReleaseLauren()
-470,0,0,,(Sie weiterärgern.),"(Nachdem sie vorhin die Haarspange fallengelassen|hat, ist sie nun hilflos an den Stuhl gekettet.)",460,0,0,
+470,0,0,,(Sie weiter ärgern.),"(Nachdem sie vorhin die Haarspange fallengelassen|hat, ist sie nun hilflos an den Stuhl gekettet.)",460,0,0,
 470,0,0,,"Ich würde so gern auch ver-|suchen, da auszubrechen.","(Nicole meldet sich zu Wort.) Wir haben noch mehr|Hand- und Fußfesseln, brauchst du Hilfe?",480,0,0,NoLeave()
 480,0,0,,Das war nur Spaß.,(Du wendest dich wieder Lauren zu.),470,0,0,Leave()
 480,0,0,,"Wärst du so nett?|Ja, bitte.","(Du ziehst deine Uniform aus, und nachdem sie|frei ist, kettet dich Nicole an einen zweiten Stuhl.)",490,0,-3,PlayerCuffed()
@@ -132,7 +132,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 490,0,0,,(Fluchtversuche|aufgeben.),"(Nicole fängt an sich zu langweilen und versucht|wieder selbst, sich aus Handschellen zu befreien.)",500,0,-1,
 500,0,0,,Kann mir bitte|jemand helfen?,"(Nicole knebelt dich mit etwas Stoff.)|Sei still, ich versuche mich zu konzentrieren.",500,0,-1,PlayerClothGagged()
 500,0,0,PlayerGagged,@HMLFM!,(Deine gedämpften Hilfeschreie werden von der|allgemeinen Geräuschkulisse des Clubs übertönt.),500,0,0,
-500,0,0,,(Weiterzappeln.),(Du kannst nichts tun. Deine Gliedmaßen fangen|bei dieser grausamen Pose langsam zu leiden an.,500,0,0,
+500,0,0,,(Weiter zappeln.),(Du kannst nichts tun. Deine Gliedmaßen fangen|bei dieser grausamen Pose langsam zu leiden an.,500,0,0,
 500,0,0,,(Auf Hilfe warten.),(Du sitzt einfach nur unbequem da.),500,0,0,Wait()
 510,0,0,,Hat dir das gefallen?,"Nicht wirklich, das war ziemlich grausam.|(Sie fängt wieder an, Nicole zu unterrichten.)",520,0,0,Enjoyment()
 510,0,0,,Das sollten wir|nochmal machen.,"Finde ich nicht.|(Sie fängt wieder an, Nicole zu unterrichten.)",520,0,0,Again()
@@ -179,7 +179,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 710,0,0,,(Den Kopf schütteln.),"Dachte ich mir. Bitte hab Nachsicht, das hier ist neu|für mich, aber Cassidy meinte, ich soll das lernen.",730,0,1,
 710,0,0,,@Whf fhh Ghffhftmn?,"Ich hab keinen Schimmer, was du mir sagen willst.",710,0,0,
 720,0,0,,Danke.,"Gerne. Ich wusste, dass diese versauten Geschichten|nicht stimmen, du bist so freundlich. (Sie geht wieder.)",525,1,0,CanLeave()
-720,0,0,,Wir könnten|trotzem intim werden.,"Oh mein Gott, du bist doch eine Schlampe.|(Sie stürmt davon.)",525,-1,0,CanLeave()
+720,0,0,,Wir könnten|trotzdem intim werden.,"Oh mein Gott, du bist doch eine Schlampe.|(Sie stürmt davon.)",525,-1,0,CanLeave()
 730,0,0,,@Whf hft dh vh?,"(Sie ignoriert dein Gemurmel, geht um dich herum,|hockt sich hin und erlaubt sich einen Blick.)",740,0,0,ExtraRestraint()
 730,0,0,,(Nervös aussehen.),"Mir ist dabei auch nicht ganz wohl, aber ich muss. (Sie|hockt sich hinter dir hin und erlaubt sich einen Blick.)",740,0,-1,ExtraRestraint()
 730,0,0,,(Ermutigend nicken.),"Na gut, hoffentlich gefällt dir das. (Sie hockt|sich hinter dir hin und erlaubt sich einen Blick.)",740,1,0,ExtraRestraint()

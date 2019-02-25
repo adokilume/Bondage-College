@@ -1,7 +1,7 @@
 Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 0,0,0,,Was ist denn?,Es geht um diesen Club und auch um Natalie.,10,0,0,
 01234,0,0,,"(Abkürzung zum Club,|nur für Entwickler.)",,80,0,0,ShortCut()
-0,0,0,,Ich weiß über die Bienchen|und Blümchen bescheid.,"Das werden wir sehen, mir geht es|aber um diesen Club und Natalie.",10,-1,0,
+0,0,0,,Ich weiß über die Bienchen|und Blümchen Bescheid.,"Das werden wir sehen, mir geht es|aber um diesen Club und Natalie.",10,-1,0,
 0,0,0,,"Mach dir keine Mühe, es|ist alles recht offensichtlich.",Dann lass ich dich mal allein dahinterkommen.,70,-1,0,SkipExplanation()
 5,0,0,,"Hallo, was ist hier los?","Das ist der Kinbaku-Club unserer Schule. Du bist|herzlich eingeladen, deinen Abend hier zu verbringen.",15,0,0,
 5000,0,0,,"(Abkürzung zum Club,|nur für Entwickler.)",,80,0,0,ShortCut()
@@ -32,7 +32,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 75,0,0,,"Ich hab mich darauf|gefreut, sie zu fesseln.","Ich habe dem ganzen Club verboten,|sie zu fesseln. Das gilt auch für dich.",70,0,0,AskChloe()
 75,0,0,,Warum braucht|sie eine Auszeit?,"Ich fürchte, sie wird langsam zu unterwürfig. Im Club ist|das kein Problem, aber sie muss erwachsen werden.",70,0,0,AskChloe()
 100,0,0,,Was soll ich denn|jetzt wieder getan haben?,Außer meine Freundin zu misshandeln|und sie hilflos im Stich zu lassen? Sag du's mir.,110,0,0,
-100,0,0,,"Na und? Pass auf,|oder du bist die Nächste.",Denk nicht mal dran. Du hast gerade|die Höhle des Drachen betreten.,110,-1,0,
+100,0,0,,"Na und? Pass auf|oder du bist die Nächste.",Denk nicht mal dran. Du hast gerade|die Höhle des Drachen betreten.,110,-1,0,
 100,0,0,,Wo ist meine|Bitch denn hin?,"Meine FREUNDIN erholt sich von|dem, was DU ihr angetan hast.",110,-2,0,
 100,0,0,,"Tut mir leid, ich wollte|das nicht ausarten lassen.","Eine einfache Entschuldigung hilft nicht|nach dem, was Natalie durchgemacht hat.",110,0,-1,
 110,0,0,,Was ist mit ihr passiert?,Ihre nächste Stunde war Mathe und sie wurde|danach von einer wutentbrannten Mildred entdeckt.,120,0,0,
