@@ -21,7 +21,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 110,0,0,,"(Versuchen, die|Schlösser zu entfernen.)",Die großen Vorhängeschlösser sitzen fest.|Ohne Schlüssel lassen sie sich nicht öffnen.,110,0,0,
 110,0,0,,(Nochmal in die|Tasche schauen.),"Du guckst nochmal nach, aber da sind keine Schlüssel|drin und du kommst auch an nichts anderes mehr ran.",110,0,0,
 110,0,0,Common_PlayerGagged,(Deinen Knebel|abnehmen.),"Du nimmst deinen Knebel ab, solange du noch kannst.",110,0,0,PlayerRemoveGag()
-110,0,0,, (Um Hilfe rufen.),"Du rufst durch den Raum. Ein paar Mädels schauen|zu dir, kichern und wenden sich direkt wieder ab.",110,0,0,
+110,0,0,,Um Hilfe rufen.,"Du rufst durch den Raum. Ein paar Mädels schauen|zu dir, kichern und wenden sich direkt wieder ab.",110,0,0,
 110,0,0,,(Dir die übrigen|Manschetten anschließen.),"Du kannst nirgends mehr hin, aber willst du wirklich|deine ganze Freiheit aufgeben? Wenn ja, klicke erneut.",110,0,0,FullManacle()
 115,0,0,,Du hast hoffentlich|Schlüssel dafür?,"Nein, du bist jetzt nicht mehr mein Problem.|(Sie lässt dich dort zurück.)",120,0,0,ActorLeaves()
 115,0,0,,"Es tut mir leid, Erica.",Dafür ist es zu spät. Fürs nächste Mal|weißt du Bescheid. (Sie lässt dich dort zurück.),120,1,-1,ActorLeaves()
@@ -30,7 +30,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 115,0,0,Common_PlayerGagged,(An den Schlössern|rütteln.),"Ich hab keine Schlüssel dafür, du bist nicht mehr|mein Problem. (Sie lässt dich dort zurück.)",120,0,0,ActorLeaves()
 116,0,0,,(Ihr hinterherrufen.),(Amelia ignoriert dich und|kehrt zu ihrer Gruppe zurück.),120,0,0,ActorLeaves()
 116,0,0,,(Amelia ignorieren.),(Ohne Amelia kannst du dich auf deinen|Fluchtversuch aus diesen Ketten konzentrieren.),120,0,0,ActorLeaves()
-120,0,0,, (Um Hilfe rufen.),"Du rufst durch den Raum. Ein paar Mädels schauen|zu dir, kichern und wenden sich direkt wieder ab.",120,0,0,ExploreManacles()
+120,0,0,,Um Hilfe rufen.,"Du rufst durch den Raum. Ein paar Mädels schauen|zu dir, kichern und wenden sich direkt wieder ab.",120,0,0,ExploreManacles()
 120,0,0,Common_PlayerGagged,(In den Knebel|schreien.),Offenbar hört oder bemerkt|niemand deine gedämpften Schreie.,120,0,0,ExploreManacles()
 120,0,0,,(Gegen die Ketten|ankämpfen.),"Du strampelst panisch, aber der unnachgiebige|Stahl ist um einiges stärker als du.",120,0,0,ExploreManacles()
 120,0,0,,(Verspielt ankämpfen.),Du testest deinen Spielraum. Es macht irgendwie Spaß|und es sollte bald jemand Interesse an dir finden.,120,0,0,ExploreManacles()
