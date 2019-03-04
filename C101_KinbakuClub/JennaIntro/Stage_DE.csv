@@ -14,7 +14,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 20,0,0,,Eine Wette?|Geht es ihr gut?,"Keine Sorge. Sie sollte ein neues Mitglied anwerben,|hat aber den wichtigen Teil der Erklärung vergessen.",30,0,0,
 25,0,0,,Ich bin COMMON_PLAYERNAME.,Cool. Ich sollte dir ein paar|Dinge über diesen Club erklären.,30,0,0,
 25,0,0,,Mein Name ist COMMON_PLAYERNAME.|Sehr erfreut.,"Du sprichst so formell, das ist süß.|Ich muss aber zuerst ein paar Dinge erklären.",30,0,-1,
-30,0,0,,Was gibt es zu erklären?,"Das College glaubt, dieser Club beschäftige sich mit|""Kulturellen Kunstformen, Fertigkeiten und Gymnastik""",40,0,0,
+30,0,0,,Was gibt es zu erklären?,"Das College glaubt, dieser Club beschäftige sich mit|""Kulturellen Kunstformen, Fertigkeiten und Gymnastik"".",40,0,0,
 30,0,0,,"Spar's dir, ich komme|auch allein zurecht.","Na gut, dann muss ich jetzt los.|(Jenna verlässt den Raum.)",80,-1,1,Done()
 30,0,0,,Das ist nicht mein|erster Kinbaku-Club.,"Dann kennst du die Spielregeln wohl schon. Apropos|Spiel, hier hast du ein Seil als Willkommensgeschenk.",70,0,0,GetRope()
 40,0,0,,Ernsthaft?,"Offiziell schon, ein paar der Lehrer wissen es besser.|Außerdem ist es nicht nur Kinbaku mit Seilen.",50,0,0,
