@@ -74,7 +74,7 @@ Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 236,0,0,,"Ich weiß noch nicht so|recht, ob ich das will.","Unsinn, komm schon, du würdest|so schön unterwürfig darin aussehen.",236,0,-1,
 236,0,0,,"Nein, ein andermal.","Okay, dein Pech.",200,0,0,
 236,0,0,,Würdest du? Danke.|Ich hatte Probleme damit.,"(Amelia hilft dir in den Handschuh und festigt die|Bänder und Riemen, bis sich deine Ellbogen berühren.)",500,1,-1,PlayerArmbinded()
-250,0,0,,Haben sie beide|die Fesseln nötig?,"Lucy ist ganz lieb, wenn sie nicht gerade jemanden den|Freund ausspannt, und kennt viele Kinbaku-Techniken.",251,,,
+250,0,0,,Haben sie beide|die Fesseln nötig?,"Lucy ist ganz lieb, wenn sie nicht gerade jemandem den|Freund ausspannt, und kennt viele Kinbaku-Techniken.",251,,,
 250,0,0,,Wirst du mich auch|so fesseln müssen?,"Vielleicht, aber Lucy müssten wir gar nicht fesseln, sie|könnte eindrucksvolles Kinbaku an dir demonstrieren.",251,0,-1,
 251,0,0,,Und Heather?,"Sie ist der böse Zwilling, der seine Schwester imitiert.|Sie behaupten beide, Lucy zu sein.",252,0,0,
 251,0,0,,"Ich weiß bereits genug,|um jeden zu fesseln.","Lucy könnte dir zeigen, dass Kinbaku mehr als nur|Fesseln ist. Heather hingegen bringt dir Schmerzen bei.",252,0,1,
