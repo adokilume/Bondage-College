@@ -17,8 +17,13 @@ var TranslationDictionary = [
 		LanguageName: "Deutsch",
 		EnglishName: "German",
 		Files: [
+			"Screens/Character/Login/Text_Login_DE.txt",
 			"Screens/Room/Introduction/Dialog_NPC_Introduction_Maid_DE.txt",
-			"Screens/Character/Login/Text_Login_DE.txt"
+			"Screens/Room/Introduction/Dialog_NPC_Introduction_Sub_DE.txt",
+			"Screens/Room/MaidQuarters/Dialog_NPC_MaidQuarters_InitiationMaids_DE.txt",
+			"Screens/Room/MaidQuarters/Dialog_NPC_MaidQuarters_Maid_DE.txt",
+			"Screens/Room/MainHall/Dialog_NPC_MainHall_Maid_DE.txt",
+			"Screens/Room/MainHall/Text_MainHall_DE.txt"
 		]
 	},
 	{
