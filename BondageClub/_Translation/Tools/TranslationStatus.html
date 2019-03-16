@@ -69,10 +69,7 @@
 /*	
     TO DO
     Check for...
-    * Strings that exist in the original but not in the translation
-    * Strings that exist in the translation but not in the original
     * Duplicate strings in translation
-    * Untranslated strings (same as english or empty line)
     * Strings that are too long (more than 2 lines for player or more than 3 lines for npc)
     * Identical string translated differently in another file of the same language
 */
@@ -199,6 +196,11 @@ function AnalyzeStatus(Status) {
             Status.ObsoleteTranslations.push(Status.Data[T]);
         }
     }
+    Status.UntranslatedLines = [];
+    for (var T = 0; T < Status.Data.length; T++) {
+        if (Status.Data[T].English.trim() === Status.Data[T].Translation.trim() || Status.Data[T].Translation.trim() === "")
+            Status.UntranslatedLines.push(Status.Data[T]);
+    }
     CreateStatusSummary(Status);
 }
 
@@ -212,6 +214,10 @@ function CreateStatusSummary(Status) {
     if (Status.ObsoleteTranslations.length > 0) {
         Ok = false;
         AddStatusReport(Status, "Warning", Status.ObsoleteTranslations.length + " lines not used");
+    }
+    if (Status.UntranslatedLines.length > 0) {
+        Ok = false;
+        AddStatusReport(Status, "Error", Status.UntranslatedLines.length + " lines not translated");
     }
     if (Ok) {
         AddStatusReport(Status, "Ok", "OK");
@@ -246,6 +252,15 @@ function ViewDetails(Status) {
             AddNodeWithText(List, "dd", Data.English);
         }
     }
+    if (Status.UntranslatedLines.length > 0) {
+        AddNodeWithText(Status.Details, "h4", "These lines appear not to be translated:");
+        var List = document.createElement("dl");
+        Status.Details.appendChild(List);
+        for (var Data of Status.UntranslatedLines) {
+            AddNodeWithText(List, "dt", "Line " + Data.Line + ":");
+            AddNodeWithText(List, "dd", Data.English);
+        }
+    }
 }
 
 function AddStatusReport(Status, Type, Text) {
@@ -268,6 +283,8 @@ function AddNodeWithText(Parent, Tag, Text) {
 
 <body>
     <h1>Bondage Club Translation Status Report</h1>
+    <p>This tool processes all translation files that are currently referenced inside Translation.js. Its main purpose is to check if all translation files are up to date and if there are any potential problems. If a status displays something other than &quot;OK&quot;, click the &quot;View Details&quot; button to learn more.</p>
+    <p>Please note that this tool isn't perfect and is supposed to merely assist the translation process by offering suggestions. Some of the reports may be false alarms, so please use your own judgement to decide if they need to be addressed.</p>
     <div id="LanguageWrapper"></div>
 </body>
 </html>

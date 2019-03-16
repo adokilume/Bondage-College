@@ -23,7 +23,9 @@ var TranslationDictionary = [
 			"Screens/Room/MaidQuarters/Dialog_NPC_MaidQuarters_InitiationMaids_DE.txt",
 			"Screens/Room/MaidQuarters/Dialog_NPC_MaidQuarters_Maid_DE.txt",
 			"Screens/Room/MainHall/Dialog_NPC_MainHall_Maid_DE.txt",
-			"Screens/Room/MainHall/Text_MainHall_DE.txt"
+			"Screens/Room/MainHall/Text_MainHall_DE.txt",
+			"Screens/Room/Shibari/Dialog_NPC_Shibari_Student_DE.txt",
+			"Screens/Room/Shibari/Dialog_NPC_Shibari_Teacher_DE.txt"
 		]
 	},
 	{
