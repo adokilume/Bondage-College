@@ -76,7 +76,6 @@
 
 var EnglishFiles = {};
 
-//
 window.onload = function() {
 	for (var L = 0; L < TranslationDictionary.length; L++) {
         var Language = TranslationDictionary[L];
@@ -144,7 +143,7 @@ function ProcessEnglishFile(File) {
     for (var L = 0; L < File.Data.length; L++) {
         for (var C = 0; C < TextColumns.length; C++) {
             var Text = File.Data[L][TextColumns[C]];
-            if (File.UniqueLines.indexOf(Text) < 0) File.UniqueLines.push(Text.replace("\r", ""));
+            if (File.UniqueLines.indexOf(Text) < 0) File.UniqueLines.push(Text.replace("\r", "").trim());
         }
     }
 }
@@ -167,7 +166,7 @@ function GetDataAndAnalyze(Status) {
             }
             var DataSet = {};
             DataSet.Speaker = Speaker;
-            DataSet.English = Line;
+            DataSet.English = Line.trim();
             DataSet.Line = L + 1;
             var Translation;
             do {
@@ -201,7 +200,12 @@ function AnalyzeStatus(Status) {
         if (Status.Data[T].English.trim() === Status.Data[T].Translation.trim() || Status.Data[T].Translation.trim() === "")
             Status.UntranslatedLines.push(Status.Data[T]);
     }
+    CheckLengths(Status);
     CreateStatusSummary(Status);
+}
+
+function CheckLengths(Status) {
+    // TODO
 }
 
 function CreateStatusSummary(Status) {

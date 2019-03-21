@@ -68,7 +68,7 @@ function csvToTranslation(arr, comments, mode) {
                 addToResult(row[2], mode, comments, 'PLAYER');
             }
             if (row[3]) {
-                addToResult(row[3], mode, comments, 'NPC');
+                addToResult(row[3], mode, comments, 'NPC' + (row[7] ? ' [' + row[7] + ']' : ''));
             }
         }
         else addToResult(row[textColumn], mode);
