@@ -156,7 +156,7 @@ Moment! Das musst... (Du bringst sie mit einem Knebel zum Schweigen, als sie etw
 (Sie nickt, als du ihr den Gürtel abnimmst.) Das Ding ist nicht für mich bestimmt. Ich brauche weder Schutz vor mir selbst noch vor Anderen.
 ###_NPC [Submissive|Frigid]
 (You unlock the belt as she sighs.)  Miss, will you lock the belt again soon?  I love the sex protection and it reminds me of my place.
-(Sie seufzt, als du den Gürtel öffnest.) Miss, könnten sie den bald wieder schließen? Ich mag den Sexschutz, und er erinnert mich an meinen Rang.
+(Sie seufzt, als du den Gürtel öffnest.) Könnten Sie den bald wieder schließen, Miss? Ich mag den Sexschutz, und er erinnert mich an meinen Rang.
 ###_NPC [Rude|Horny]
 (She seems relived as you remove the device.)  Oh, hell yeah!  I need to fuck now.
 (Sie wirkt erleichtert, als du ihn abnimmst.) Oh, ja, verdammt! Ich muss sofort ficken.
@@ -312,7 +312,7 @@ Moment! Das musst... (Du bringst sie mit einem Knebel zum Schweigen, als sie etw
 (Du fesselst ihre Füße und lässt sie von der Decke baumeln.) Oh je! Vorsicht, ich will nicht herunterfallen.
 ###_NPC [Dominant|Serious]
 (You restrain her feet and suspend her from the ceiling.)  Seriously, all this Japanese rope bondage is too much work only to get dizzy.
-(Du fesselst ihre Füße und lässt sie von der Decke baumeln.) Mal ehrlich, diese japanischen Techniken sind viel zu kompliziert für nichts als Schwindelgefühl.
+(Du fesselst ihre Füße und lässt sie von der Decke baumeln.) Mal ehrlich, diese japanischen Techniken sind viel zu kompliziert und machen nur schwindlig.
 ###_NPC [Submissive|Playful]
 (You restrain her feet and suspend her from the ceiling.)  Weeeeee!  This is so much fun.  (She rocks her torso to spin on the rope.)
 (Du fesselst ihre Füße und lässt sie von der Decke baumeln.) Uiiiiii! Das ist so ein Spaß. (Sie wippt mit dem Körper, um sich zu drehen.)
@@ -1107,7 +1107,7 @@ Was sollen wir tun?
 (Sie errötet, als du dich zum Küssen vor neigst. Ihr berührt euch nüchtern aber zärtlich mit den Lippen.) Du zeigst deine Zuneigung ja mit viel Eifer.
 ###_NPC [Frigid|Wise]
 (She doesn't react much as you share a slow kiss.)  Kisses have a cultural and emotional impact on most, but it doesn't do much for me.
-(Sie reagiert kaum, als ihr euch langsam küsst.) Bei den Meisten hat Küssen einen kulturellen und emotionalen Effekt, bei mir löst es aber nicht viel aus.
+(Sie reagiert kaum, als ihr euch langsam küsst.) Für viele hat das Küssen einen starken emotionalen Effekt, bei mir löst es aber nicht viel aus.
 ###_PLAYER
 (Fondle her breast.)
 (Ihre Brust streicheln.)
@@ -1137,7 +1137,7 @@ Was sollen wir tun?
 (Sie wimmert und lässt den Kopf hängen, als du sie schlägst.) Miss, womit habe ich so eine grobe Behandlung verdient?
 ###_NPC [Serious|Wise]
 (She grumbles as you slap her on the face.)  Violence can enforce good behavior temporarily but can also instigate repressed fears and panics.
-(Sie grummelt, als du ihr Gesicht haust.) Gewalt kann vorübergehend gutes Verhalten bewirken, manchmal aber auch unterdrückte Ängste und Panik erwecken.
+(Sie grummelt, als du ihr Gesicht haust.) Gewalt kann zeitweise gutes Verhalten bewirken, aber auch verborgene Ängste und Panik erwecken.
 ###_PLAYER
 (Spank her.)
 (Ihr auf den Hintern hauen.)
@@ -1146,7 +1146,7 @@ Was sollen wir tun?
 (Du haust ihr auf den Po und sie zuckt vor Schmerz zusammen.) Aua! Oh je.
 ###_NPC [Violent|Serious]
 (You spank her hard on the butt and she seems to enjoy the pain.)  That's nice.  But if you're serious on inflicting pain, you could get a crop or a whip.
-(Du haust ihr doll auf den Po und es scheint ihr zu gefallen.) Nicht schlecht. Aber wenn du richtige Schmerzen zufügen willst, nimm eine Gerte oder Peitsche.
+(Du haust ihr doll auf den Po und es scheint ihr zu gefallen.) Nicht schlecht. Aber nimm für richtigen Schmerz eine Gerte oder Peitsche.
 ###_NPC [Frigid|Polite]
 (She whimpers as you spank her pretty hard on the butt.)  This punishment seems unfair.  I'm sorry if I've broken a regulation.
 (Sie wimmert, als du ihr recht doll auf den Po haust.) Diese Strafe wirkt unfair. Es tut mir leid, wenn ich eine Regel gebrochen habe.
@@ -1438,7 +1438,7 @@ Yes!  That was quick.  I do need more time to think about our relationship befor
 Ja! Das ging schnell. Ich brauche aber noch etwas Zeit, über uns beide nachzudenken, bevor ich dir ein Halsband anlege.
 ###_PLAYER
 Our trial isn't working for me.  Can we stop it?
-Unsere Probezeit gefällt mir nicht. Können wir sie abbrechen?
+Unsere Probezeit gefällt mir nicht. Können wir aufhören?
 ###_NPC
 I'm sorry to hear that, of course we can stop the trial.  Are you sure you don't want me as your Mistress?
 Es tut mir sehr leid, das zu hören, und das können wir selbstverständlich tun. Bist du sicher, dass du mich nicht als Herrin willst?
@@ -2249,7 +2249,7 @@ Slave, I've been hanging around the dojo lately and found some tight rope techni
 Sklavin, ich hing letztens im Dojo rum und habe ein paar enge Seiltechniken aufgeschnappt, die ich an deinem nackten Körper ausprobieren will.
 ###_NPC [Peaceful]
 My precious, I've been at the dojo lately and found rope techniques that should be both comfy and secure.  I want to try them on your naked body.
-Mein Schatz, ich war letztens im Dojo und habe Seiltechniken gelernt, die bequem und sicher sein sollten. Ich will sie an deinem nackten Körper ausprobieren.
+Mein Schatz, ich war letztens im Dojo und habe angenehme und sichere Seiltechniken gelernt. Ich will sie an deinem nackten Körper ausprobieren.
 ###_PLAYER
 Yes Mistress.  (Let her tie you up.)
 Ja, Herrin. (Dich von ihr fesseln lassen.)
@@ -2385,7 +2385,7 @@ Käfige sind kalt. (In den Käfig gehen.)
 (Schweigend in den Käfig gehen.)
 ###_NPC
 Girl, I'll keep you bound and gagged very tightly for a while and I'll make sure you won't escape.  I'll release you when I'm satisfied.
-Mädchen, ich werde dich für eine Weile so eng fesseln und knebeln, dass du unmöglich entkommen kannst. Ich lasse dich frei, wenn ich zufrieden bin.
+Ich werde dich für eine Weile so eng fesseln und knebeln, dass du unmöglich entkommen kannst. Ich lasse dich frei, wenn ich zufrieden bin.
 ###_PLAYER
 Please don't make it too tight.
 Bitte nicht zu eng.
@@ -2411,19 +2411,19 @@ As your pet Mistress?
 Als Euer Haustier, Herrin?
 ###_NPC
 You'll be fine.  (She straps an armbinder and a belt on your legs, forcing you to kneel.  She finishes with a tail butt plug.)  Struggle for me pet.
-Dir passiert nichts. (Sie zwingt dich mit einem Monohandschuh und einem Gürtel auf die Knie und setzt einen Analstöpsel mit Schwanz ein.) Fang an zu Zappeln, Kleines.
+Dir passiert nichts. (Sie zwingt dich mit Monohandschuh und Gürtel auf die Knie und setzt einen Analstöpsel mit Schwanz ein.) Fang an zu zappeln, Kleines.
 ###_PLAYER
 What does that mean?
 Was bedeutet das?
 ###_NPC
 Let me show you.  (She straps an armbinder and a belt on your legs, forcing you to kneel.  She finishes with a tail butt plug.)  Struggle for me pet.
-Das zeige ich dir. (Sie zwingt dich mit einem Monohandschuh und einem Gürtel auf die Knie und setzt einen Analstöpsel mit Schwanz ein.) Fang an zu Zappeln, Kleines.
+Ich zeige es dir. (Sie zwingt dich mit Monohandschuh und Gürtel auf die Knie und setzt einen Analstöpsel mit Schwanz ein.) Fang an zu zappeln, Kleines.
 Good kitty.  (She straps an armbinder and a belt on your legs, forcing you to kneel.  She finishes with a tail butt plug.)  Struggle for me pet.
-Braves Kätzchen. (Sie zwingt dich mit einem Monohandschuh und einem Gürtel auf die Knie und setzt einen Analstöpsel mit Schwanz ein.) Fang an zu Zappeln, Kleines.
+Braves Kätzchen. (Sie zwingt dich mit Monohandschuh und Gürtel auf die Knie und setzt einen Analstöpsel mit Schwanz ein.) Fang an zu zappeln, Kleines.
 Good girl.  (She straps an armbinder and a belt on your legs, forcing you to kneel.  She finishes with a tail butt plug.)  Struggle for me pet.
-Braves Mädchen. (Sie zwingt dich mit einem Monohandschuh und einem Gürtel auf die Knie und setzt einen Analstöpsel mit Schwanz ein.) Fang an zu Zappeln, Kleines.
+Braves Mädchen. (Sie zwingt dich mit Monohandschuh und Gürtel auf die Knie und setzt einen Analstöpsel mit Schwanz ein.) Fang an zu zappeln, Kleines.
 My sub, you need to learn that sexual freedom is valuable and can be taken away.  I'll lock you up in a chastity belt to demonstrate.
-Du musst lernen, dass sexuelle Freiheit wertvoll ist und weggenommen werden kann. Zur Demonstration musst du einen Keuschheitsgürtel tragen.
+Du musst lernen, dass sexuelle Freiheit nicht selbstverständlich ist. Zur Demonstration lege ich dir einen Keuschheitsgürtel an.
 ###_PLAYER
 Yes Mistress.  (Open your legs.)
 Ja, Herrin. (Deine Beine spreizen.)
@@ -2447,7 +2447,7 @@ Das ist grausam!
 (Nicken und deine Beine spreizen.)
 ###_NPC
 You should know that sexual freedom is valuable and can be taken away.  This chastity bra will remind you of your lack of power.
-Du solltest wissen, dass sexuelle Freiheit wertvoll ist und weggenommen werden kann. Dieser Keuschheits-BH wird dich an deine Machtlosigkeit erinnern.
+Du solltest wissen, dass sexuelle Freiheit nicht selbstverständlich ist. Dieser Keuschheits-BH wird dich an deine Machtlosigkeit erinnern.
 ###_PLAYER
 That is so unfair!
 Das ist so unfair!
