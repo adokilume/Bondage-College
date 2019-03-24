@@ -34,6 +34,12 @@ Ich grüße Sie, Miss. Mein Name ist DialogPlayerName.
 You seem to have some manners.  I'm DialogCharacterName, I'm in charge of the club today.
 Du scheinst Manieren zu haben. Ich bin DialogCharacterName, ich leite heute den Club.
 ###_PLAYER
+How come Sarah is locked down?
+Warum ist Sarah angekettet?
+###_NPC
+Sarah you say?  Oh yes, the blond college student.  Mistress Sophie reserved a room for her punishment.
+Sarah, sagst du? Ah ja, die blonde College-Schülerin. Herrin Sophie hat ein Zimmer für ihre Bestrafung reserviert.
+###_PLAYER
 I have a few questions.
 Ich habe da ein paar Fragen.
 ###_NPC
@@ -341,6 +347,30 @@ Play some more, I'm having fun.
 Spielt noch etwas, das ist unterhaltsam.
 Very well, I will help you.  (She releases you.)  I hope you had fun with my pet.
 Also gut, ich helfe dir. (Sie befreit dich.) Hoffentlich hattest du Spaß mit meinem Haustier.
+###_PLAYER
+Can you please release her?
+Könnt Ihr sie bitte freilassen?
+###_NPC
+No, Mistress Sophie already made plans.  Do not interfere.
+Nein, Herrin Sophie hat bereits Vorkehrungen getroffen. Mische dich nicht darin ein.
+###_PLAYER
+She's my property, let her go.
+Sie ist mein Eigentum, lasst sie frei.
+###_NPC
+Of course, I will send a maid to warn Mistress Sophie and free your slave.
+Gewiss, ich schicke eine Dienerin, um Herrin Sophie Bescheid zu geben und deine Sklavin zu befreien.
+###_PLAYER
+Very well, punish her properly then.
+Alles klar, dann bestraft sie mal gründlich.
+###_NPC
+Don't worry, Mistress Sophie will discipline her well.
+Keine Sorge, Herrin Sophie wird sie hervorragend disziplinieren.
+###_PLAYER
+Thank you.
+Danke.
+###_NPC
+It's my duty.  Is there something else you need?
+Ich tue nur meine Pflicht. Brauchst du noch etwas anderes?
 ###_PLAYER
 What are the rules for chastity items?
 Was sind die Regeln für Keuschheitsgeräte?

@@ -96,7 +96,29 @@ Ich schulde dir was, ruf mich, wenn du ein Problem hast.
 (She giggles.)  Very well, I'll be around if you need help again.
 (Sie kichert.) Sehr wohl, ich bin in der Nähe, falls du wieder Hilfe brauchst.
 ###_PLAYER
+Can this slave ask you something else?
+Darf diese Sklavin noch eine Frage stellen?
+###_NPC
+Of course little club slave.  How can I help you?
+Natürlich, kleine Clubsklavin. Was kann ich für dich tun?
+###_PLAYER
 Take care!  (Leave her.)
 Mach's gut! (Sie verlassen.)
+A club customer reserved a bedroom to punish me.
+Jemand hat ein Zimmer reserviert, um mich zu bestrafen.
+###_NPC
+Good for you.  (She laughs.)  And how can I help?
+Schön für dich. (Sie lacht.) Und wie kann ich helfen?
+###_PLAYER
+Nothing, I'm good.  (Leave her.)
+Nichts, es geht schon. (Sie verlassen.)
+There's already a girl chained on the bed.
+Da ist schon ein Mädchen ans Bett gekettet.
+###_NPC
+I understand, we can't have unhappy customers can we?  I'll go release her.
+Ich verstehe, wir wollen ja nicht, dass ein Kunde unzufrieden ist, oder? Ich gehe sie befreien.
+###_PLAYER
+You're the best!  (Leave her.)
+Vielen Dank! (Sie verlassen.)
 (Frown and leave her.)
 (Die Stirn runzeln und sie verlassen.)

@@ -130,8 +130,40 @@ Erzähl mir vom Club.
 The Bondage Club has a long history.  It was a secret club back then when BDSM was taboo and forbidden.
 Der Bondage-Club hat eine lange Geschichte. Er war früher ein geheimer Treffpunkt, als BDSM noch tabu und verboten war.
 ###_PLAYER
+As head maid, I have a task for you.
+Als Chefdienerin habe ich eine Aufgabe für dich.
+###_NPC
+Of course Miss.  What can I do for you?
+Natürlich, Miss. Was kann ich für Sie tun?
+###_PLAYER
 I can't stay to chat.  (Leave her.)
 Keine Zeit zum Plaudern. (Sie verlassen.)
+There's a blond girl stuck in a reserved bedroom.
+Eine Blondine steckt in einem reservierten Zimmer fest.
+###_NPC
+Is that true?  I can send a maid to rescue her right away.  Who reserved the room?
+Ist das wahr? Ich kann unverzüglich eine Dienerin schicken, um sie zu befreien. Wer hat das Zimmer reserviert?
+###_PLAYER
+Forget it.
+Vergiss es.
+###_NPC
+Very well.  Is there anything else I can do head maid DialogPlayerName?
+Sehr wohl. Kann ich sonst irgendwie behilflich sein, Chefdienerin DialogPlayerName?
+###_PLAYER
+It's reserved by Mistress Sophie.
+Es wurde von Herrin Sophie reserviert.
+###_NPC
+(Her eyes widen.)  The sorority cannot interfere then.  Please check with the club management.
+(Sie reißt die Augen auf.) In diesem Fall kann die Schwesternschaft nicht eingreifen. Bitte wenden Sie sich an die Clubleitung.
+###_PLAYER
+I've reserved it.  Send a maid now.
+Ich habe es reserviert. Schicke eine Dienerin hin.
+###_NPC
+Yes Miss!  (She sends a maid to unlock Sarah.)  It shouldn't take long.  Is there anything else I can do?
+Ja, Miss! (Sie schickt eine Dienerin, um Sarah zu befreien.) Es sollte nicht lange dauern. Kann ich sonst noch behilflich sein?
+###_PLAYER
+Forget it, I'll do it myself.
+Vergiss es, ich erledige das selbst.
 I love the uniform!
 Ich liebe die Uniform!
 ###_NPC

@@ -16,6 +16,12 @@ Private Room
 Privatzimmer
 Club Management
 Clubleitung
+Search for Sarah
+Nach Sarah suchen
+Explore the Club
+Den Club erkunden
+Sarah's Bedroom
+Sarahs Zimmer
 Gambling by git4nick
 Spielhalle (git4nick)
 Prison by git4nick
