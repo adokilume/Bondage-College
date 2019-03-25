@@ -20,7 +20,7 @@ Bewache die Gefängniszelle, damit dort nichts passiert.
 (DialogCharacterName gets you back to the maid quarters and frowns.)  You failed to clean up in time.
 (DialogCharacterName holt dich stirnrunzelnd in die Dienerkammer zurück.) Du hast nicht alles sauber bekommen.
 (DialogCharacterName hugs you and gropes your red butt.)  You're now a full maid my sister.
-(DialogCharacterName umarmt dich und drückt deinen roten Hintern.) jetzt bist du eine vollwertige Dienerin, Schwester.
+(DialogCharacterName umarmt dich und drückt deinen roten Hintern.) Jetzt bist du eine vollwertige Dienerin, Schwester.
 I'm sorry Miss.  I cannot help you.
 Tut mir leid, Miss. Ich kann nicht helfen.
 (She first shakes her head to avoid the gag, but finally surrenders as you silence her.)
@@ -432,7 +432,7 @@ Is there an initiation?
 Gibt es eine Einweihung?
 ###_NPC
 No Miss, you're already in the sorority.  All you need to do is sign a contract with the club.
-Nein, Miss, sie gehören bereits zur Schwesternschaft. Sie müssen nur einen Vertrag mit dem Club unterschreiben.
+Nein, Miss, Sie gehören bereits zur Schwesternschaft. Sie müssen nur einen Vertrag mit dem Club unterschreiben.
 ###_PLAYER
 Perfect!  Give me that contract.  (Sign the contract.)
 Perfekt! Her mit dem Vertrag. (Unterschreiben.)

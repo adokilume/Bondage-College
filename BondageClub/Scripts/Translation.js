@@ -21,6 +21,7 @@ var TranslationDictionary = [
 			"Screens/Cutscene/NPCCollaring/Text_NPCCollaring_DE.txt",
 			"Screens/Cutscene/PlayerCollaring/Text_PlayerCollaring_DE.txt",
 			"Screens/Cutscene/PlayerMistress/Text_PlayerMistress_DE.txt",
+			"Screens/Cutscene/SarahIntro/Text_SarahIntro_DE.txt",
 			"Screens/MiniGame/HorseWalk/Text_HorseWalk_DE.txt",
 			"Screens/MiniGame/MaidCleaning/Text_MaidCleaning_DE.txt",
 			"Screens/MiniGame/MaidDrinks/Text_MaidDrinks_DE.txt",
@@ -42,6 +43,8 @@ var TranslationDictionary = [
 			"Screens/Room/Prison/Text_Prison_DE.txt",
 			"Screens/Room/Private/Dialog_NPC_Private_Custom_DE.txt",
 			"Screens/Room/Private/Dialog_NPC_Private_Vendor_DE.txt",
+			"Screens/Room/Sarah/Dialog_NPC_Amanda_DE.txt",
+			"Screens/Room/Sarah/Dialog_NPC_Sarah_DE.txt",
 			"Screens/Room/Shibari/Dialog_NPC_Shibari_Student_DE.txt",
 			"Screens/Room/Shibari/Dialog_NPC_Shibari_Teacher_DE.txt"
 		]
