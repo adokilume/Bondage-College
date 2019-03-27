@@ -36,6 +36,7 @@ var TranslationDictionary = [
 			"Screens/Room/Management/Dialog_NPC_Management_Mistress_DE.txt",
 			"Screens/Room/Management/Dialog_NPC_Management_RandomGirl_DE.txt",
 			"Screens/Room/Management/Dialog_NPC_Management_Sub_DE.txt",
+			"Screens/Room/Nursery/Dialog_NPC_Nursery_Maid_DE.txt",
 			"Screens/Room/Photographic/Dialog_NPC_Photographic_Sub_DE.txt",
 			"Screens/Room/Photographic/Text_Photographic_DE.txt",
 			"Screens/Room/Prison/Dialog_NPC_Prison_Maid_DE.txt",
@@ -46,7 +47,14 @@ var TranslationDictionary = [
 			"Screens/Room/Sarah/Dialog_NPC_Amanda_DE.txt",
 			"Screens/Room/Sarah/Dialog_NPC_Sarah_DE.txt",
 			"Screens/Room/Shibari/Dialog_NPC_Shibari_Student_DE.txt",
-			"Screens/Room/Shibari/Dialog_NPC_Shibari_Teacher_DE.txt"
+			"Screens/Room/Shibari/Dialog_NPC_Shibari_Teacher_DE.txt",
+			"Screens/Room/Shop/Dialog_NPC_Shop_Vendor_DE.txt",
+			"Screens/Room/Shop/Text_Shop_DE.txt",
+			"Screens/Room/SlaveMarket/Dialog_NPC_SlaveMarket_Auctioneer_DE.txt",
+			"Screens/Room/SlaveMarket/Dialog_NPC_SlaveMarket_Trader_DE.txt",
+			"Screens/Room/Stable/Dialog_NPC_Stable_Pony_DE.txt",
+			"Screens/Room/Stable/Dialog_NPC_Stable_Trainer_DE.txt",
+			"Screens/Room/Stable/Text_Stable_DE.txt"
 		]
 	},
 	{
