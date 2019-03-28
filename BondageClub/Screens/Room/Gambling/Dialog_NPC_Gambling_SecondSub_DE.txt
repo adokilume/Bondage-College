@@ -103,7 +103,7 @@ Do you need help?
 Brauchst du Hilfe?
 ###_PLAYER
 Let's talk later. (Leave her.)
-Reden wir später. (Sie verlassen.)
+Reden wir später. (Dialog beenden.)
 Which games can I play with you?
 Was kann ich mit dir spielen?
 ###_NPC
@@ -247,7 +247,7 @@ Up to you.
 Wie du willst.
 ###_PLAYER
 No way, not a chance! (Leave her.)
-Niemals, keine Chance! (Sie verlassen.)
+Niemals, keine Chance! (Dialog beenden.)
 I'll play as the fox.
 Ich spiele den Fuchs.
 ###_NPC
@@ -509,7 +509,7 @@ Gewonnen. Mund auf!
 (Sie zappelt in ihren Fesseln.) Kannst du mich befreien?
 ###_PLAYER
 I'll go get help.  (Leave her.)
-Ich hole Hilfe. (Sie verlassen.)
+Ich hole Hilfe. (Dialog beenden.)
 What happened here?
 Was ist hier passiert?
 ###_NPC

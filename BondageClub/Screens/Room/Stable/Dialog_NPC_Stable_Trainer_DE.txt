@@ -30,7 +30,7 @@ Gut, Pferde sprechen nicht.
 (You remove the device and she nods rapidly.)  Thanks a million, this is much better.
 (Du nimmst das Ding ab und sie nickt energisch.) Tausend Dank, das ist viel besser.
 (She jumps from the searing pain on her breast.)  Ouch!  Miss Head Maid!
-(Sie zuckt vom schneidenden Schmerz auf ihrer Brust zusammen.) Autsch! Frau Chefdienerin!
+(Sie zuckt vom schneidenden Schmerz auf ihrer Brust zusammen.) Autsch! Frau Hausdame!
 (You whip her breast with the leather crop as she whimpers and bows her head.)
 (Du peitschst ihr mit der Ledergerte auf die Brust und sie lässt wimmernd den Kopf hängen.)
 (You whip her butt hard as she sighs.)  I promise I'll work harder.
@@ -117,7 +117,7 @@ Das macht dann 10 $ Reinigungsgebühr für dein Reitzeug.
 (Sie verstaut das Zaumzeug.)
 ###_PLAYER
 I can't stay to chat.  (Leave her.)
-Ich habe keine Zeit zum Plaudern. (Sie verlassen.)
+Ich habe keine Zeit zum Plaudern. (Dialog beenden.)
 Here's the money, let's start.
 Hier ist das Geld, fangen wir an.
 ###_NPC
@@ -621,7 +621,7 @@ Du hast dir eine Pause verdient.
 (Scratch with your feet)
 (Mit deinen Füßen scharren.)
 (Leave her)
-(Sie verlassen.)
+(Dialog beenden.)
 (Trap decisively)
 (Entschlossen trappen.)
 ###_NPC

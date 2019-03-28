@@ -203,7 +203,7 @@ Every round the loser strips. If they have no clothes left, they get a little mo
 Nach jeder Runde zieht der Verlierer etwas aus. Ist keine Kleidung mehr übrig, kommen Fesseln hinzu.
 ###_PLAYER
 Let's talk later.  (Leave her.)
-Reden wir später. (Sie verlassen.)
+Reden wir später. (Dialog beenden.)
 Please Miss, can you release me?
 Bitte, Miss, können Sie mich befreien?
 ###_NPC
@@ -399,7 +399,7 @@ Du hast verloren! Mund auf, es wird Zeit für einen Knebel...
 (Sie zappelt in ihren Fesseln.) Kannst du mich befreien?
 ###_PLAYER
 I'll go find some help.  (Leave her.)
-Ich hole Hilfe. (Sie verlassen.)
+Ich hole Hilfe. (Dialog beenden.)
 What happened here?
 Was ist hier passiert?
 ###_NPC
@@ -412,7 +412,7 @@ Is everything alright now?
 Ist jetzt alles in Ordnung?
 ###_NPC
 Yeah, you've taken care of everything!  Please send my regards to the maids of the sorority.
-Ja, du hast dich um alles gekümmert! Richte den Dienerinnen der Schwesternschaft meine besten Grüße aus.
+Ja, du hast dich um alles gekümmert! Richte den Hausmädchen der Schwesternschaft meine besten Grüße aus.
 ###_PLAYER
 Great!  A chore well done.
 Klasse! Eine gut erfüllte Aufgabe.
@@ -501,4 +501,4 @@ Mach's gut.
 Thanks!  That was fun.
 Danke! Das hat Spaß gemacht.
 (Leave her.)
-(Sie verlassen.)
+(Dialog beenden.)

@@ -562,7 +562,7 @@ Yo, Mädel, wenn dein Frauchen deinen Arsch so verpackt hat, lasse ich dich nich
 (Sie blockt dich sofort ab.) Scheiße! Sei doch nicht dumm. Ich bin hier der verdammte Boss und ich entscheide.
 ###_PLAYER
 (Leave her.)
-(Sie verlassen.)
+(Dialog beenden.)
 Tell me about you.
 Erzähl mir von dir.
 ###_NPC

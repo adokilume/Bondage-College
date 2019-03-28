@@ -194,7 +194,7 @@ Is everything alright now?
 Ist jetzt alles wieder gut?
 ###_NPC
 You've took care of everything.  Please send my regards to the maids of the sorority.
-Du hast dich um alles gekümmert. Bitte richte den Dienerinnen der Schwesternschaft meine besten Grüße aus.
+Du hast dich um alles gekümmert. Bitte richte den Hausmädchen der Schwesternschaft meine besten Grüße aus.
 ###_PLAYER
 What happened here?
 Was ist hier passiert?
@@ -202,11 +202,11 @@ Was ist hier passiert?
 I've made a deal with a client that if she bought everything, she could use the items on me.  So, she did just that.
 Ich habe mit einer Kundin vereinbart, dass sie alles an mir benutzen darf, wenn sie alles kauft. Und das hat sie dann halt getan.
 A burglar surprised and restrained me.  The maids caught her and dragged her away.  I guess they sent you to help me.
-Eine Diebin hat mich überrascht und gefesselt. Die Dienerinnen nahmen sie gefangen und brachten sie weg. Dann schickten sie wohl dich zu mir.
+Eine Diebin hat mich überrascht und gefesselt. Die Hausmädchen nahmen sie gefangen und brachten sie weg. Dann schickten sie wohl dich zu mir.
 I was bored and wanted to try a few items.  I think I got a little carried away.
 Mir wahr langweilig und ich wollte ein paar der Artikel ausprobieren. Ich hab mich wohl etwas mitreißen lassen.
 There wasn't any customer and I fell asleep.  The Head Mistress caught me and restrained me like that until she called the maids.
-Es waren keine Kunden da und ich bin eingeschlafen. Die Oberherrin hat mich erwischt und gefesselt, bevor sie die Dienerinnen rief.
+Es waren keine Kunden da und ich bin eingeschlafen. Die Hausherrin hat mich erwischt und gefesselt, bevor sie die Hausmädchen rief.
 ###_PLAYER
 I'll go get help.  (Leave her.)
 Ich hole Hilfe. (Dialog beenden.)
@@ -214,7 +214,7 @@ I'm glad to be of service Miss.
 Ich bin froh, Ihnen behilflich zu sein, Miss.
 ###_NPC
 You maids are so sweet.  Would you like to buy something?
-Ihr Hausmädchen seid so süß. Möchtest du etwas kaufen?
+Ihr Hausmädchen seid so lieb. Möchtest du etwas kaufen?
 ###_PLAYER
 Will you give me a discount?
 Gibst du mir Rabatt?

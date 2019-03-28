@@ -113,7 +113,7 @@ I know there's someone!  Who are you?  What's going on?
 Ich weiß, dass da jemand ist! Wer bist du? Was ist los?
 ###_PLAYER
 (Leave her.)
-(Sie verlassen.)
+(Dialog beenden.)
 Nice to meet you.  I'm DialogPlayerName.
 Nett dich kennenzulernen. Ich bin DialogPlayerName.
 ###_NPC
@@ -351,7 +351,7 @@ Ich weiß nicht. Vielleicht kann jemand im Club helfen. Oder wir warten auf Herr
 (Du befriedigst sie langsam und sie zittert und stöhnt vor Wollust.) Ooooooh ja.
 ###_PLAYER
 I'll go find help.  (Leave her.)
-Ich hole Hilfe. (Sie verlassen.)
+Ich hole Hilfe. (Dialog beenden.)
 Let's wait for Mistress Sophie.
 Warten wir auf Herrin Sophie.
 ###_NPC
@@ -393,6 +393,6 @@ Thanks!  I hope to see you soon.  (She smiles.)  Take care!
 Danke! Hoffentlich sehen wir uns dann. (Sie lächelt.) Mach's gut!
 ###_PLAYER
 Take care!  (Leave her.)
-Mach's gut! (Sie verlassen.)
+Mach's gut! (Dialog beenden.)
 Great!  (Bring her to your room.)
 Toll! (Sie in dein Zimmer bringen.)

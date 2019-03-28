@@ -68,7 +68,7 @@ Why are you here?
 Warum bist du hier?
 ###_NPC
 I came here to look for and rescue my friend Sarah.  But I've got restrained by twins and a maid on the way.
-Ich wollte meine Freundin Sarah suchen und retten. Aber unterwegs wurde ich von Zwillingen und einer Dienerin gefesselt.
+Ich wollte meine Freundin Sarah suchen und retten. Aber unterwegs wurde ich von Zwillingen und einem Hausmädchen gefesselt.
 ###_PLAYER
 How can we unlock her shackles?
 Wie bekommen wir ihre Ketten auf?
@@ -103,7 +103,7 @@ Willst du mein Zimmer sehen?
 (Sie nickt.) Auf jeden Fall. Sollen wir gleich los?
 ###_PLAYER
 (Leave her.)
-(Sie verlassen.)
+(Dialog beenden.)
 (Bring her to your room.)
 (Sie in dein Zimmer bringen.)
 Not right now.  (Stay here.)

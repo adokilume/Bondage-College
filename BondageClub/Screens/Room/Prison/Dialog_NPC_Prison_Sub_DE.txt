@@ -89,7 +89,7 @@ Thanks, next time it's your turn.
 Danke, das nächste Mal bist du dran.
 ###_PLAYER
 (Leave her)
-(Sie verlassen.)
+(Dialog beenden.)
 (Spank her Butt)
 (Ihr auf den Hintern hauen.)
 ###_NPC

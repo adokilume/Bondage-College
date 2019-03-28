@@ -95,7 +95,7 @@ Was geht hier vor sich?
 (Sie sieht dich erwartungsvoll an.)
 ###_PLAYER
 I can't stay to chat.  (Leave her.)
-Ich habe keine Zeit zum Plaudern. (Sie verlassen.)
+Ich habe keine Zeit zum Plaudern. (Dialog beenden.)
 (Try to talk with her.)
 (Versuchen, mit ihr zu reden.)
 ###_NPC

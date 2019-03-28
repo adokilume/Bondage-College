@@ -8,7 +8,7 @@ Schweigen ist die höchste Form der Wahrheit!
 (She nods and turns around as you restrain her arms securely.)  It will be a kinky work day.
 (Sie nickt und dreht sich um, damit du ihre Arme festmachen kannst.) Das wird ein lustiger Arbeitstag.
 (You free her arms and she stretches.)  Thanks head maid DialogPlayerName, this will make my work easier.
-(Du befreist ihre Arme und sie streckt sich.) Danke, Chefdienerin DialogPlayerName, das erleichtert meine Arbeit.
+(Du befreist ihre Arme und sie streckt sich.) Danke, Hausdame DialogPlayerName, das erleichtert meine Arbeit.
 (She submits as you restrain her legs.)  How should I get to work now.
 (Sie lässt sich von dir die Beine fesseln.) Wie soll ich denn jetzt zur Arbeit kommen?
 (You release her legs while she shakes her butt.)  Thanks Miss.
@@ -28,21 +28,21 @@ Schweigen ist die höchste Form der Wahrheit!
 (You strap the device on her head as she mumbles.)  It will be a kinky work day it seems.
 (Du schnallst ihr das Ding um den Kopf und sie murmelt.) Das wird wohl ein lustiger Arbeitstag.
 (You remove the device and she nods slowly.)  You're the best head maid DialogPlayerName.
-(Du nimmst das Ding ab und sie nickt langsam.) Sie sind die Beste, Chefdienerin DialogPlayerName.
+(Du nimmst das Ding ab und sie nickt langsam.) Sie sind die Beste, Hausdame DialogPlayerName.
 (She jumps from the searing pain on her breast.)  Ouch!  Miss Head Maid!
-(Sie zuckt vom schneidenden Schmerz auf ihrer Brust zusammen.) Autsch! Frau Chefdienerin!
+(Sie zuckt vom schneidenden Schmerz auf ihrer Brust zusammen.) Autsch! Frau Hausdame!
 (You whip her breast with the leather crop as she whimpers and bows her head.)
 (Du peitschst ihr mit der Ledergerte auf die Brust und sie lässt wimmernd den Kopf hängen.)
 (You whip her butt hard as she sighs.)  I promise I'll work harder Miss Head Maid.
-(Du peitschst ihr kräftig auf den Hintern und sie seufzt.) Ich verspreche, härter zu arbeiten, Frau Chefdienerin.
+(Du peitschst ihr kräftig auf den Hintern und sie seufzt.) Ich verspreche, härter zu arbeiten, Frau Hausdame.
 (She grumbles as you strike her butt with the crop.)  A maid work isn't easy.
-(Sie grummelt, als du ihren Hintern mit der Gerte triffst.) Eine Dienerin hat es nicht leicht.
+(Sie grummelt, als du ihren Hintern mit der Gerte triffst.) Ein Hausmädchen hat es nicht leicht.
 (You restrain her legs with the long hemp rope and suspend her by the feet from the ceiling.)  Well done.
 (Du fesselst ihre Beine mit dem langen Hanfseil und lässt sie an den Füßen von der Decke baumeln.) Gute Arbeit.
 (You untie the hemp rope from the ceiling and slowly get her down.)  Always be careful when you suspend someone.
 (Du löst das Hanfseil von der Decke und lässt sie langsam herab.) Sei immer vorsichtig, wenn du jemanden aufhängst.
 (A maid stands around and greets you.) This room is under Construction. Please leave.
-(Eine Dienerin steht herum und begrüßt dich.) Dieser Raum ist noch nicht vollendet. Bitte verlasse ihn.
+(Ein Hausmädchen steht herum und begrüßt dich.) Dieser Raum ist noch nicht vollendet. Bitte verlasse ihn.
 ###_PLAYER
 What's going on here?
 Was geht hier vor sich?
@@ -57,10 +57,10 @@ Was ist es für ein Test?
 (Sie schubst dich in die Zelle und verriegelt die Tür.)
 ###_PLAYER
 Okay. Bye! (Leave her.)
-Okay. Tschüss! (Sie verlassen.)
+Okay. Tschüss! (Dialog beenden.)
 ###_NPC
 Pleased to meet you. I'm DialogCharacterName, I work here as a maid.
-Schön dich kennenzulernen. Ich bin DialogCharacterName und arbeite hier als Dienerin.
+Schön dich kennenzulernen. Ich bin DialogCharacterName und arbeite hier als Hausmädchen.
 ###_PLAYER
 (look surprised)
 (Überrascht gucken.)
@@ -79,7 +79,7 @@ Bitte, kannst du mich rauslassen?
 (Whimper and make pleading eyes.)
 (Wimmern und flehende Augen machen.)
 (Leave her)
-(Sie verlassen.)
+(Dialog beenden.)
 (watch her leave)
 (Ihr hinterherschauen.)
 Thanks, that was a nice experience.
@@ -94,7 +94,7 @@ Endlich bin ich raus aus diesem Loch.
 All's well that ends well
 Ende gut, alles gut.
 (A maid stands arround and greets you.) This room is under Construction. Please leave.
-(Eine Dienerin steht herum und begrüßt dich.) Dieser Raum ist noch nicht vollendet. Bitte verlasse ihn.
+(Ein Hausmädchen steht herum und begrüßt dich.) Dieser Raum ist noch nicht vollendet. Bitte verlasse ihn.
 ###_PLAYER
 Hey! That really hurts!
 Hey! Das tut wirklich weh!

@@ -18,13 +18,13 @@ Ich glaube, in der Spielhalle  ist etwas schiefgelaufen. Könntest du hingehen u
 (DialogCharacterName gets you back to the maid quarters and frowns.)  You failed to clean up in time.
 (DialogCharacterName holt dich stirnrunzelnd in die Dienerkammer zurück.) Du hast nicht alles sauber bekommen.
 (DialogCharacterName hugs you and gropes your red butt.)  You're now a full maid my sister.
-(DialogCharacterName umarmt dich und drückt deinen roten Hintern.) Jetzt bist du eine vollwertige Dienerin, Schwester.
+(DialogCharacterName umarmt dich und drückt deinen roten Hintern.) Jetzt bist du ein vollwertiges Hausmädchen, Schwester.
 I'm sorry Miss.  I cannot help you.
 Tut mir leid, Miss. Ich kann nicht helfen.
 (She first shakes her head to avoid the gag, but finally surrenders as you silence her.)
 (Sie schüttelt erst den Kopf, um dem Knebel zu entgehen, lässt sich aber schließlich von dir zum Schweigen bringen.)
 (You remove her gag while she stretches her mouth.)  Thanks Miss, it's hard to dispatch maids with that gag.
-(Du nimmst den Knebel ab und sie streckt ihren Mund.) Danke, Miss, geknebelt ist es schwierig, Dienerinnen loszuschicken.
+(Du nimmst den Knebel ab und sie streckt ihren Mund.) Danke, Miss, geknebelt ist es schwierig, Hausmädchen loszuschicken.
 (She sighs and turns around while you restrain her arms.)  It might be a little hard to work like that Miss.
 (Sie seufzt und dreht sich um, als du ihre Arme fesselst.) Das könnte meine Arbeit etwas erschweren, Miss.
 (You free her arms and she nods happily.)  Thanks a lot Miss.
@@ -50,13 +50,13 @@ Tut mir leid, Miss. Ich kann nicht helfen.
 (You remove the device and she nods rapidly.)  Thanks a million, this is much better.
 (Du nimmst das Ding ab und sie nickt energisch.) Tausend Dank, das ist viel besser.
 (She jumps from the searing pain on her breast.)  Ouch!  Miss Head Maid!
-(Sie zuckt vom schneidenden Schmerz auf ihrer Brust zusammen.) Autsch! Frau Chefdienerin!
+(Sie zuckt vom schneidenden Schmerz auf ihrer Brust zusammen.) Autsch! Frau Hausdame!
 (You whip her breast with the leather crop as she whimpers and bows her head.)
 (Du peitschst ihr mit der Ledergerte auf die Brust und sie lässt wimmernd den Kopf hängen.)
 (You whip her butt hard as she sighs.)  I promise I'll work harder Miss Head Maid.
-(Du peitschst ihr kräftig auf den Hintern und sie seufzt.) Ich verspreche, härter zu arbeiten, Frau Chefdienerin.
+(Du peitschst ihr kräftig auf den Hintern und sie seufzt.) Ich verspreche, härter zu arbeiten, Frau Hausdame.
 (She grumbles as you strike her butt with the crop.)  A maid work isn't easy.
-(Sie grummelt, als du ihren Hintern mit der Gerte triffst.) Eine Dienerin hat es nicht leicht.
+(Sie grummelt, als du ihren Hintern mit der Gerte triffst.) Ein Hausmädchen hat es nicht leicht.
 Welcome to the Nursery.  How can I help you?
 Willkommen in der Kinderstube. Wie kann ich dir helfen?
 ###_PLAYER
@@ -97,7 +97,7 @@ Nurses like myself look after the adult babies.  We are supervised by the nurser
 Erzieherinnen wie ich kümmern sich um die Babys. Über uns halten die Hausmütter der Kinderstube Aufsicht.
 ###_PLAYER
 I can't stay to chat.  (Leave her.)
-Ich habe keine Zeit zum Plaudern. (Sie verlassen.)
+Ich habe keine Zeit zum Plaudern. (Dialog beenden.)
 Can I become a nurse?
 Kann ich eine Erzieherin werden?
 ###_NPC

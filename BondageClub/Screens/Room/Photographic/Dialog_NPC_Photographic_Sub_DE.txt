@@ -119,7 +119,7 @@ I'm already helping
 Ich helfe dir sofort.
 ###_PLAYER
 Good By. (Leave her.)
-Auf Wiedersehen. (Sie verlassen.)
+Auf Wiedersehen. (Dialog beenden.)
 (Remove Hat)
 (Deine Kopfbedeckung abnehmen.)
 ###_NPC
