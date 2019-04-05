@@ -89,6 +89,7 @@ function C004_ArtClass_Julia_Click() {
 			C004_ArtClass_ArtRoom_JuliaStage = 5;
 			C004_ArtClass_Julia_IsRestrained = true;
 			ActorAddInventory("Rope");
+			AchievementUnlock("C004_BondageModel");
 		} else {
 			if (Common_PlayerNaked) OverridenIntroText = GetText("RopePlayer");
 			else OverridenIntroText = GetText("RopeStripPlayer");
@@ -354,6 +355,8 @@ function C004_ArtClass_Julia_SelfBondage() {
 		ActorChangeAttitude(1, 1);
 		GameLogAdd("SelfBondage");
 	}
+	AchievementUnlock("C004_BondageModel");
+	AchievementUnlock("C004_SelfShibari");
 }
 
 // Chapter 4 - Julia Hug

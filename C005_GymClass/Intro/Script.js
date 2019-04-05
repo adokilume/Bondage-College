@@ -3,6 +3,8 @@ function C005_GymClass_Intro_Load() {
 
 	// Time is always 10:30 on the intro, no timer
 	StopTimer(10.5 * 60 * 60 * 1000);
+
+	AchievementUnlock("C005_ChapterUnlock");
 	
 	// Do not allow bondage when we begin
 	Common_BondageAllowed = false;

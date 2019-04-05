@@ -32,6 +32,7 @@ function C003_MorningDetention_Glass_BreakPill() {
 		C003_MorningDetention_DetentionRoom_SleepTimer = CurrentTime + 600000;
 		PlayerRemoveInventory("SleepingPill", 1);
 		GameLogSpecificAdd(CurrentChapter, "Yuki", "Drug");
+		AchievementUnlock("C003_YukiDrug");
 	} else {
 		OverridenIntroText = GetText("CannotWithCuffs");
 	}

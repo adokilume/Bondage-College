@@ -6,6 +6,8 @@ function C003_MorningDetention_Intro_Load() {
 	// Time is always 8:20 on the intro + remove any remaining rope
 	StopTimer(8.33333334 * 60 * 60 * 1000);
 	PlayerRemoveAllInventory();
+
+	AchievementUnlock("C003_ChapterUnlock");
 	
 	// Set the fighting variable based on if the player fought Sidney in the 1st chapter
 	C003_MorningDetention_Intro_Fighting = (GameLogQuery("C001_BeforeClass", "Sidney", "FightVictory") || GameLogQuery("C001_BeforeClass", "Sidney", "FightDefeat"));	

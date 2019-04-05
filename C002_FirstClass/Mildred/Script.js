@@ -172,6 +172,7 @@ function C002_FirstClass_Mildred_Subdue() {
 		if (C002_FirstClass_Classroom_SidneyAgree) GameLogAdd("SubdueWithSidney");
 		if (C002_FirstClass_Classroom_AmandaAgree) GameLogAdd("SubdueWithAmanda");
 		if (C002_FirstClass_Classroom_SarahAgree) GameLogAdd("SubdueWithSarah");
+		AchievementUnlock("C002_MildredSubdue");
 	}
 
 }

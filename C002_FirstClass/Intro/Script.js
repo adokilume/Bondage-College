@@ -4,6 +4,8 @@ function C002_FirstClass_Intro_Load() {
 	// Time is always 8:00 on the intro, no timer
 	StopTimer(8 * 60 * 60 * 1000);
 
+	AchievementUnlock("C002_ChapterUnlock");
+
 }
 
 // Chapter 2 - Intro Run

@@ -101,6 +101,7 @@ function C004_ArtClass_Jennifer_Click() {
 		ActorAddInventory("TapeGag");
 		PlayerRemoveInventory("TapeGag", 1);
 		CurrentTime = CurrentTime + 60000;
+		AchievementUnlock("C004_BondageModel");
 	}
 
 	// When the user wants to use the crop

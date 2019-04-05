@@ -158,6 +158,7 @@ function C002_FirstClass_Amanda_BondageHug() {
 	if (C002_FirstClass_Amanda_BondageHugDone == false) { 
 		C002_FirstClass_Amanda_BondageHugDone = true;
 		ActorChangeAttitude(1, 0);
+		AchievementUnlock("C002_AmandaSarahHug");
 	}
 }
 

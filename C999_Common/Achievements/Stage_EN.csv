@@ -1,17 +1,37 @@
 Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
 0,0,0,,[Main Menu],,0,0,0,MainMenu()
 0,0,0,,[Next Page],,10,0,0,
-0,0,0,!LearningTheRopes,???,Get some rope before class.,0,0,0,
-0,0,0,LearningTheRopes,Learning the ropes,Stole some rope from Sidney's bag.,0,0,0,ShowImage('C001_BeforeClass/Bag/BagOpen.jpg')
-0,0,0,!MatchMadeInHell,???,Force two people who don't like|each other to kiss before class.,0,0,0,
-0,0,0,MatchMadeInHell,Match made in hell,Forced Amanda and Sidney to kiss before class.,0,0,0,ShowImage('C001_BeforeClass/Amanda/AmandaBondageKiss.jpg')
-0,0,0,!HappyEaster,???,Find a hidden egg.,0,0,0,
-0,0,0,HappyEaster,Happy Easter!,Found a hidden egg in art class.,0,0,0,ShowImage('C004_ArtClass/HiddenEgg/HiddenEgg.jpg')
-0,0,0,!BeggarsChoosers,???,Break out of your cell only to|lock yourself in a different device.,0,0,0,
-0,0,0,BeggarsChoosers,Beggars can be choosers,Broken out of your cell only to|lock yourself in a different device.,0,0,0,ShowImage('C006_Isolation/Horse/HorseRide.jpg')
-0,0,0,!SpeedrunningBitch,???,Finish Sidney's and Jennifer's race|in 1 minute or less.,0,0,0,
-0,0,0,SpeedrunningBitch,Speedrunning Bitch,Finished Sidney's and Jennifer's race|in 1 minute or less.,0,0,0,ShowImage('C999_Common/Races/Actors/Player/ChastityBelt_Rope_Collar_TapeGag_Dog_Move_2.png')
+0,0,0,!C001_StealRope,???,Get some rope before class.,0,0,0,
+0,0,0,C001_StealRope,Learning the ropes,Stole some rope from Sidney's bag.,0,0,0,ShowImage('C001_BeforeClass/Bag/BagOpen.jpg')
+0,0,0,!C001_AmandaSidneyKiss,???,Force two people who don't like|each other to kiss before class.,0,0,0,
+0,0,0,C001_AmandaSidneyKiss,Match made in hell,Forced Amanda and Sidney to kiss before class.,0,0,0,ShowImage('C001_BeforeClass/Amanda/AmandaBondageKiss.jpg')
+0,0,0,!C001_SidneyFightWin,???,Pick a fight before your very first class and win.,0,0,0,
+0,0,0,C001_SidneyFightWin,TO DO,Won the fight against Sidney before class.,0,0,0,ShowImage('C001_BeforeClass/Fight/FightWin.jpg')
+0,0,0,!C002_ChapterUnlock,???,Witness your very first class at your new college.,0,0,0,
+0,0,0,C002_ChapterUnlock,TO DO,Participated in math class|without being sent to detention.,0,0,0,ShowImage('C002_FirstClass/Mildred/MildredIntro.jpg')
+0,0,0,!C002_MildredSubdue,???,Subdue Mildred during your first class.,0,0,0,
+0,0,0,C002_MildredSubdue,TO DO,Successfully subdued Mildred during your first class.,0,0,0,ShowImage('C002_FirstClass/Mildred/Mildred_Rope_BallGag.jpg')
+0,0,0,!C002_AmandaSarahHug,???,Get Amanda and Sarah to hug during math class.,0,0,0,
+0,0,0,C002_AmandaSarahHug,Addition is|commutative,Got Amanda and Sarah to hug during math class.,0,0,0,ShowImage('C002_FirstClass/Amanda/Hug_Amanda_Rope_Sarah_Rope.jpg')
+0,0,0,!C003_ChapterUnlock,???,Miss out on your first class|by being sent to morning detention.,0,0,0,
+0,0,0,C003_ChapterUnlock,TO DO,Missed out on your first class|by being sent to morning detention.,0,0,0,ShowImage('C003_MorningDetention/Yuki/YukiFace.jpg')
+0,0,0,!C003_YukiDrug,???,Drug Yuki during morning detention.,0,0,0,
+0,0,0,C003_YukiDrug,TO DO,Drugged Yuki with her sleeping pill|during morning detention.,0,0,0,ShowImage('C003_MorningDetention/Glass/Glass.jpg')
 10,0,0,,[Previous Page],,0,0,0,
 10,0,0,,[Next Page],,20,0,0,
+10,0,0,!C004_Egg,???,Find a hidden egg.,10,0,0,
+10,0,0,C004_Egg,Happy Easter!,Found a hidden egg in art class.,10,0,0,ShowImage('C004_ArtClass/HiddenEgg/HiddenEgg.jpg')
+10,0,0,!C004_BondageModel,???,Introduce the art class to some bondage.,10,0,0,
+10,0,0,C004_BondageModel,TO DO,Got someone to be a bondage model for art class.,10,0,0,ShowImage('C004_ArtClass/Julia/JuliaRope.jpg')
+10,0,0,!C004_SelfShibari,???,Demonstrate the art of Self Shibari to the art class.,10,0,0,
+10,0,0,C004_SelfShibari,Solo piece,Demonstrated the art of Self Shibari to the art class.,10,0,0,ShowImage('C999_Common/Achievements/C004_SelfShibari.jpg')
+10,0,0,!C005_ChapterUnlock,???,Make it to Gym Class without incident.,10,0,0,
+10,0,0,C005_ChapterUnlock,TO DO,Made it to Gym Class without incident.,10,0,0,ShowImage('C005_GymClass/Jennifer/Jennifer.jpg')
+10,0,0,!C006_SelfTrap,???,Break out of your cell only to|lock yourself in a different device.,10,0,0,
+10,0,0,C006_SelfTrap,Beggars can be choosers,Broken out of your cell only to|lock yourself in a different device.,10,0,0,ShowImage('C006_Isolation/Horse/HorseRide.jpg')
+10,0,0,!C010_Speedrun,???,Finish Sidney's and Jennifer's race|in 1 minute or less.,10,0,0,
+10,0,0,C010_Speedrun,Speedrunning bitch,Finished Sidney's and Jennifer's race|in 1 minute or less.,10,0,0,ShowImage('C999_Common/Races/Actors/Player/ChastityBelt_Rope_Collar_TapeGag_Dog_Move_2.png')
 20,0,0,,[Previous Page],,10,0,0,
 20,0,0,,[Main Menu],,0,0,0,MainMenu()
+20,0,0,,[UNLOCK ALL|ACHIEVEMENTS],,20,0,0,UnlockAll()
+20,0,0,,[RESET ALL|ACHIEVEMENTS],,20,0,0,ResetAll()

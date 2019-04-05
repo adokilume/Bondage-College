@@ -25,6 +25,8 @@ function C006_Isolation_Intro_Load() {
 	// Logs the isolation for the teacher
 	GameLogSpecificAdd(CurrentChapter, C006_Isolation_Intro_Teacher, "Isolation");
 
+	AchievementUnlock("C005_ChapterUnlock" + C006_Isolation_Intro_Teacher);
+
 }
 
 // Chapter 6 - Intro Run

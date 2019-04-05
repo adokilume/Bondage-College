@@ -69,6 +69,7 @@ function C004_ArtClass_Sarah_Click() {
 		ActorAddInventory("Rope");
 		PlayerRemoveInventory("Rope", 1);
 		CurrentTime = CurrentTime + 60000;
+		AchievementUnlock("C004_BondageModel");
 	}
 
 	// When the user wants to use a gag without tying her

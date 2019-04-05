@@ -145,6 +145,7 @@ function C002_FirstClass_Sarah_AnnoyMildred() {
 function C002_FirstClass_Sarah_BondageHug() {
 	C002_FirstClass_Sarah_CalcStage();
 	if (C002_FirstClass_Sarah_BondageHugDone == false) { C002_FirstClass_Sarah_BondageHugDone = true; ActorChangeAttitude(1, 0); }
+	AchievementUnlock("C002_AmandaSarahHug");
 }
 
 // Chapter 2 - Sarah Separate from Amanda hug
