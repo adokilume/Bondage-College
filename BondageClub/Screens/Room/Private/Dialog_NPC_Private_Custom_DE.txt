@@ -1684,7 +1684,7 @@ Wir sind hier im Bondage-Club, meine Kleine, also solltest du gefesselt sein.
 My girl, it would be really sexy to get you in restraints.
 Es wäre wirklich sexy, dich in Fesseln zu legen, mein Mädchen.
 ###_NPC [Frigid]
-You've playing with these hands way too much.  Its time to stop and restrain them.
+You've been playing with these hands way too much.  Its time to stop and restrain them.
 Du spielst viel zu viel mit diesen Händen herum. Es wird Zeit, dem mit Fesseln ein Ende zu setzen.
 ###_NPC [Violent]
 Girl, being a slave isn't always easy.  You need to suffer from the restraints, give me your hands.
@@ -1728,7 +1728,7 @@ Wir sind hier im Bondage-Club, meine Kleine, also solltest du vollständig gefes
 My girl, it would be really sexy to get you fully restrained.
 Es wäre wirklich sexy, dich komplett in Fesseln zu legen, mein Mädchen.
 ###_NPC [Frigid]
-You've playing with these hands way too much.  Its time to fully restrain you.
+You've been playing with these hands way too much.  Its time to fully restrain you.
 Du spielst viel zu viel mit diesen Händen herum. Es wird Zeit, dich vollständig zu fesseln.
 ###_NPC [Violent]
 Girl, being a slave isn't always easy.  You need to feel the pain from lots of the restraints.

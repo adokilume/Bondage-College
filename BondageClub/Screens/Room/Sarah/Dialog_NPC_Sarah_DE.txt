@@ -49,7 +49,7 @@ Hallo? Wer ist da?
 Who are you?
 Wer bist du?
 ###_NPC
-Oh hi Miss!  I'm Sarah, have we met before?
+Oh, hi Miss!  I'm Sarah, have we met before?
 Oh, hi, Miss! Ich bin Sarah, sind wir uns schon mal begegnet?
 ###_PLAYER
 What's going on?
@@ -67,7 +67,7 @@ Ich werde bestraft. (Sie zappelt und kichert.) Ich bin Sarah, kennen wir uns?
 I'm DialogPlayerName.  We've met at the college.
 Ich bin DialogPlayerName. Wir kennen uns vom College.
 ###_NPC
-Sweet!  I didn't knew you were a club member.
+Sweet!  I didn't know you were a club member.
 Klasse! Ich wusste nicht, dass du zum Club gehörst.
 ###_PLAYER
 It's me my love!
@@ -85,10 +85,10 @@ Lange waren wir nicht zusammen, es hat aber Spaß gemacht. (Sie kichert.) Wie ha
 Girl, you don't recognize your owner?
 Mädchen, erkennst du deine Besitzerin etwa nicht?
 ###_NPC
-Oops!  So sorry Mistress!  I didn't knew you were a club member.
+Oops!  So sorry Mistress!  I didn't know you were a club member.
 Ups! Es tut mir so leid, Herrin! Ich wusste nicht, dass Ihr Mitglied im Club seid.
 ###_PLAYER
-Girl, did you forgot your curfew?
+Girl, did you forget your curfew?
 Mädchen, hast du deine Ausgangssperre vergessen?
 ###_NPC
 Oh my!  The curfew!  So sorry Mistress.  I hope you're not too mad.
@@ -201,7 +201,7 @@ Au! Bin ich froh, Euch zu sehen, Herrin! Na ja... Euch zu hören. (Sie kichert.)
 They've had to let me join.
 Sie mussten mich einfach reinlassen.
 ###_NPC
-Of course, a Dominant like you has her place here.  Have you met Mistress Sophie?
+Of course, a Dominant like you have her place here.  Have you met Mistress Sophie?
 Natürlich, wer so dominant ist, ist hier eindeutig am richtigen Ort. Kennt Ihr schon Herrin Sophie?
 Great!  I hope you're having fun like me Mistress.  (She struggles playfully.)  Have you met Mistress Sophie?
 Toll! Ich hoffe, Ihr habt genauso viel Spaß wie ich, Herrin. (Sie zappelt verspielt.) Kennt ihr schon Herrin Sophie?
@@ -211,13 +211,13 @@ Das ist wundervoll, Herrin! (Sie zappelt verspielt.) Ihr kennt sicher Herrin Sop
 It's fine, don't worry about it.
 Schon gut, mach dir darüber keine Gedanken.
 ###_NPC
-(She smiles.)  You're the best Mistress!  Though, I didn't knew you were a member.  When did you joined?
+(She smiles.)  You're the best Mistress!  Though, I didn't know you were a member.  When did you joined?
 (Sie lächelt.) Ihr seid die Beste, Herrin! Ich wusste aber nicht, dass Ihr im Club seid. Seit wann seid Ihr Mitglied?
 ###_PLAYER
 We'll talk about your punishment later.
 Wir unterhalten uns später über deine Bestrafung.
 ###_NPC
-(She bows her head.)  Yes Mistress.  I didn't knew you were a member.  When did you joined?
+(She bows her head.)  Yes Mistress.  I didn't know you were a member.  When did you joined?
 (Sie senkt ihren Kopf.) Ja, Herrin. Ich wusste nicht, dass Ihr im Club seid. Seit wann seid Ihr Mitglied?
 ###_PLAYER
 I've already planned your punishment.
@@ -231,7 +231,7 @@ Das weiß ich ehrlich gesagt noch nicht. Ich warte hier auf Herrin Sophie. Kenns
 All of this for bringing a friend?
 All das nur, weil du eine Freundin mitgenommen hast?
 ###_NPC
-Yes and no, I've actually angered Mistress Sophie, one of the club owner.  Have you met her?
+Yes and no, I've actually angered Mistress Sophie, one of the club owners.  Have you met her?
 Ja und nein, eigentlich habe ich Herrin Sophie verärgert, eine der Besitzerinnen des Clubs. Kennst du sie?
 I'm getting punished.  (She struggles and giggles.)  Don't worry, I've seen worse.  So, are you enjoying your visit?
 Ich werde bestraft. (Sie zappelt und kichert.) Keine Sorge, ich hab Schlimmeres gesehen. Also, gefällt dir dein Aufenthalt?
@@ -257,7 +257,7 @@ Ich verstehe, aber bevor du gehst, solltest du jemanden kennenlernen. Kennst du 
 I work with Sophie.  I'm a Mistress here.
 Ich arbeite mit Sophie zusammen. Ich bin hier eine Herrin.
 ###_NPC
-Oh!  Are you here to punish me?  I thought she wanted to do it personaly.
+Oh!  Are you here to punish me?  I thought she wanted to do it personally.
 Oh! Bist du hier, um mich zu bestrafen? Ich dachte, sie wollte es persönlich tun.
 ###_PLAYER
 Who's Mistress Sophie?

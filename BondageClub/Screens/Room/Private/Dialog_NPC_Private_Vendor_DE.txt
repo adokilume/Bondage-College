@@ -73,8 +73,8 @@ Die Miete beträgt 250 $. Hast du ausreichend Geld?
 I'd like to improve my room.
 Ich möchte mein Zimmer aufrüsten.
 ###_NPC
-Excellent!  The club can provide wardrobes and cages for private rooms.  What would you like?
-Hervorragend! Der Club kann Kleiderschränke und Käfige für Privatzimmer zur Verfügung stellen. Was möchtest du haben?
+Excellent!  The club can provide wardrobes, cages and expansions for private rooms.  What would you like?
+Hervorragend! Der Club kann Kleiderschränke, Käfige und Erweiterungen für Privatzimmer zur Verfügung stellen. Was möchtest du haben?
 ###_PLAYER
 Can we play some kinky games?
 Können wir miteinander spielen?
@@ -113,8 +113,8 @@ Natürlich, es ist schließlich dein Zimmer. Du kannst dich ausziehen und Sex ha
 What are the improvements I can get?
 Was für eine Ausstattung kann ich kaufen?
 ###_NPC
-Wardrobe and cages for now.  But the club is always improving, you can check later.
-Fürs Erste Kleiderschränke und Käfige. Der Club wird stets ausgebaut, du kannst später erneut nachfragen.
+Wardrobe, cages and a room expansion for now.  But the club is always improving, you can check later.
+Fürs Erste Kleiderschränke, Käfige und Zimmererweitrungen. Der Club wird stets ausgebaut, du kannst später erneut nachfragen.
 ###_PLAYER
 Enough questions.
 Genug der Fragen.
