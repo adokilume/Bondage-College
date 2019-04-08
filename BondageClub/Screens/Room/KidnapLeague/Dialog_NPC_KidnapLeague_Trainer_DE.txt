@@ -46,7 +46,7 @@ Sehr gut! Hier ist dein Lohn. (Sie gibt dir BOUNTYAMOUNT$.) Hat sie dir Ärger g
 (You strap the harness on her torso as she blushes.)  This is pretty kinky Miss.
 (Du schnallst ihr den Harnisch um und sie wird rot.) Das ist ziemlich sexy, Miss.
 (She stretches as you release her from the harness.)  It will be easier to breath like that.
-(Sie streckt sich, als du sie vom harnisch befreist.) So wird mir das Atmen leichter fallen.
+(Sie streckt sich, als du sie vom Harnisch befreist.) So wird mir das Atmen leichter fallen.
 (She whimpers as you whip her breast.)  Hey!  I'm only here to help you practice!
 (Sie wimmert, als du ihre Brust auspeitschst.) Hey! Ich bin doch nur hier, um dir beim Trainieren zu helfen!
 (You swing the crop on her torso.)  Ow! I wouldn't do that to you, use it on the other kidnappers.
@@ -129,7 +129,7 @@ Bitte mach es mir einfach.
 A regular match please.
 Ein gewöhnlicher Kampf bitte.
 Give me a tough fight.
-Gib mir einen harte Kampf.
+Gib mir einen harten Kampf.
 I can face any challenge!
 Keine Herausforderung ist mir zu schwer!
 I've changed my mind.
@@ -170,7 +170,7 @@ I'm in!  (Join the league.)
 Ich bin dabei! (Der Liga beitreten.)
 ###_NPC
 Welcome to the Kidnappers League!  I hope you have fun and cause lots of trouble.
-Willkommen in der Kidnapper-Liga! Ich wünsche dir viel Spaß beim Unruhestiften.
+Willkommen in der Kidnapper-Liga! Ich wünsche dir viel Spaß beim Unruhe Stiften.
 Alright, let me know if you ever think about joining the league again.
 Also gut, sag Bescheid, wenn du wieder Lust bekommst, der Liga beizutreten.
 ###_PLAYER
@@ -181,7 +181,7 @@ Fine, you won't be kidnapped and cannot kidnap any longer.
 Gut, du wirst nicht mehr angegriffen und kannst auch niemanden mehr kidnappen.
 ###_PLAYER
 I need to think some more. (Stay.)
-Ich muss nich eteas nachdenken. (Bleiben.)
+Ich muss noch etwas nachdenken. (Bleiben.)
 ###_NPC
 Perfect!  I'm glad you're staying with us.
 Perfekt! Freut mich, dass du bei uns bleibst.
@@ -247,7 +247,7 @@ Both kidnappers attack at the same time and can perform any one of four moves.  
 Beide Kidnapper greifen gleichzeitig an, indem sie eine von vier Aktionen durchführen. Jede davon hat Stärken und Schwächen gegenüber der anderen.
 ###_PLAYER
 What are these different moves?
-Was sind das für Aktionen?
+Was für Aktionen gibt es im Kampf?
 ###_NPC
 We call them the "BDSM" moves, they are: Brute force, Domination, Sneakiness, and Manipulation.
 Wir nennen sie die "BDSM"-Aktionen: Brutalität, Dominanz, Schleichangriff und Manipulation.
@@ -345,7 +345,7 @@ That's what we aim for in the league.  Would you like to take another bounty?
 Genau das ist das Ziel der Liga. Möchtest du noch ein Kopfgeld?
 ###_PLAYER
 No worries, I'm happy to win or lose anyway.
-Kein Stress, ich gewinne genauso gerne, wie ich verliere.
+Kein Stress, ich gewinne genauso gern, wie ich verliere.
 ###_NPC
 You're quite a kinky kidnapper.  Would you like to take another bounty?
 Du bist eine sehr verspielte Kidnapperin. Möchtest du noch ein Kopfgeld?

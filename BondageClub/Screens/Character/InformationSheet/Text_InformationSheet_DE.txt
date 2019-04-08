@@ -9,7 +9,7 @@ Hausdame
 Maid
 Hausmädchen
 Master Kidnapper
-Meister-Kidnapperin
+Kidnapper-Meisterin
 Kidnapper
 Kidnapperin
 None
@@ -49,7 +49,7 @@ Dominant:
 Submissive:
 Unterwürfig:
 Maid Sorority:
-Hausmädchenschwesternschaft:
+Hausmädchen:
 Gambling Hall:
 Spielhalle:
 Kidnappers League:

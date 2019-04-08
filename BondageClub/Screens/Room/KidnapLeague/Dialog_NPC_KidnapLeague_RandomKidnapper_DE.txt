@@ -86,7 +86,7 @@ Sieh mich an, ich kann dir nicht helfen.
 (You release her legs as she shakes her butt.)  Shake your booty!
 (Du befreist ihre Beine und sie wackelt mit dem Po.) Shake your booty!
 (She tests your feet restraints by jumping on her toes.)  Well done my kidnapper!
-(Sie testet deine Fußfesseln, indem sie auf Zehenspitzen hüft.) Gute Arbeit, Kidnapperin!
+(Sie testet deine Fußfesseln, indem sie auf Zehenspitzen hüfpt.) Gute Arbeit, Kidnapperin!
 (You release her feet and she wiggles them.)  Is my kidnapping over?
 (Du befreist ihre Füße und sie wackelt damit.) Ist meine Gefangenschaft vorbei?
 (She adjusts her neck to the new collar.)  You're looking for subs Miss?
@@ -104,7 +104,7 @@ Sieh mich an, ich kann dir nicht helfen.
 (You strap the harness on her torso as she blushes.)  You're quite a kinky kidnapper.
 (Du schnallst ihr den Harnisch um und sie wird rot.) Du bist eine ziemlich versaute Kidnapperin.
 (She stretches as you release her from the harness.)  It will be easier to breath like that.
-(Sie streckt sich, also du sie vom Harnisch befreist.) So wird mir das Atmen leichter fallen.
+(Sie streckt sich, als du sie vom Harnisch befreist.) So wird mir das Atmen leichter fallen.
 (She whimpers and cries as you whip her breast.)  Revenge will be sweet!
 (Sie wimmert und heult, als du ihre Brust auspeitschst.) Die Rache wird süß sein!
 (You lash the crop on her torso, hitting her breast.)  Ow!  Careful with that crop.
@@ -155,7 +155,7 @@ Du bist nicht motiviert genug. Hau ab.
 I'll crush you!
 Dich mach ich platt!
 I can't fight now, I'm in a hurry.
-Ich kann gerade nicht kämpfen, ich habs eilig.
+Ich kann gerade nicht kämpfen, ich hab's eilig.
 ###_NPC
 Too bad for you, because I really want to fight.
 Pech gehabt, denn ich will unbedingt kämpfen.
@@ -184,7 +184,7 @@ Bitte, Herrin. Ich möchte nicht gegen Euch kämpfen.
 Too bad, because I will fight you whether you want it or not.
 Pech gehabt, denn ich werde dich bekämpfen, ob du willst oder nicht.
 (She bows her head and submits to you.)  Well done bounty hunter, you can have me and collect your money.
-(Sie senkt ihren Kopf und unterwirft sich dir.) Gute Arbeit, Kopfgeldjägerin,du kannst mich haben und dein Geld kassieren.
+(Sie senkt ihren Kopf und unterwirft sich dir.) Gute Arbeit, Kopfgeldjägerin, du kannst mich haben und dein Geld kassieren.
 (You struggle as she looks at you with an evil grin.)  You missed your mark bounty hunter, and now you're mine.
 (Du zappelst, während sie dich boshaft angrinst.) Knapp daneben, Kopfgeldjägerin, und jetzt gehörst du mir.
 (As you enter the class, you see a girl with crossed arms that's staring at you.)  So you took the bounty?  I won't go down easily.
@@ -382,7 +382,7 @@ You prefer easy targets, don't you?
 Du magst einfache Ziele, was?
 ###_NPC
 Yep, nothing wrong with an easy bounty from time to time.  What should I do with you?
-Jep, hin und wieder mal ein schnelles Kopfgeld schadet nicht. Was soll ich nur mit dir machen?
+Jepp, hin und wieder mal ein schnelles Kopfgeld schadet nicht. Was soll ich nur mit dir machen?
 ###_PLAYER
 That's unfair!  Release me so we can fight.
 Das ist unfair! Lass mich frei, dann kämpfen wir.

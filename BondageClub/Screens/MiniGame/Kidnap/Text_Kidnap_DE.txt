@@ -29,7 +29,7 @@ Sudden Death
 Cancel
 Abbrechen
 Wins
-Gewinnt
+gewinnt
 Remove her cloth
 Ihre Kleidung entfernen
 Use a collar item
@@ -41,11 +41,11 @@ Einen Knebel einsetzen
 Dress back up
 Dich wieder anziehen
 Remove your collar
-Dein Halsband abnehmen
+Dein Halsband entfernen
 Release your legs
 Deine Beine befreien
 Remove your gag
-Deinen Knebel abnehmen
+Deinen Knebel entfernen
 Have mercy
 Gnädig sein
 Select the item to use on her
@@ -59,7 +59,7 @@ Wähle, was du gegen sie einsetzen willst
 (She uses her advantage to silence you with a gag.)
 (Sie nutzt ihren Vorteil, um dich zu knebeln.)
 (She uses her advantage on you to dress back up.)
-(Sie nutzt ihren Vorteil um sich wieder anzuziehen.)
+(Sie nutzt ihren Vorteil, um sich wieder anzuziehen.)
 (Using her advantage, she removes her collar.)
 (Sie nutzt ihren Vorteil, um ihr Halsband abzunehmen.)
 (She uses the opportunity to release her feet.)
@@ -209,7 +209,7 @@ Mit mir kannst du nicht mithalten, Mädchen.
 (You stand idle, stunned by her charms as she caresses you lovingly.)
 (Du stehst einfach nur regungslos da, beeindruckt von ihrem Charme, als sie dich liebevoll berührt.)
 You're so pretty.
-Du bist s hübsch.
+Du bist so hübsch.
 Listen to your heart and surrender.
 Höre auf dein Herz und gib nach.
 (You both look at your phones and check for cat videos.)
