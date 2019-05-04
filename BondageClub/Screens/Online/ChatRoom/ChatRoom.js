@@ -11,8 +11,8 @@ function ChatRoomCreateElement() {
 	if (document.getElementById("InputChat") == null) {
 		ElementCreateInput("InputChat", "text", "", "250");
 		document.getElementById("InputChat").setAttribute("autocomplete", "off");
-		ElementCreateTextArea("TextAreaChatLog");
-		ElementValue("TextAreaChatLog", ChatRoomLog);
+		ElementCreateDiv("TextAreaChatLog");
+		ElementContent("TextAreaChatLog", ChatRoomLog);
 		ElementScrollToEnd("TextAreaChatLog");
 		ElementFocus("InputChat");
 	}
@@ -254,9 +254,31 @@ function ChatRoomResponse(data) {
 // When the server sends a chat message
 function ChatRoomMessage(data) {
 	if ((data != null) && (typeof data === "string") && (data != "")) {
-		ChatRoomLog = ChatRoomLog + data + '\r\n';
+
+		// Color the name if this is a regular chat message
+		var RegEx = /^([A-Za-z\s]+):/;
+		var Result = RegEx.exec(data);
+		if (Result != null && Result[1] != null) {
+			var C = ChatRoomGetCharacterByName(Result[1]);
+			if (C != null) {
+				for (var A = 0; A < C.Appearance.length; A++)
+					if (C.Appearance[A].Asset.Group.Name == "HairFront") {
+						var Color = C.Appearance[A].Color;
+						data = data.replace(Result[0], '<span class="ChatName" style="color: ' + Color + '">' + Result[1] + ':</span>');
+					}
+			}
+		}
+
+		// Style actions and emotes
+		RegEx = new RegExp("(\\(.*?\\))", "g");
+		data = data.replace(RegEx, '<span class="ChatAction">$&</span>');
+		RegEx = new RegExp("(\\*.*?\\*)", "g");
+		data = data.replace(RegEx, '<span class="ChatEmote">$&</span>');
+
+		// Add the message
+		ChatRoomLog = ChatRoomLog + "<div>" + data + "</div>";
 		if (document.getElementById("TextAreaChatLog") != null) {
-			ElementValue("TextAreaChatLog", ChatRoomLog);
+			ElementContent("TextAreaChatLog", ChatRoomLog);
 			ElementScrollToEnd("TextAreaChatLog");
 			ElementFocus("InputChat");
 		}
@@ -288,4 +310,11 @@ function ChatRoomViewProfile() {
 		DialogLeave();
 		InformationSheetLoadCharacter(C);
 	}
+}
+
+// Returns the first character in the room that has a certain name
+function ChatRoomGetCharacterByName(Name) {
+	for (var C = 0; C < ChatRoomCharacter.length; C++)
+		if (ChatRoomCharacter[C].Name == Name)
+			return ChatRoomCharacter[C];
 }
