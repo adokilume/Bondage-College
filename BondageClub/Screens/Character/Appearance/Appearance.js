@@ -332,7 +332,7 @@ function AppearanceRun() {
 		
 		// Creates buttons for all groups	
 		for (var A = CharacterAppearanceOffset; A < AssetGroup.length && A < CharacterAppearanceOffset + CharacterAppearanceNumPerPage; A++)
-			if ((AssetGroup[A].Family == Player.AssetFamily) && (AssetGroup[A].Category == "Appearance")) {
+			if ((AssetGroup[A].Family == Player.AssetFamily) && (AssetGroup[A].Category == "Appearance") && AssetGroup[A].AllowCustomize) {
 				DrawButton(1300, 145 + (A - CharacterAppearanceOffset) * 95, 400, 65, "", "White", "");
 				DrawTextFit(AssetGroup[A].Description + ": " + CharacterAppearanceGetCurrentValue(Player, AssetGroup[A].Name, "Description"), 1500, 178 + (A - CharacterAppearanceOffset) * 95, 396, "Black");
 				var Color = CharacterAppearanceGetCurrentValue(Player, AssetGroup[A].Name, "Color", "");
@@ -449,7 +449,7 @@ function CharacterAppearanceNextColor(C, Group) {
 function CharacterAppearanceMoveOffset(Move) {
 	CharacterAppearanceOffset = CharacterAppearanceOffset + Move;
 	if (CharacterAppearanceOffset > AssetGroup.length) CharacterAppearanceOffset = 0;
-	if (AssetGroup[CharacterAppearanceOffset].Category != "Appearance") CharacterAppearanceOffset = 0;
+	if ((AssetGroup[CharacterAppearanceOffset].Category != "Appearance") || !AssetGroup[CharacterAppearanceOffset].AllowCustomize) CharacterAppearanceOffset = 0;
 	if (CharacterAppearanceOffset < 0) CharacterAppearanceOffset = Math.floor(AssetGroup.length / CharacterAppearanceNumPerPage) * CharacterAppearanceNumPerPage;
 }
 

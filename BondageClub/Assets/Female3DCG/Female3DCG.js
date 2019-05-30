@@ -125,6 +125,7 @@ var AssetFemale3DCG = [
 		Priority: 6,
 		AllowNone: false,
 		Color: ["#6a3628", "#5e481e", "#666666", "#555588", "#558855", "#885555", "#202020", "#aa3333", "#33aa33", "#3333aa", "#aaaa33", "#33aaaa", "#aa33aa"],
+		AllowExpression: ["Closed", "Wink"],
 		Left: 200,
 		Top: 150,
 		FullAlpha: false,
@@ -148,6 +149,7 @@ var AssetFemale3DCG = [
 		Priority: 8,
 		AllowNone: false,
 		Color: ["Default", "#803d26", "#aa5555", "#cc3333", "#55aa55", "#5555aa", "#55aaaa", "#aa55aa", "#aaaa55"],
+		AllowExpression: ["Frown"],
 		Left: 240,
 		Top: 190,
 		Asset: ["Mouth1", "Mouth2", "Mouth3", "Mouth4"]
@@ -279,6 +281,8 @@ var AssetFemale3DCG = [
 		Priority: 7,
 		AllowNone: false,
 		AllowColorize: false,
+		AllowCustomize: false,
+		AllowExpression: ["Raised", "Lowered", "OneRaised", "Harsh", "Soft"],
 		Left: 200,
 		Top: 120,
 		Asset: ["Eyebrows1"]
@@ -289,6 +293,8 @@ var AssetFemale3DCG = [
 		Priority: 5,
 		AllowNone: false,
 		AllowColorize: false,
+		AllowCustomize: false,
+		AllowExpression: ["Low", "Medium", "High"],
 		Left: 195,
 		Top: 155,
 		Asset: ["Blush"]
