@@ -551,3 +551,10 @@ function CharacterCycleFacialExpression(C, AssetGroup) {
 		}
 	}
 }
+
+// Resets the character's facial expression to the default
+function CharacterResetFacialExpression(C) {
+	for (var A = 0; A < C.Appearance.length; A++)
+		if (C.Appearance[A].Asset.Group.AllowExpression)
+			CharacterSetFacialExpression(C, C.Appearance[A].Asset.Group.Name, null);
+}

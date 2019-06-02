@@ -290,7 +290,7 @@ var AssetFemale3DCG = [
 		AllowNone: false,
 		AllowColorize: false,
 		AllowCustomize: false,
-		AllowExpression: ["Raised", "Lowered", "OneRaised", "Harsh", "Soft"],
+		AllowExpression: ["Raised", "Lowered", "OneRaised", "Harsh", "Angry", "Soft"],
 		Left: 200,
 		Top: 120,
 		Asset: ["Eyebrows1"]
