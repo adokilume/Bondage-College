@@ -4,6 +4,8 @@ SourceCharacter uses a NextAsset on DestinationCharacter FocusAssetGroup.
 SourceCharacter setzt NextAsset an DestinationCharacter ein.
 SourceCharacter locks a NextAsset on DestinationCharacter FocusAssetGroup.
 SourceCharacter verschließt NextAsset an DestinationCharacter.
+SourceCharacter adds a NextAsset on DestinationCharacter FocusAssetGroup PrevAsset.
+SourceCharacter bringt ein NextAsset an DestinationCharacters PrevAsset an.
 SourceCharacter removes the PrevAsset from DestinationCharacter FocusAssetGroup.
 SourceCharacter entfernt PrevAsset von DestinationCharacter.
 SourceCharacter unlocks and removes the PrevAsset from DestinationCharacter FocusAssetGroup.

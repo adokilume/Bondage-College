@@ -813,6 +813,8 @@ Zieh alles aus.
 (She blushes and gets fully naked.)  Something kinky is brewing!
 (Sie wird rot und entkleidet sich vollständig.) Hier braut sich was Versautes zusammen!
 ###_PLAYER
+I'll pick out new clothes for you.
+Ich suche neue Kleidung für dich aus.
 Stay like that.
 Bleib so.
 ###_NPC
@@ -2528,7 +2530,7 @@ Very good, I will enforce the rule myself.  I hope you will learn a lesson.
 Sehr gut, ich werde dich persönlich überwachen. Hoffentlich ist dir das eine Lehre.
 ###_PLAYER
 This is too long!
-Das ist zu lange! 
+Das ist zu lange!
 ###_NPC
 My decision stands, and I will enforce the rule myself.  I hope you will learn a lesson.
 Mein Entschluss steht fest und ich werde dich persönlich überwachen. Hoffentlich ist dir das eine Lehre.
