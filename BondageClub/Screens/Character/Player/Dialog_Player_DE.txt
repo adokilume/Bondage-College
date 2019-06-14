@@ -5,6 +5,8 @@ Cannot use on yourself
 Nicht an dir selbst anwendbar
 Remove some clothes first
 Erst ausziehen!
+Remove the suspension first
+Erst das Hängeseil entfernen
 Cancel
 Abbrechen
 Back to character
@@ -129,8 +131,8 @@ SourceCharacter creates a duct tape top on DestinationCharacter and traps her ar
 SourceCharacter wickelt ein Klebeband-Top um DestinationCharacter und fängt ihre Arme darin ein.
 SourceCharacter creates a duct tape mummy on DestinationCharacter and traps her arms in it.
 SourceCharacter mummifiziert DestinationCharacter mit Klebeband und fängt ihre Arme darin ein.
-Select type of cloth gag
-Stoffknebel-Typ wählen
+Select the type of gag
+Knebel-Typ wählen
 Small
 Klein
 Cleave
