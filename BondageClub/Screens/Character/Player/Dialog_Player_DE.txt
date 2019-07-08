@@ -121,7 +121,7 @@ Mit gefesselten Ellbogen ist eine Selbstbefreiung unmöglich
 "Für die Sicherheit Ihrer Liebsten"
 You can restart the timer but cannot unlock
 Das Schloss kann zurückgesetzt, aber nicht entfernt werden.
-"Never forget who you belong too"
+"Never forget who you belong to"
 "Vergiss nie, wem du gehörst"
 Can only be locked or unlocked by her owner
 Kann nur von ihrer Besitzerin verwendet werden
