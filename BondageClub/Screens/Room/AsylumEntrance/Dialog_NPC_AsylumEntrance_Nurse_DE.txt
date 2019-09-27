@@ -1,0 +1,441 @@
+###_NPC
+Lovely gag, but you'll need to get it off if you want to talk with me.
+Lovely gag, but you'll need to get it off if you want to talk with me.
+Ow!  Well done, you're a tough patient.  I'm not letting you out anyway.
+Ow!  Well done, you're a tough patient.  I'm not letting you out anyway.
+You really thought you could beat me?  You trully are mad, little patient.
+You really thought you could beat me?  You trully are mad, little patient.
+Greetings doctor DialogPlayerName.  It's always a pleasure to see you.  Are you working today?
+Greetings doctor DialogPlayerName.  It's always a pleasure to see you.  Are you working today?
+Welcome to the asylum nurse DialogPlayerName.  Our patients are expecting you.  Are you here to work?
+Welcome to the asylum nurse DialogPlayerName.  Our patients are expecting you.  Are you here to work?
+Hello assistant DialogPlayerName.  It's time to get to work for the asylum!
+Hello assistant DialogPlayerName.  It's time to get to work for the asylum!
+It's always a pleasure to take you in patient DialogPlayerName.  Are you checking in again today?
+It's always a pleasure to take you in patient DialogPlayerName.  Are you checking in again today?
+Welcome to the asylum patient DialogPlayerName.  Do you still our help?
+Welcome to the asylum patient DialogPlayerName.  Do you still our help?
+Hello again DialogPlayerName.  Are you here to check in?
+Hello again DialogPlayerName.  Are you here to check in?
+Welcome to the asylum.  Do you need information?
+Welcome to the asylum.  Do you need information?
+###_PLAYER
+I want to learn about the asylum.
+I want to learn about the asylum.
+###_NPC
+In the asylum, you can work as a nurse or commit yourself as a patient.  What would you like to know?
+In the asylum, you can work as a nurse or commit yourself as a patient.  What would you like to know?
+###_PLAYER
+I'd like to commit myself
+I'd like to commit myself
+###_NPC
+You can, but you will lose your nurse status and reputation.  Are you sure about that?
+You can, but you will lose your nurse status and reputation.  Are you sure about that?
+By committing yourself, you will be locked down in the asylum until your time is up.
+By committing yourself, you will be locked down in the asylum until your time is up.
+###_PLAYER
+I'd like to work as a nurse.
+I'd like to work as a nurse.
+###_NPC
+You can, but you will lose your patient status and reputation.  Are you sure about that?
+You can, but you will lose your patient status and reputation.  Are you sure about that?
+Perfect!  We need staff to take care of our patients.  Are you ready to work now?
+Perfect!  We need staff to take care of our patients.  Are you ready to work now?
+###_PLAYER
+I must go.  (Leave her.)
+I must go.  (Leave her.)
+What goes in the asylum?
+What goes in the asylum?
+###_NPC
+The asylum is a place to relax, to forget about your stressful life for a while.  You can get therapies and mingle with patients and nurses.
+The asylum is a place to relax, to forget about your stressful life for a while.  You can get therapies and mingle with patients and nurses.
+###_PLAYER
+Tell me about patients.
+Tell me about patients.
+###_NPC
+Patients willingly commit themselves for a set time.  Until that time is up, they will receive therapies and will be locked in the asylum.
+Patients willingly commit themselves for a set time.  Until that time is up, they will receive therapies and will be locked in the asylum.
+###_PLAYER
+Tell me about nurses.
+Tell me about nurses.
+###_NPC
+Nurses are paid by the asylum to take care of patients.  They give the therapies and strap-up feisty customers.  (She grins.)
+Nurses are paid by the asylum to take care of patients.  They give the therapies and strap-up feisty customers.  (She grins.)
+###_PLAYER
+What are the therapies?
+What are the therapies?
+###_NPC
+There are lots of therapies available, depending on the patient needs.  They are bondage, pain, tickling and orgasm therapies.
+There are lots of therapies available, depending on the patient needs.  They are bondage, pain, tickling and orgasm therapies.
+###_PLAYER
+Can I send my slaves here?
+Can I send my slaves here?
+###_NPC
+Yes, if your submissive doesn't behave the way you want it.  You can send her here to correct her behavior.  Talk with her first.
+Yes, if your submissive doesn't behave the way you want it.  You can send her here to correct her behavior.  Talk with her first.
+###_PLAYER
+Thanks for the information.
+Thanks for the information.
+###_NPC
+My pleasure.  Do you need anything else?
+My pleasure.  Do you need anything else?
+###_PLAYER
+Yes, I want to transfer from nurse to patient.
+Yes, I want to transfer from nurse to patient.
+###_NPC
+Very well.  By committing yourself, you will be locked down in the asylum until your time is up.
+Very well.  By committing yourself, you will be locked down in the asylum until your time is up.
+###_PLAYER
+Let me think about it.
+Let me think about it.
+###_NPC
+Of course.  Do you need anything else?
+Of course.  Do you need anything else?
+###_PLAYER
+I accept to be locked down.
+I accept to be locked down.
+###_NPC
+(She grins.)  Perfect!  First thing first, you need to change and wear patient clothes.
+(She grins.)  Perfect!  First thing first, you need to change and wear patient clothes.
+(She grins.)  Perfect!  But you need to get out of these restraints first.  Go get a maid to help you, I'm busy.
+(She grins.)  Perfect!  But you need to get out of these restraints first.  Go get a maid to help you, I'm busy.
+###_PLAYER
+I'm already dressed like that.
+I'm already dressed like that.
+###_NPC
+(She nods.) For how long do you want to commit yourself?
+(She nods.) For how long do you want to commit yourself?
+###_PLAYER
+Can you help me to change?
+Can you help me to change?
+###_NPC
+I certainly can.  (She helps you to get dressed as a patient.)  For how long do you want to commit yourself?
+I certainly can.  (She helps you to get dressed as a patient.)  For how long do you want to commit yourself?
+###_PLAYER
+15 minutes.
+15 minutes.
+###_NPC
+You're taking it easy don't you?  Very well, step inside.  (She locks the door behind you.)
+You're taking it easy don't you?  Very well, step inside.  (She locks the door behind you.)
+###_PLAYER
+1 hour.
+1 hour.
+###_NPC
+It should give you some time to relax.  Very well, step inside.  (She locks the door behind you.)
+It should give you some time to relax.  Very well, step inside.  (She locks the door behind you.)
+###_PLAYER
+4 hours.
+4 hours.
+###_NPC
+It should give you plenty of time to relax.  Very well, step inside.  (She locks the door behind you.)
+It should give you plenty of time to relax.  Very well, step inside.  (She locks the door behind you.)
+###_PLAYER
+1 day.
+1 day.
+###_NPC
+Good!  I'll prepare a bed for you, step inside.  (She locks the door behind you.)
+Good!  I'll prepare a bed for you, step inside.  (She locks the door behind you.)
+###_PLAYER
+1 week.
+1 week.
+###_NPC
+Impressive!  That's quite a commitment, step inside.  (She locks the door behind you.)
+Impressive!  That's quite a commitment, step inside.  (She locks the door behind you.)
+###_PLAYER
+Where do I start?
+Where do I start?
+###_NPC
+The social room is a good place to start, or get to the beds to relax.  Now get going girl.
+The social room is a good place to start, or get to the beds to relax.  Now get going girl.
+###_PLAYER
+You're locking the door?
+You're locking the door?
+###_NPC
+Don't be afraid, it's for your own good.  Now get going girl, you can explore the asylum freely.
+Don't be afraid, it's for your own good.  Now get going girl, you can explore the asylum freely.
+By wearing this.  (She straps a straitjacket on you.)  Patients like you must be kept under control.  Now carry on, you know the place.
+By wearing this.  (She straps a straitjacket on you.)  Patients like you must be kept under control.  Now carry on, you know the place.
+###_PLAYER
+Here we go again.
+Here we go again.
+###_NPC
+You know the drill.  (She straps a straitjacket on you.)  Patients like you must be kept under control.  Now carry on, you know the place.
+You know the drill.  (She straps a straitjacket on you.)  Patients like you must be kept under control.  Now carry on, you know the place.
+###_PLAYER
+Thanks.  (Leave her.)
+Thanks.  (Leave her.)
+Yes, I want to transfer from patient to nurse.
+Yes, I want to transfer from patient to nurse.
+I'm ready to work right now.
+I'm ready to work right now.
+###_NPC
+Great!  But before you enter, you must wear the nurse uniform.
+Great!  But before you enter, you must wear the nurse uniform.
+No you're not.  (She giggles.)  You're restrained girl.  Go get a maid to help you, I'm busy.
+No you're not.  (She giggles.)  You're restrained girl.  Go get a maid to help you, I'm busy.
+###_PLAYER
+I'm already dressed up.
+I'm already dressed up.
+###_NPC
+Wonderful!  Come inside then, there are lots of patients to take care of.
+Wonderful!  Come inside then, there are lots of patients to take care of.
+(She gives you the nurse clothes.)  Come inside, there are lots of patients to take care of.
+(She gives you the nurse clothes.)  Come inside, there are lots of patients to take care of.
+###_PLAYER
+Thanks!  (Leave her.)
+Thanks!  (Leave her.)
+###_NPC
+If it isn't the famous patient DialogPlayerName.  As usual, I hope your stay in the asylum is going well.
+If it isn't the famous patient DialogPlayerName.  As usual, I hope your stay in the asylum is going well.
+Hello again patient DialogPlayerName.  I hope your stay in the asylum is going well.
+Hello again patient DialogPlayerName.  I hope your stay in the asylum is going well.
+Hello there.  I hope your stay in the asylum is going well.
+Hello there.  I hope your stay in the asylum is going well.
+###_PLAYER
+Can you release me?
+Can you release me?
+###_NPC
+If you're restrained, there must be good reasons.  Think about it.
+If you're restrained, there must be good reasons.  Think about it.
+###_PLAYER
+Release me or I'll scream.
+Release me or I'll scream.
+###_NPC
+(She straps a muzzle gag on you and giggles.)  Scream all you want.
+(She straps a muzzle gag on you and giggles.)  Scream all you want.
+###_PLAYER
+When do I get out of the asylum?
+When do I get out of the asylum?
+###_NPC
+Check the clock girl, it's on the wall behind you.
+Check the clock girl, it's on the wall behind you.
+###_PLAYER
+Can I go out temporarly?
+Can I go out temporarly?
+###_NPC
+No, the rules are strict, you cannot get out until your time is up.
+No, the rules are strict, you cannot get out until your time is up.
+###_PLAYER
+You need to let me out now.
+You need to let me out now.
+###_NPC
+(She frowns and stares at you.)  No!  The rules are the rules!  Do your time.
+(She frowns and stares at you.)  No!  The rules are the rules!  Do your time.
+###_PLAYER
+Fine, I'll do my time.
+Fine, I'll do my time.
+###_NPC
+Alright.  Try to get some rest or make some friends.
+Alright.  Try to get some rest or make some friends.
+###_PLAYER
+(Sigh and cross your arms.)
+(Sigh and cross your arms.)
+###_NPC
+Try to get some rest or make some friends.
+Try to get some rest or make some friends.
+###_PLAYER
+Do I have to force my way out?
+Do I have to force my way out?
+###_NPC
+(She clinches her fists.)  What does it mean?
+(She clinches her fists.)  What does it mean?
+###_PLAYER
+It means war!  (Fight her.)
+It means war!  (Fight her.)
+Nothing, forget it.
+Nothing, forget it.
+###_NPC
+(She grumbles.)  Fine.  Try to get some rest or make some friends.
+(She grumbles.)  Fine.  Try to get some rest or make some friends.
+###_PLAYER
+I'm getting out girl.
+I'm getting out girl.
+###_NPC
+No you're not, they won't let you go patient.
+No you're not, they won't let you go patient.
+###_PLAYER
+I have a plan for that.
+I have a plan for that.
+###_NPC
+Forget it patient, they won't let you go.
+Forget it patient, they won't let you go.
+###_PLAYER
+That's what you think.  (Strip her.)
+That's what you think.  (Strip her.)
+###_NPC
+What are you doing?  I have work to do, it's not a good time to get kinky.
+What are you doing?  I have work to do, it's not a good time to get kinky.
+###_PLAYER
+They will let me go.  (Strip her.)
+They will let me go.  (Strip her.)
+(Stay silent and strip her.)
+(Stay silent and strip her.)
+You'll understand soon.  (Strip.)
+You'll understand soon.  (Strip.)
+###_NPC
+What the hell?  You're not going to rape me are you?
+What the hell?  You're not going to rape me are you?
+###_PLAYER
+Be quiet little nurse.  (Strip.)
+Be quiet little nurse.  (Strip.)
+You're not my type.  (Wear her clothes.)
+You're not my type.  (Wear her clothes.)
+###_NPC
+Don't touch my uniform!  Are you thinking what I'm thinking?
+Don't touch my uniform!  Are you thinking what I'm thinking?
+###_PLAYER
+You're so clueless.  (Wear her clothes.)
+You're so clueless.  (Wear her clothes.)
+(Blush and wear her clothes.)
+(Blush and wear her clothes.)
+You're thinking too much.  (Dress her up.)
+You're thinking too much.  (Dress her up.)
+###_NPC
+(She struggles frenetically.)  Oh no you don't!  You're in deep trouble girl!
+(She struggles frenetically.)  Oh no you don't!  You're in deep trouble girl!
+###_PLAYER
+A patient should relax.  (Dress her up.)
+A patient should relax.  (Dress her up.)
+You will enjoy your stay.  (Dress her up.)
+You will enjoy your stay.  (Dress her up.)
+Let's wrap this.  (Strap her up.)
+Let's wrap this.  (Strap her up.)
+###_NPC
+(You strap her up in a straitjacket and gag her with medical restraints.)  You traitor!
+(You strap her up in a straitjacket and gag her with medical restraints.)  You traitor!
+###_PLAYER
+You will have fun.  (Strap her up.)
+You will have fun.  (Strap her up.)
+Enough talking girl.  (Strap her up.)
+Enough talking girl.  (Strap her up.)
+###_NPC
+(She still struggles maddly and bites hard on her gag.)  Let me out!
+(She still struggles maddly and bites hard on her gag.)  Let me out!
+###_PLAYER
+Have fun struggling!  (Leave her.)
+Have fun struggling!  (Leave her.)
+You were lucky.
+You were lucky.
+###_NPC
+It's not about luck, it's about control.  And you will feel my control.
+It's not about luck, it's about control.  And you will feel my control.
+###_PLAYER
+I'll have my revenge.
+I'll have my revenge.
+###_NPC
+When hell freezes.  Now it's time to control you girl.
+When hell freezes.  Now it's time to control you girl.
+###_PLAYER
+You're really strong.
+You're really strong.
+###_NPC
+(She grins.)  Indeed.  And now it's time to control you girl.
+(She grins.)  Indeed.  And now it's time to control you girl.
+###_PLAYER
+What does that mean?
+What does that mean?
+###_NPC
+(She restrains your arms in a straitjacket and straps it snug.)  That's what it means.
+(She restrains your arms in a straitjacket and straps it snug.)  That's what it means.
+###_PLAYER
+Do your worst.
+Do your worst.
+###_NPC
+(She restrains your arms in a straitjacket and straps it tight.)  You're not getting out of that.
+(She restrains your arms in a straitjacket and straps it tight.)  You're not getting out of that.
+###_PLAYER
+(Stay silent.)
+(Stay silent.)
+###_NPC
+(She restrains your arms in a straitjacket and straps it behind your back.)  This will control you.
+(She restrains your arms in a straitjacket and straps it behind your back.)  This will control you.
+###_PLAYER
+Fuck you!  This is unfair!
+Fuck you!  This is unfair!
+###_NPC
+Such a dirty mouth.  (She straps a muzzle gag on you and smiles.)  Carry on girl, I have work to do.
+Such a dirty mouth.  (She straps a muzzle gag on you and smiles.)  Carry on girl, I have work to do.
+###_PLAYER
+This is tight.
+This is tight.
+###_NPC
+And don't force me to make it tighter.  Now carry on girl, I have work to do.
+And don't force me to make it tighter.  Now carry on girl, I have work to do.
+###_PLAYER
+You will leave me like that?
+You will leave me like that?
+###_NPC
+Absolutely.  Now carry on girl, I have work to do.
+Absolutely.  Now carry on girl, I have work to do.
+###_PLAYER
+(Whimper.)
+(Whimper.)
+###_NPC
+Stop crying girl and carry on, I have work to do.
+Stop crying girl and carry on, I have work to do.
+Wait!  Do I know you?  Who are you?
+Wait!  Do I know you?  Who are you?
+###_PLAYER
+Hello.  I'm DialogPlayerName.
+Hello.  I'm DialogPlayerName.
+###_NPC
+It's you!  You're the patient that escaped.  Get her girls!  (Lots of nurses come to help her.)
+It's you!  You're the patient that escaped.  Get her girls!  (Lots of nurses come to help her.)
+###_PLAYER
+Know me?  It's my first visit here.
+Know me?  It's my first visit here.
+###_NPC
+I know!  You're the patient that escaped.  Get her girls!  (Lots of nurses come to help her.)
+I know!  You're the patient that escaped.  Get her girls!  (Lots of nurses come to help her.)
+###_PLAYER
+You should know me.  (Grin.)
+You should know me.  (Grin.)
+###_NPC
+You're the patient that escaped.  Get her girls!  (Lots of nurses come to help her.)
+You're the patient that escaped.  Get her girls!  (Lots of nurses come to help her.)
+###_PLAYER
+Uh oh.  I must go.  (Leave her.)
+Uh oh.  I must go.  (Leave her.)
+You're mistaken.
+You're mistaken.
+###_NPC
+(They quickly jump on you, force you to dress as a patient and strap you tight in a straitjacket.)
+(They quickly jump on you, force you to dress as a patient and strap you tight in a straitjacket.)
+###_PLAYER
+What's going on?
+What's going on?
+(Try to fight them.)
+(Try to fight them.)
+###_NPC
+(They quickly overpower you, force you to dress as a patient and strap you tight in a straitjacket.)
+(They quickly overpower you, force you to dress as a patient and strap you tight in a straitjacket.)
+###_PLAYER
+What the hell?
+What the hell?
+###_NPC
+Welcome back patient, I'm sure your next week here will teach you a lesson.
+Welcome back patient, I'm sure your next week here will teach you a lesson.
+###_PLAYER
+That's unfair!
+That's unfair!
+###_NPC
+It's very fair.  Welcome back patient, I'm sure your next week here will teach you a lesson.
+It's very fair.  Welcome back patient, I'm sure your next week here will teach you a lesson.
+###_PLAYER
+One week?  Are you insane?
+One week?  Are you insane?
+###_NPC
+From your current look, I'd say you're the insane one.  (She giggles.)  Now carry on, I have work to do.
+From your current look, I'd say you're the insane one.  (She giggles.)  Now carry on, I have work to do.
+###_PLAYER
+Yes Miss.  (Bow your head.)
+Yes Miss.  (Bow your head.)
+###_NPC
+Good girl.  (She smirks.)  Now carry on, I have work to do.
+Good girl.  (She smirks.)  Now carry on, I have work to do.
+###_PLAYER
+Fine.  I'll do it.
+Fine.  I'll do it.
+###_NPC
+Very well.  (She smiles.)  Now carry on, I have work to do.
+Very well.  (She smiles.)  Now carry on, I have work to do.
