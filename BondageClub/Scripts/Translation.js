@@ -44,7 +44,10 @@ var TranslationDictionary = [
 			"Screens/Online/ChatRoom/Dialog_Online_DE.txt",
 			"Screens/Online/ChatRoom/Text_ChatRoom_DE.txt",
 			"Screens/Online/ChatSearch/Text_ChatSearch_DE.txt",
+			"Screens/Room/AsylumBedroom/Text_AsylumBedroom_DE.txt",
 			"Screens/Room/AsylumEntrance/Dialog_NPC_AsylumEntrance_Nurse_DE.txt",
+			"Screens/Room/AsylumMeeting/Dialog_NPC_AsylumMeeting_PatientLeft_DE.txt",
+			"Screens/Room/AsylumMeeting/Dialog_NPC_AsylumMeeting_PatientRight_DE.txt",
 			"Screens/Room/AsylumEntrance/Text_AsylumEntrance_DE.txt",
 			"Screens/Room/Cell/Text_Cell_DE.txt",
 			"Screens/Room/Gambling/Dialog_NPC_Gambling_FirstSub_DE.txt",
@@ -86,6 +89,7 @@ var TranslationDictionary = [
 			"Screens/Room/Shop/Text_Shop_DE.txt",
 			"Screens/Room/SlaveMarket/Dialog_NPC_SlaveMarket_Mistress_DE.txt",
 			"Screens/Room/SlaveMarket/Dialog_NPC_SlaveMarket_Slave_DE.txt",
+			"Screens/Room/SlaveMarket/Dialog_NPC_SlaveMarket_SlaveToTrain_DE.txt",
 			"Screens/Room/Stable/Dialog_NPC_Stable_Pony_DE.txt",
 			"Screens/Room/Stable/Dialog_NPC_Stable_Trainer_DE.txt",
 			"Screens/Room/Stable/Text_Stable_DE.txt"
