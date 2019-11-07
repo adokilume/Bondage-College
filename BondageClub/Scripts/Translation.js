@@ -140,6 +140,18 @@ var TranslationDictionary = [
 			"Screens/Room/MainHall/Dialog_NPC_MainHall_Maid_FR.txt",
 			"Screens/Room/MainHall/Text_MainHall_FR.txt"
 		]
+	},
+	{
+		LanguageCode: "RU",
+		LanguageName: "Русский",
+		EnglishName: "Russian",
+		Files: [
+			"Screens/Character/Appearance/Text_Appearance_RU.txt",
+			"Screens/Character/Login/Text_Login_RU.txt",
+			"Screens/Character/Title/Text_Title_RU.txt",
+			"Screens/Room/AsylumBedroom/Text_AsylumBedroom_RU.txt",
+			"Screens/Room/AsylumEntrance/Text_AsylumEntrance_RU.txt"
+		]
 	}
 
 ];
