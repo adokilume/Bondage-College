@@ -149,8 +149,13 @@ var TranslationDictionary = [
 			"Screens/Character/Appearance/Text_Appearance_RU.txt",
 			"Screens/Character/Login/Text_Login_RU.txt",
 			"Screens/Character/Title/Text_Title_RU.txt",
+			"Screens/Online/ChatAdmin/Text_ChatAdmin_RU.txt",
+			"Screens/Online/ChatCreate/Text_ChatCreate_RU.txt",
+			"Screens/Online/ChatRoom/Text_ChatRoom_RU.txt",
+			"Screens/Online/ChatSearch/Text_ChatSearch_RU.txt",
 			"Screens/Room/AsylumBedroom/Text_AsylumBedroom_RU.txt",
-			"Screens/Room/AsylumEntrance/Text_AsylumEntrance_RU.txt"
+			"Screens/Room/AsylumEntrance/Text_AsylumEntrance_RU.txt",
+			"Screens/Room/Cell/Text_Cell_RU.txt"
 		]
 	}
 
