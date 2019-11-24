@@ -29,25 +29,25 @@ Mistress Top
 Puffy Baby Dress
 пышное детское платье
 Bows Baby Dress
-детсоке платье с бантиком
+детсоке платье с бантиками
 Flower Baby dress
-детсоке платье в цветочек
+детсоке платье с цветком
 Nurse Uniform
 униформа медсестры
 Bunny Girl Accessories
 Аксессуары Для Девочек-Зайчиков
 Robe
-платье
+халат
 Suspender Top
-верх подвеса
+верх подвязка
 Leather Corset Top
 Кожаный Корсет
 Flower Dress
 Цветочное Платье
 Nomadic Dress
-одежда бродяги
+одежда кочевника
 Lace Babydoll
-кружевная куколка
+гипюровая куколка
 Sleeveless Top
 верх без руковов
 Dress with Fur
@@ -59,9 +59,9 @@ Yukata
 Steampunk Corset
 Корсет Стимпанк
 Bondage Dress Style 1
-Бондаж Платье Стиль 1
+Платье  БондажСтиль 1
 Bondage Dress Style 2
-Бондаж Платье Стиль 2
+Платье Бондаж Стиль 2
 Bottom
 Низ
 Skirt
@@ -79,7 +79,7 @@ Bondage Waspie
 Royal Waspie
 Королевский Пояс
 Straps Waspie
-Ремни Пояс
+Ременной Пояс
 Latex Pants
 Латексные Брюки
 Latex Skirt
@@ -103,7 +103,7 @@ Lace and Satin
 Strapless
 Без бретелек
 Bandeau
-Оголовье
+Повязка
 Satin Bustier
 Атласное Без бретелек
 Corset + Garters
@@ -111,9 +111,9 @@ Corset + Garters
 Corset
 Корсет
 Half Cup Corset
-Половина чашки корсета
+корсет с половинными чашками
 Under Bust Corset
-Под грудь Корсет
+Корсет под грудь 
 Floral Corset
 Цветочный корсет
 Frilled Bikini
@@ -143,7 +143,7 @@ Cute Bikini
 Corset Bikini
 Корсет Бикини
 Ouvert Perl
-открытый язык
+открытый
 Sarashi
 Сараши
 Kitty Bra
@@ -161,7 +161,7 @@ Satin Bikini
 High Cut
 Высокий Вырез
 Thong
-Ремень
+Трусики
 Diapers
 Подгузники
 Frill Panties
@@ -171,13 +171,13 @@ Maid Panties
 Latex Panties
 Латексные Трусики
 Wrap Panties
-Обворащивающие Трусики
+Обворачивающие Трусики
 Crotchless Briefs
 Трусы Без Промежности
 G-String Panties
 Трусики-Стринги
 G-String Pasty
-Стринги одутловатые
+G-Стринги
 Zip-String Panties
 Трусики на молнии
 Kitty Panties
@@ -185,7 +185,7 @@ Kitty Panties
 Pearl String
 Жемчужная Нить
 Sunstripe Panties
-Трусики В Полоску
+Трусики из ремней
 Socks
 Носки
 Ankle
@@ -231,9 +231,9 @@ Mistress Boots
 Pony Boots
 Сапоги Пони
 Strap Sandals
-Ремень Сандалии
+Сандалии с ремешками
 Paw Boots
-Лапоть Сапоги
+Сапоги Лапы
 Woolly Boots
 Вязаные Сапоги
 Hat
@@ -271,27 +271,27 @@ Hair Ribbon 1
  Giant Bow 1
  Гигантский Бант 1
 Bunny Ears
-Bunny Ears
+Кроличьи Ушки
 Floppy Bunny Ears
-Floppy Bunny Ears
+Гибкие Кроличьи Ушки
 Puppy Ears
-Puppy Ears
+Уши Щенка
 Succubus Horns
-Succubus Horns
+Рога Суккуба
 Horns
-Horns
+Рога
 Horns 2
-Horns 2
+Рога 2
 Horns 3
-Horns 3
+Рога 3
  Flower
- Flower
+ Цветок
 Fox Ears Small
-Fox Ears Small
+Лисьи Уши Маленькие
 Small Bat Wings
-Small Bat Wings
+Маленькие Крылья Летучей Мыши
 Full Kitty Mask
-Full Kitty Mask
+Полная Маска Кошечки
 Gloves
 Перчатки
 Short Gloves
@@ -299,11 +299,11 @@ Short Gloves
 Long Gloves
 длинные перчатки
 Mistress Gloves
-Mistress Gloves
+Перчатки Госпожи
 Fingerless Gloves
-Fingerless Gloves
+Перчатки Без Пальцев
 Gloves with Fur
-Gloves with Fur
+Перчатки с мехом
 Glasses
 Очки
 Style 5
@@ -311,51 +311,51 @@ Style 5
 Style 6
 Стиль 6
 Sunglasses 1
-Sunglasses 1
+Солнцезащитные очки 1
 Sunglasses 2
-Sunglasses 2
+Солнцезащитные очки 2
 Venetian Mask
-Venetian Mask
+Венецианская маска
 Domino Mask
-Domino Mask
+Маска Домино
 Butterfly Mask
-Butterfly Mask
+Маска Бабочки
 Eye Patch
-Eye Patch
+повязка на глаза
 Tail Strap
-Хвостовой Ремень
+Ремень с хвостом
 Kitty Tail Strap
-Kitty Tail Strap
+Хвост котенка
 Horse Tail Strap
-Horse Tail Strap
+Хвост лошади
 Fox Tails Strap
-Fox Tails Strap
+Хвост лисы
 Puppy Tail Strap
-Puppy Tail Strap
+Хвост щенка
 Succubus Tail Strap
-Succubus Tail Strap
+Хвост суккубы
 Succubus2 Tail Strap
-Succubus2 Tail Strap
+Хвост суккубы 2
 Raccoon Tail Strap
-Raccoon Tail Strap
+Хвост енота
 Raccoon2 Tail Strap
-Raccoon2 Tail Strap
+Хвост енота 2
 Wings
 Крылья
 Succubus Feather 
-Succubus Feather 
+Перо Суккуба 
 Succubus Wings
-Succubus Wings
+Крылья Суккуба
 Angel Feather
-Angel Feather
+Перо Ангела
 Devil Wings
-Devil Wings
+Крылья Дьявола
 Fallen Angel Wings
-Fallen Angel Wings
+Крылья Падшего Ангела
 Angel Wings
-Angel Wings
+Крылья ангела
 Bat Wings
-Bat Wings
+Крылья Летучей Мыши
 Upper Body
 верхняя часть тела
 Small
@@ -417,462 +417,462 @@ Dark 2
 Dark 3
 Темная 3
 Eyebrows
-Eyebrows
+Брови
 Blush
-Blush
+Румянец
 Feet
-Feet
+Ступни
 Nylon Rope
-Nylon Rope
+нейлоновая веревка
 Hemp Rope
-Hemp Rope
+пеньковая веревка
 Leather Belt
-Leather Belt
+кожаный ремень
 Sturdy Leather Belt
-Sturdy Leather Belt
+Прочный Кожаный Ремень
 Irish 8 Feet Cuffs
-Irish 8 Feet Cuffs
+Манжеты для ступней
 Suspension Hemp Rope
-Suspension Hemp Rope
+Подвеска Пенькового Каната
 Duct Tape
-Duct Tape
+клейкая лента
 Leather Ankle Cuffs
-Leather Ankle Cuffs
+Кожаные Манжеты для Щиколоток
  Metal Leg Spreader
- Metal Leg Spreader
+Металическая распорка
 Ball And Chain
-Ball And Chain
+Ядро на цепи
  Ankle Shackles
- Ankle Shackles
+Кандалы На Лодыжки
 Legs
-Legs
+Ноги
 Leather Leg Cuffs
-Leather Leg Cuffs
+Кожаные наножники
 Leg Binder
-Leg Binder
+Стяжка для ног
 Hobble Skirt
-Hobble Skirt
+узкая юбка
 Wooden Horse
-Wooden Horse
+Деревянная лошадь
 Vulva
-Vulva
+Вульва
 Vibrating Egg
-Vibrating Egg
+Вибрирующее Яйцо
 Vibrating Wand
-Vibrating Wand
+Вибруящая палочка
 Vibrating Items Remote
-Vibrating Items Remote
+Дистанционная виброигрушка
 Vibrating Latex Panties
-Vibrating Latex Panties
+Вибрирующие Латексные Трусики
 Wand Belt
-Wand Belt
+Ремнь для палочки
 Vibrating Dildo
-Vibrating Dildo
+Вибрационный Фаллоимитатор
 Inflatable Vibrating Dildo
-Inflatable Vibrating Dildo
+Надувной Вибрационный Фаллоимитатор
 Clit Suction Cup
-Clit Suction Cup
+присоска для клитора
 Tape Strips
-Tape Strips
+Ленты
 Pair Of Ben Wa Balls
-Pair Of Ben Wa Balls
+пара вагинальных шариков
 Clit
-Clit
+Клитор
 Straight Clit Piercing
-Straight Clit Piercing
+Прямой Клитор Пирсинг
 Round Clit Piercing
-Round Clit Piercing
+Круглый Клитор Пирсинг
 Weighted Clit Piercing
-Weighted Clit Piercing
+Утяжеленный Клитор Пирсинг
 Barbell Clit Piercing
-Barbell Clit Piercing
+Клитор Пирсинг гантелька
 Chastity Clit Piercing
-Chastity Clit Piercing
+Клитор Пирсинг Целомудрие 
 Chastity Clit Shield
-Chastity Clit Shield
+Клитор Пирсинг Щит целомудрия
 Jewel Clit Piercing
-Jewel Clit Piercing
+Клитор Пирсинг с Драгоценным камнем 
 Adorned Clit Piercing
-Adorned Clit Piercing
+Украшенный Клитор Пирсинг
 Butt
-Butt
+Попа
 Black Butt Plug
-Black Butt Plug
+Черная Анальная Пробка
 Kitty Butt Plug
-Kitty Butt Plug
+Анальная Пробка с хвостом кошки
 Horse Butt Plug
-Horse Butt Plug
+Анальная Пробка с хвостом лошади
 Puppy Butt Plug
-Puppy Butt Plug
+Анальная Пробка с хвостом щенка
 Succubus Butt Plug
-Succubus Butt Plug
+Анальная Пробка с хвостом суккубы
 Succubus Tail
-Succubus Tail
+Хвост Суккуба
 Fox Tails
-Fox Tails
+Хвост лисы
 Raccoon Butt Plug
-Raccoon Butt Plug
+Анальная Пробка с хвостом енота
 Raccoon Tail Plug
-Raccoon Tail Plug
+пробка хвост енота
 Anal Beads
-Anal Beads
+Анальные Шарики
 Butt Pump
-Butt Pump
+Анальная Помпа
 Vibrating Butt Plug
-Vibrating Butt Plug
+ВиброАнальная Пробка 
 Inflatable Vibrating Butt Plug
-Inflatable Vibrating Butt Plug
+Надувная ВиброАнальная Пробка 
 Anal Hook
-Anal Hook
+Анальный Крюк
 Pelvis
-Pelvis
+Таз
 Strap-On Panties
-Strap-On Panties
+Страпон-На Трусики
 Leather Chastity Belt
-Leather Chastity Belt
+Кожаный Пояс Верности
 Studded Chastity Belt
-Studded Chastity Belt
+Шипованный Пояс Верности
 Metal Chastity Belt
-Metal Chastity Belt
+Металлический Пояс Верности
 Polished Chastity Belt
-Polished Chastity Belt
+Полированный Пояс Верности
 Love Chastity Belt
-Love Chastity Belt
+Пояс Верности Любви
 Leather Crop
-Leather Crop
+Кожаный Стек
 Leather Whip
-Leather Whip
+Кожаный кнут
 Spanking Toys
-Spanking Toys
+Игрушки для порки
 Torso
-Torso
+Туловище
 Leather Harness
-Leather Harness
+Кожаная Сбруя
 Adult Baby Harness
-Adult Baby Harness
+Сбруя для взрослого ребенка
 Nipples
-Nipples
+Соски
 Nipple Clamps
-Nipple Clamps
+Зажимы Для Сосков
 Vibrating Nipple Clamps
-Vibrating Nipple Clamps
+ВиброЗажимы Для Сосков
 Vibrating Clamps Remote
-Vibrating Clamps Remote
+ВиброЗажимы Дистанционные
 Chain Clamp
-Chain Clamp
+Зажимы с цепочкой
 Screw Clamps
-Screw Clamps
+винтовой зажим
 Chain Tassles
-Chain Tassles
+кисточки на цепочке
 Heart Pasties
-Heart Pasties
+накладки с сердечками
 Taped Vibrating Eggs
-Taped Vibrating Eggs
+Вибрирующие Яйца
 Nipple Suction Cups
-Nipple Suction Cups
+Присоски Для Сосков
 Pair Of Nipple Tapes
-Pair Of Nipple Tapes
+Пара Лент для сосков
 Chopstick Nipple Clamps
-Chopstick Nipple Clamps
+зажимы для сосков из палочек для еды
 Kitty Pasties
-Kitty Pasties
+накладки с кошечками
 Clothespins
-Clothespins
+Прищепки
 Straight Piercings
-Straight Piercings
+Прямой Пирсинг
 Round Piercings
-Round Piercings
+Круглый Пирсинг
 Weighted Piercing
-Weighted Piercing
+Утяжеленный Пирсинг
 Nipple Jewels
-Nipple Jewels
+Драгоценности для сосков
 Nipple Jewel Piercings
-Nipple Jewel Piercings
+Драгоценный пирсинг для сосков
 Barbell Piercing
-Barbell Piercing
+Пирсинг гантелька
 Breast
-Breast
+Грудь
 Metal Chastity Bra
-Metal Chastity Bra
+Бюстгальтер Целомудрия Металл
 Polished Chastity Bra
-Polished Chastity Bra
+Бюстгальтер Целомудрия полиров
 Arms
-Arms
+Обьтья
 Metal Cuffs
-Metal Cuffs
+Металлические Манжеты
 Leather Armbinder
-Leather Armbinder
+Кожаный амбидекстер
 Armbinder Jacket
-Armbinder Jacket
+Куртка-амбидекстер
 Leather Cuffs
-Leather Cuffs
+Кожаные Манжеты
 Mittens Chain
 Mittens Chain
 Four Limbs Shackles
 Four Limbs Shackles
 Manacles
-Manacles
+Оковы
 Full Body Shackles
-Full Body Shackles
+Кандалы Для Всего Тела
 Wrist Shackles
-Wrist Shackles
+Наручные Кандалы
 Latex Strait Leotard
-Latex Strait Leotard
+Латексный узкий купальник
 Straitjacket
-Straitjacket
+Смирительная рубашка
 Leather Straitjacket
-Leather Straitjacket
+Кожаная Смирительная Рубашка
 Bolero Straitjacket
-Bolero Straitjacket
+Смирительная рубашка-жакет
 Pet Suit
-Pet Suit
+Костюм питомца
 Holding Leash
-Holding Leash
+Удерживающий Поводок
 Strait Dress
-Strait Dress
+Узкое Платье 
 Open Crotch Strait Dress
-Open Crotch Strait Dress
+Узкое Платье с вырезом
 Padded Mittens
-Padded Mittens
+Варежки с набивкой
 Paw Mittens
-Paw Mittens
+Рукавицы Для Лап
 Leather Mittens
-Leather Mittens
+Кожаные Варежки
 Padded Leather Mittens
-Padded Leather Mittens
+Варежки Из Мягкой Кожи
 Polished Steel Mittens
-Polished Steel Mittens
+Рукавицы Из Полированной Стали
 Crop
-Crop
+Стек
 Flogger
-Flogger
+Флогер
 Cane
-Cane
+Трость
 Heart Crop
-Heart Crop
+Стек-сердце
 Paddle
-Paddle
+Падл
 Whip Paddle
-Whip Paddle
+Кнут падл
 Whip
-Whip
+Кнут
 Cattle Prod
-Cattle Prod
+Электрошокер
 Tennis Racket
-Tennis Racket
+теннисная ракетка
 Neck
-Neck
+Шея
 Leather Collar
-Leather Collar
+кожаный ошейник
 Bell Collar
-Bell Collar
+Ошейник с колокольчиком
 Bow Collar
-Bow Collar
+Ошейник с бантом
 Slave Collar
-Slave Collar
+Рабский Ошейник
 Club Slave Collar
-Club Slave Collar
+Клубный Рабский Ошейник
 Shock Collar
-Shock Collar
+шоковый ошейник
 Shock Collar Remote
-Shock Collar Remote
+шоковый ошейник дистанционный
 Bat Collar
-Bat Collar
+Ошейник Летучая Мышь
 Posture Collar
-Posture Collar
+Ошейник позиционнирующий
 Steel Collar
-Steel Collar
+Стальной ошейник
 Spike Collar
-Spike Collar
+Шипованый ошейник
 High Collar
-High Collar
+высокий ошейник
 Leather Choker
-Leather Choker
+кожаный чокер
 Pet Collar
-Pet Collar
+ошейник для питомца
 Maid Collar
-Maid Collar
+Ошейник горничьной
 Bordelle Collar
-Bordelle Collar
+ошейник для борделя
 Lover Leather Collar
-Lover Leather Collar
+Кожаный Ошейник любовницы
 Collar
-Collar
+Ошейник
 Bell
-Bell
+колокольчик
 Bow
-Bow
+Бант
 Shock Unit
-Shock Unit
+шокирующие устройство
 Long Chain
-Long Chain
+длинная цепочка
 Short Chain
-Short Chain
+короткая цепочка
 Leash
-Leash
+поводок
 Pulled Leash
-Pulled Leash
+поводок с натяжкой
 Name Tag
-Name Tag
+Беэдж
 Moon
-Moon
+Полумесяц
 Cloth Gag
-Cloth Gag
+Тканевый Кляп
 Wiffle Ball Gag
-Wiffle Ball Gag
+Кляп Бейсбольный Мяч 
 Harness Ball Gag
-Harness Ball Gag
+Кляп-шар со сбруей
 Harness Panel Gag
-Harness Panel Gag
+Кляп-панель со сбруей
 Ring Gag
-Ring Gag
+Кляп-кольцо
 Pacifier
-Pacifier
+Пустышка
 Harness Pacifier
-Harness Pacifier
+Пустышка со сбруей
 Duster Gag
-Duster Gag
+Тряпочный Кляп
 Bit Gag
-Bit Gag
+Кусочек кляпа
 Pump Gag
-Pump Gag
+Накачиваемый кляп
 Kitty Mask Gag
-Kitty Mask Gag
+Кляп-маска кошечка
 Kitty Harness Gag
-Kitty Harness Gag
+Кляп кошечка со сбруей
 Rubber Carrot Gag
-Rubber Carrot Gag
+Кляп резиновая морковь
 Muzzle Gag
-Muzzle Gag
+Кляп намордник
 Neck Corset Gag
-Neck Corset Gag
+Шейный Корсет Кляп
 Sleeping Pill
-Sleeping Pill
+снотворное
 Panties Mask
-Panties Mask
+Трусики Маска
 Plug Gag
-Plug Gag
+Кляп пробка
 Dildo Gag
-Dildo Gag
+Кляп Фаллоимитатор 
 Bone Gag
-Bone Gag
+Кляп Кость 
 Chopstick Gag
-Chopstick Gag
+Кляп из Палочек
 Bamboo Gag
-Bamboo Gag
+Бамбуковый Кляп
 Harness Ball Gag XL
-Harness Ball Gag XL
+Кляп-шар XL со сбруей
 Pumpkin Gag
-Pumpkin Gag
+Кляп Тыква
 Lips Gag
-Lips Gag
+Кляп Губы
 Spider Gag
-Spider Gag
+Кляп-Паук
 Cloth Stuffing
-Cloth Stuffing
+Моток Ткани
 Scarf
-Scarf
+Шарф
 Lewd Gag
-Lewd Gag
+Развратный Кляп
 Head
-Head
+Голова
 Cloth Blindfold
-Cloth Blindfold
+Тканевая повязка
 Leather Blindfold
-Leather Blindfold
+Кожаная повязка
 Leather Hood
-Leather Hood
+Кожаный капюшон
 Leather Hood Eyes
-Leather Hood Eyes
+Кожаный капюшон с глазами
 Studded Blindfold
-Studded Blindfold
+Шипованная повязка
 Kitty Blindfold
-Kitty Blindfold
+Повязка кошечка
 Small Blindfold
-Small Blindfold
+Маленькая повязка
 Leather Hood Mouth
-Leather Hood Mouth
+Кожаный капюшон с ртом
 Full Blindfold
-Full Blindfold
+Цельная повязка
 Sensory Deprivation Hood
-Sensory Deprivation Hood
+Капюшон Сенсорной Депривации
 Open Hair Latex Hood
-Open Hair Latex Hood
+Латексный капюшон для волос
 Sealed Leather Hood
-Sealed Leather Hood
+Герметичный Кожаный капюшон
 Polished Steel Hood
-Polished Steel Hood
+Полированный стальной капюшон
 Sack Hood
-Sack Hood
+Мешок Капюшон
 Lewd Blindfold
-Lewd Blindfold
+Похотливая Повязка
 Ears
-Ears
+Уши
 Light Duty Ear Plugs
-Light Duty Ear Plugs
+Легкие Беруши
 Heavy Duty Ear Plugs
-Heavy Duty Ear Plugs
+Сверхмощные Беруши
 Headphone Ear Plugs
-Headphone Ear Plugs
+Разъемы Для Наушников
 Misc Items
-Misc Items
+Разные Предметы
 Metal Padlock
-Metal Padlock
+Металлический Висячий Замок
 Intricate Padlock
-Intricate Padlock
+Замысловатый Висячий Замок
 Five Minutes Padlock
-Five Minutes Padlock
+Пятиминутный Висячий Замок
 Owner Padlock
-Owner Padlock
+Навесной Замок Владелеца 
 Mistress Padlock
-Mistress Padlock
+Висячий Замок Госпожи
 Metal Padlock Key
-Metal Padlock Key
+Металлический Ключ
 Intricate Padlock Key
-Intricate Padlock Key
+Замысловатый ключ
 Owner Padlock Key
-Owner Padlock Key
+Ключ Владельца
 Mistress Padlock Key
-Mistress Padlock Key
+Ключ Госпожи
 Metal Cuffs Key
-Metal Cuffs Key
+Металлический Ключ для Манжет 
 Wooden Maid Tray
-Wooden Maid Tray
+Деревянный Поднос Горничной
 Wooden Maid Tray Full
-Wooden Maid Tray Full
+Деревянный Поднос Горничной Полный
 Wooden Paddle
-Wooden Paddle
+Деревянная Лопатка
 Body
-Body
+Тело
 Wooden Box
-Wooden Box
+деревянный ящик
 Small Wooden Box
-Small Wooden Box
+Маленький  деревянный ящик
 Water filled milk can 
-Water filled milk can 
+Заполненная водой банка молока 
 Water torture Cell
-Water torture Cell
+Ячейка для пыток водой
 Stand up cage
-Stand up cage
+Ростовая клетка
 Kennel
-Kennel
+конура
 Saddle Stand
-Saddle Stand
+Седельная Стойка
 Burlap Sack
-Burlap Sack
+холщевый мешок
 Inflatable Body Bag
-Inflatable Body Bag
+Надувной мешок для тела
 Teddy Bear Set
-Teddy Bear Set
+набор плюшевых мишек
 One Bar Prison
-One Bar Prison
+Одиночная стойка
 Ballet Heels
-Ballet Heels
+Балетные Каблуки
 Ballet Wedges
-Ballet Wedges
+Балетные Клинья
 Metal Toe Cuffs
-Metal Toe Cuffs
+Металлические Манжеты на пальцы ног
 Leather Toe Cuffs
-Leather Toe Cuffs
+Кожаные Манжеты на пальцы ног
 Toe Tie
-Toe Tie
+стяжка на пальцы ног

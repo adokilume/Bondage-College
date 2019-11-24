@@ -155,6 +155,7 @@ var TranslationDictionary = [
 			"Screens/Character/Login/Text_Login_RU.txt",
 			"Screens/Character/OnlineProfile/Text_OnlineProfile_RU.txt",
 			"Screens/Character/PasswordReset/Text_PasswordReset_RU.txt",
+			"Screens/Character/Player/Dialog_Player_RU.txt",
 			"Screens/Character/Preference/Text_Preference_RU.txt",
 			"Screens/Character/Title/Text_Title_RU.txt",
 			"Screens/Character/Wardrobe/Text_Wardrobe_RU.txt",
@@ -185,6 +186,8 @@ var TranslationDictionary = [
 			"Screens/Room/Photographic/Text_Photographic_RU.txt",
 			"Screens/Room/Prison/Text_Prison_RU.txt",
 			"Screens/Room/Private/Text_Private_RU.txt",
+			"Screens/Room/Shop/Dialog_NPC_Shop_Customer_RU.txt",
+			"Screens/Room/Shop/Dialog_NPC_Shop_Vendor_RU.txt",
 			"Screens/Room/Shop/Text_Shop_RU.txt",
 			"Screens/Room/Stable/Text_Stable_RU.txt"
 		]

@@ -1,4 +1,9 @@
-﻿None
+﻿Name:
+Имя:
+Title:
+Титул:
+None
+Нет
 Mistress
 Госпожа
 Club Slave
@@ -44,13 +49,13 @@ Member Number:
 -
 -
 Lover:
-Любитель:
+Возлюбленная
 Owner:
 Владелец:
 Money:
 Деньги:
 Member for
-Член для
+Член в течении
 Friends for
 Друзья для
 On trial for

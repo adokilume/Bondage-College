@@ -42,7 +42,7 @@ Indoor Pool
 Крытый бассейн
 Outdoor Pool
 Открытый бассейн
-Maid Cafe
+Maid Café
 Горничная Кафе
 Public Bath
 Общественная Баня
@@ -68,8 +68,8 @@ Abandoned Building
 Заброшенное Здание
 Balcony Night
 Балкон Ночью
- Cozy Living Room
- Уютная Гостиная
+Cozy Living Room
+Уютная Гостиная
 Rooftop Party
 Вечеринка На Крыше
 Entrance
